@@ -1,88 +1,78 @@
 import React from "react"
-import { graphql } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Twitter, LinkedIn, GitHub, Email } from '../components/social'
 
 class AboutPage extends React.Component {
   render() {
-    const { data } = this.props
-
-// export default function About({ data }) {
-//   const page = data.markdownRemark
-  // const siteTitle = page.frontmatter.title
 
     return (
       <Layout title="About">
-        <SEO title="About Alan Hylands" />
+        <SEO title="About" />
+        <div className="Hero ContactHero">
+          <h1>About</h1>
+      </div>
 
         <div className="Column">
           <div className="MainContent">
-            <div className="u-textCenter">
-              <img
-                style={{
-                  maxWidth: 240,
-                  borderRadius: '50%',
-                }}
-                src="/alan-tuscany.jpg" alt="Alan Hylands in Tuscany, July 2017"
-              />
-            </div>
-            <div className="u-textLeft">
-                  
-              <h1>My story.</h1>
 
-              <h2>Who I am.</h2>
+          <div className="u-textCenter">
 
-              My name is <strong>Alan Hylands</strong> and I am a <strong>writer, data consultant and developer</strong> from Northern Ireland.
+          <h2>What is Cura Fitness?</h2>
+          <hr className="style1" />
 
-              <h2>What I've done.</h2>
+          </div>
 
-              I've worked in <strong>tech, data and analytics</strong> for nearly 20 years - building, reporting, analysing, managing and mentoring.
+          <div className="u-textLeft">
 
-              <h2>I have:</h2>
-
-              <ul>
-                <li>Helped nurses provide better care for their patients by more accurately recording and reporting their treatments.</li>
-                <li>Allowed small local businesses to successfully sell their goods to all four corners of the globe from the comfort of their own homes.</li>
-                <li>Kept the savings of hundreds of thousands of ordinary people safe when the dark clouds of the financial crash loomed over us all.</li>
-                <li>Built Customer Lifetime Value models to segment customer bases and get to know the best customers better.</li>
-                <li>And much, much more (that I'm not allowed to tell about. <em>Good old corporate NDAs.</em>)</li>
-              </ul>
-
-              <h2>A little more background.</h2>
-
-              I studied <strong>Accounting</strong> at university and planned for a future in finance.
+            <div className="row">
+              <div className="col-6">
+              <h3>What do you do?</h3>
+              Cura Fitness is a female only boutique fitness studio based in Banbridge, County Down, Northern Ireland.
               <br /><br />
-              Then I found the <strong>internet, programming and databases</strong>.
-              <br /><br />
-              I started my first <strong>e-commerce</strong> development agency in 2003. Since then I have worked on a number of small business start-ups in e-commerce, analytics, marketing, online research and content marketing.
-              <br /><br />
-              <a href="https://alanhylands.com/i-want-to-be-a-football-writer-when-i-grow-up/">I started a successful football website</a> which gave me the opportunity to write professionally for the <strong>New York Times Company</strong>.
-              <br /><br />
-              Quite unexpectedly, I was seduced into the corporate world of <strong>banking and financial services</strong> in the boom-time mid-noughties.
-              <br /><br />
-              I spent over twelve years running <strong>Data and Analytics projects</strong> for a large UK and Ireland banking group. I worked my way up through the ranks from senior data analyst to senior analytics manager to <strong>Head of Retail Commercial Excellence</strong>.
-              <br /><br />
-              We operated as a small, highly skilled mini-consultancy, helping guide the business on getting most value out of their commercial data driven projects and programmes.
-              <br /><br />
-              Now in my own consulting work at <a href="https://santinotech.com">Santinotech</a>, I bring all of my <strong>technical, analytical and entrepreneurial experience</strong> to the table to get results for our customers.
-              <br /><br />
-              I am also <strong>Technical Director</strong> at <a href="https://curafitness.com">Cura Fitness</a>, a boutique fitness studio based in County Down, Northern Ireland.
-
-              <h2>Where you can find me.</h2>
-              
-              I live in the same small town I grew up in with my beautiful and very talented wife and our two equally beautiful and talented daughters.
-              <br /><br />
-              You can contact or follow me on the sites below:
-              
-              <div className="social-holder">
-                <Email />
-                <Twitter />
-                <LinkedIn />
-                <GitHub />
+              We provide small group fitness classes, bootcamps and personal training for ladies of all ages, shapes, sizes and fitness levels.
               </div>
-              
+              <div className="col-6">
+                <h3>What does Cura mean?</h3>
+                Cura means “care” in Italian. To us it means caring about ourselves, our physical and mental wellbeing, our health, our wellness.
+                <br /><br />
+                It also signifies how we care about our members and those who train with us.              
+              </div>
+            </div>
+
+             <div className="u-textCenter">  
+             <br /><br /> 
+             <img src="/images/CuraFitnessLogo_400WWht.jpg" alt="Cura Fitness Logo" />
+  
+              <h1>This is the Cura Fitness story.</h1>
+              </div>
+
+              <hr className="style1" />
+
+              The Cura Fitness journey began in November 2017 when Liz Hylands decided to set up her own business, having completed her training and worked at another fitness studio.
+              <br /><br />
+              <strong>Liz takes up the story:</strong>
+              <br /><br />
+                “I wanted to integrate the “know your worth” idea that I personally was worth more; that my clients were worth more – and together, self-care was at the heart of it all.
+                <br /><br />
+                I started teaching 8 or so classes per week in Banbridge Rugby Club, with one week of free trials to get me started, and by the end of January had 22 monthly members.
+                <br /><br />
+                Due to word of mouth, by March this doubled and by May, we had to look at securing our own premises locally, in order to hold the volume of classes we needed to – as well as employing another instructor.
+                <br /><br />
+                Trisha Camely came on board, and has been a massive asset to Cura Fitness. Having been a member herself, the girls all knew her and feedback was great from her classes.”
+                <br /><br />
+                <blockquote>There are no cliques, no posing in front of mirrors and each person that comes through the door is made to feel welcome.</blockquote>
+
+                Liz believes there are several reasons why Cura Fitness has been such a success story:
+                <br /><br />
+                “It is because the results have been brilliant and speak for themselves. There are no cliques, no posing in front of mirrors and each person that comes through the door is made to feel welcome. Also, during each class, the girls are monitored and instructed on technique.
+                <br /><br />
+                <blockquote>When each exercise is completed correctly, the results start to show.</blockquote>
+
+                One of our members lost 45 inches from June until December – doing 4 classes with us per week! This was with adapting certain exercises, which I think is something we are really good at as we treat each person as an individual.
+                <br /><br />
+                We have recently decided to become a female only business, as we want our members – all shape, sizes, ages and backgrounds to feel safe and welcome. We have ladies from the age of 17 right up until mid 60’s attend classes, and all know what they can and cannot do.
+                <br /><br />
+                I also believe that because we are constantly mixing things up and not teaching the same classes over and over, that no one gets bored and on top of that the classes are only 30 minutes long.”
 
             </div>
           </div>
@@ -94,13 +84,3 @@ class AboutPage extends React.Component {
 }
 
 export default AboutPage
-
-export const query = graphql`
-  query {
-    site {
-      siteMetadata {
-        author
-      }
-    }
-  }
-`

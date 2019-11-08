@@ -3,10 +3,20 @@ import { Link } from 'gatsby'
 
 export default function Navigation() {
   return (
-    <nav>
-        <Link className="NavigationItem" to="/projects/">Projects</Link>
-        <Link className="NavigationItem" to="/articles/">Articles</Link>
-        <Link className="NavigationItem" to="/about">About</Link>
-    </nav>
+    <nav className="Navigation">
+    <Link className="Navigation-item" to="/about/">
+      About
+    </Link>
+    <Link className="Navigation-item" to="/success-stories/">
+      Success Stories
+    </Link>
+    <Link className="Navigation-item" to="/what-we-do/">
+      What We Do
+    </Link>
+    <Link className="Navigation-item" to="/contact/">
+      Contact
+    </Link>
+  </nav>			
+
   )
 }

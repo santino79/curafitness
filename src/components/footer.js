@@ -1,14 +1,19 @@
 import React from 'react'
-//import { Link } from 'gatsby'
+import { Link } from 'gatsby'
 
 export default function Footer() {
   return (
-    <footer>
-      <div className="footer-content">
-          © {new Date().getFullYear()} 
-          {` Alan Hylands - Powered by `}
-          <a href="https://santinotech.com">Santinotech</a>
-      </div>
-    </footer>
+          <footer>
+            <div className="footer-content">
+              <div className="copyright-bar">© 2019 Cura Fitness Ltd.</div>
+              <div className="bottom-links-menu">
+                <ul>
+                  <li><Link to="/terms-and-conditions/">Terms and Conditions</Link></li>
+                  <li><Link to="/membership-terms-and-conditions/">Membership Terms and Conditions</Link></li>
+                  <li><Link to="/privacy-policy/">Privacy Policy</Link></li>
+                </ul>  
+              </div>
+            </div>
+          </footer>
   )
 }

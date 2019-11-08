@@ -1,19 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: `Alan Hylands`,
+    title: `Cura Fitness`,
     author: `Alan Hylands`,
-    description: `Personal website of Alan Hylands - data analyst, developer and writer from Northern Ireland.`,
-    siteUrl: `https://alanhylands.com/`,
+    description: `Cura Fitness is a boutique female only fitness studio in Banbridge, County Down, Northern Ireland.`,
+    siteUrl: `https://curafitness.com/`,
     social: {
-      twitter: `alanhylands`,
+      twitter: ``,
     },
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/articles`,
-        name: `articles`,
+        path: `${__dirname}/content/blog`,
+        name: `blog`,
       },
     },
     // {
@@ -65,8 +65,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Alan Hylands`,
-        short_name: `Alan Hylands`,
+        name: `Cura Fitness`,
+        short_name: `Cura Fitness`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#939393`,

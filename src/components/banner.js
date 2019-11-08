@@ -3,10 +3,12 @@ import { Link } from 'gatsby'
 
 export default function Banner() {
   return (
-    <h2 className="Banner">
-      <Link to="/">
-       Alan Hylands
-      </Link>      
-    </h2>
+    <div className="Banner">
+      <div className="nav-logo">
+        <Link to="/">
+          <img src="images/cf-logo-300x80.png" alt="Cura Fitness" />
+        </Link>      
+      </div>
+    </div>
   )
 }

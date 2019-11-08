@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Twitter, LinkedIn, GitHub, Email } from '../components/social'
 
 class Index extends React.Component {
   render() {
@@ -12,50 +11,147 @@ class Index extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="Writer | Data Consultant | Developer"
-          keywords={[`blog`, `data`, `analytics`, `writer`]}
+          title="Boutique Female Fitness Studio in Banbridge, County Down, Northern Ireland"
+          keywords={[`female`, `fitness`, `studio`, `gym`]}
         />
+
+      <div className="Hero HomeHero">
+          <h1>Why Wait For The New Year?</h1>
+          <h2>Start changing your life today.</h2>
+          <br />
+          <a href="/contact/" className="goldbutton">Book your FREE consultation</a>
+      </div>
 
       <div className="Column">
           <div className="MainContent">
 
-            <div className="u-textLeft">
+            <div className="u-textCenter">
 
-            <h1 className="bigText">
-               Writer.<br />
-               Analyser of Data.<br />
-               Builder of Online Things.
-            </h1>
-
-
-
-              <h2>Hi, I'm Alan.</h2>
-
-            I build digital and data products for small businesses at <a href="https://santinotech.com/contact/">Santinotech</a>.
-
-            I write hints, tips, strategies and tales from the analytics coalface for data analysts at <a href="https://simpleanalytical.com">Simple Analytical</a>.
-            And I help them get started learning SQL with my online <a href="https://sqlcrashcourse.com">SQL Crash Course</a>. 
-            <br /><br />
-            This is my personal site where I write <a href="/articles/">articles</a> on a variety of topics including business, personal finance, tech, careers, writing and my quest to build a simple kind of life. 
-
+              <h2>Small Group Fitness Classes and Personal Training.</h2>
+              <p>
+              Cura Fitness is a female only boutique fitness studio based in Banbridge, County Down, Northern Ireland.
+              </p>
             
-            <h2>Want to know some more?</h2>
-              <ul>
-                <li>See my <a href="/about/">About page</a> for some back story.</li>
-                <li>Check out my <a href="/projects/">Projects</a> page for more info on my current and past projects.</li>
-              </ul>
+            <hr className="style1" />
+            
+            <h2>Forget all you think you know about gyms and fitness classes.</h2>
+           <p>
 
-              <div className="social-holder">
-              <Email />
-              <Twitter />
-              <LinkedIn />
-              <GitHub />
+            We provide small group fitness classes and personal training to anyone who wants to make a real positive difference to their lives.
+            <br /><br />
+            No gym bunnies or meatheads posing in mirrors.
+            <br /><br />
+            No cliques. No toxic atmosphere.
+            <br /><br />
+            We create a welcoming, friendly and inclusive environment for ladies of all ages, shapes, sizes, and fitness levels.
+            <br /><br />
+            Somewhere special for YOU to make the long term health and fitness changes to your lifestyle that you want to see. 
+            </p>
+
+          <div className="row">
+            <div className="col-4">
+              <img src="images/2628-Winner-Badge.svg" className="icon" alt="Winner Badge" />
+              <h3>Improve Yourself</h3>
+              <p>
+              Classes suitable for all abilities and fitness levels, scientifically proven to improve your physical & mental health, strength and fitness.
+              </p>
+            </div>
+            <div className="col-4">
+            <img src="images/6626-Downward-Facing-Dog-Pose.svg" className="icon" alt="Downward Facing Dog Pose" />
+              <h3>Flexible Membership</h3>
+              <p>
+              We won’t hit you with any hidden joining fees or leaving penalties or tie you into a long contract. We make it as easy as possible to join up or leave when you want to.              </p>
+            </div>
+            <div className="col-4">
+            <img src="images/2638-StopWatch.svg" className="icon" alt="Stopwatch" />
+              <h3>Times That Suit You</h3>
+              <p>
+              Life is hectic these days so we cater to all needs with classes in early morning, after morning school run and in the evening.              </p>
             </div>
 
+          </div>
 
           </div>
+
+
         </div>
       </div>
+
+      <div className="FullWidthContent">
+            <div className="row">
+              <div className="col-6 bgimgs bgimg1">
+              </div>
+              <div className="col-6">
+                <h2>Unlimited Monthly Classes</h2>
+                <p>
+                <strong>ONE MONTHLY MEMBERSHIP.</strong>
+                <br /><br />
+                <strong>AS MANY CLASSES AS YOU CAN HANDLE.</strong>
+                <br /><br />
+                Early morning, after school run, evenings.
+                <br /><br />
+                RT24. Express Circuits. Core Conditioning. Boxfit. Barbell Blast. Body Blitz. Legs, Bums & Tums.
+                <br /><br />
+                Something to suit everyone. No excuses.
+                <br /><br />
+                <a href="/unlimited-classes/" className="button">Find Out More About Unlimited Membership</a>
+                </p>              
+              </div>
+            </div>
+
+            <div className="row1">
+              <div className="col-6">
+                <h2>Bootcamp</h2>
+                <p>
+                <strong>A little apprehensive about whether you’ll stick at your new fitness regime? Bootcamp might be your best starting point.</strong>
+                <br /><br />
+                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                <br /><br />
+                Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
+                <br /><br />
+                Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more.
+                <br /><br />
+                <a href="/bootcamp/" className="button">Find Out More About Bootcamp At Cura Fitness</a>
+                </p>            
+              </div>
+              <div className="col-6 bgimgs bgimg2">
+              </div>
+            </div>
+
+            <div className="row">
+              <div className="col-6 bgimgs bgimg3">
+              </div>
+              <div className="col-6">
+                <h2>Personal Training</h2>
+                <p>
+                <strong>Feel like you've hit a wall in your journey?</strong>
+                <br /><br />
+                Our highly qualified personal trainer will work with you to build a personalised training plan that brings you back on track.
+                <br /><br />
+              Building lean muscle, reducing body fat and increasing your sense of self-worth are paramount.
+              <br /><br />
+              Using a range of advanced workout methods, you will see results faster, increase your commitment to meeting your personal goals and enjoy the variety of training plans we use.              
+              <br /><br />
+              <a href="/personal-training/" className="button">Find Out More About Personal Training</a>
+              </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="TestOverlay">
+            <div className="MainContent u-textCenter whiteWords">
+            <h2 className="whiteWords">Listen to some feedback from our members</h2>
+            <p>
+            “I couldn’t recommend Cura Fitness enough. I found it hard to get back to fitness after having a child due to time constraints so the early risers suits me perfectly. No mummy guilt for missing play time as she is snoozing!” – Audrey
+            <br /><br />
+            “love love love Cura Fitness and the classes here! Liz is amazing and knows exactly what she’s talking about, so encouraging and motivating too. Ive seen some great results and changes after just 6 weeks of boot camp and will definitely be booking back in! Honestly cannot recommend enough!” – Amy
+            <br /><br />
+            “I have to say that I am loving my new exercise regime with Liz at Cura fitness…the class times offered allow me to slot workouts in around my busy family and work life. Plus the workouts are only 30mins, are fun and extremely effective. These classes are ideal for anyone with a busy lifestyle but who recognises the importance of health and fitness.” – Stephanie
+            </p>
+            </div>
+          </div>
+
 
       </Layout>
     )

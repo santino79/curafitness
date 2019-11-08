@@ -1,11 +1,11 @@
 {
-  "name": "alan-hylands-personal",
+  "name": "cura-fitness-marketing",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Main marketing and information website for Cuar Fitness",
   "version": "0.1.0",
-  "author": "Alan Hylands <alan@alanhylands.com>",
+  "author": "Alan Hylands <alan@curafitness.com>",
   "bugs": {
-    "url": "https://github.com/santino79/alanhylands.com/issues"
+    "url": "https://github.com/santino79/curafitness/issues"
   },
   "dependencies": {
     "gatsby": "^2.3.30",
@@ -30,6 +30,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
+    "react-icons": "^3.8.0",
     "react-typography": "^0.16.19",
     "typeface-catamaran": "0.0.72",
     "typeface-merriweather": "0.0.72",
@@ -40,7 +41,7 @@
   "devDependencies": {
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/santino79/alanhylands.com#readme",
+  "homepage": "https://github.com/santino79/curafitness#readme",
   "keywords": [
     "gatsby"
   ],
@@ -48,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santino79/alanhylands.com.git"
+    "url": "git+https://github.com/santino79/curafitness.git"
   },
   "scripts": {
     "build": "gatsby build",
