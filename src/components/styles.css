@@ -446,15 +446,15 @@ ul {
   }
   
   .bgimg1 {
-    background-image: url(http://localhost:8000/images/CuraFitnessLogo.jpg);
+    background-image: url(/images/CuraFitnessLogo.jpg);
   }
   
   .bgimg2 {
-    background-image: url(http://localhost:8000/images/women-in-a-row-plank-pose_1920.jpg);
+    background-image: url(/images/women-in-a-row-plank-pose_1920.jpg);
   }
   
   .bgimg3 {
-    background-image: url(http://localhost:8000/images/woman-barbell-press-1000w.jpg);
+    background-image: url(/images/woman-barbell-press-1000w.jpg);
   }
 
 }
@@ -487,7 +487,7 @@ p {
 }
 
 .TestOverlay {
-	background-image: url(http://localhost:8000/images/ladies-stretch-circle_1920.jpg);
+	background-image: url(/images/ladies-stretch-circle_1920.jpg);
     background-position: center center;
     background-repeat: no-repeat;
 	background-size: cover;
@@ -561,29 +561,29 @@ input {
 }
 
 .HomeHero {
-  background-image: url(http://localhost:8000/images/ladies-strong-squat_1920.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/ladies-strong-squat_1920.jpg);
 }
 
 .WWDHero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://localhost:8000/images/smiling-strong-woman-together_1920.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/smiling-strong-woman-together_1920.jpg);
 }
 
 .ContactHero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://localhost:8000/images/female-hands-in-the-center_1920.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/female-hands-in-the-center_1920.jpg);
 }
 
 .SuccessHero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://localhost:8000/images/strong-ladies_1920.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/strong-ladies_1920.jpg);
 }
 
 .BootcampHero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://localhost:8000/images/women-in-a-row-plank-pose_1920.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/women-in-a-row-plank-pose_1920.jpg);
 }
 
 .PTHero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://localhost:8000/images/woman-barbell-press-1000w.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/woman-barbell-press-1000w.jpg);
 }
 
 .VenueHero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://localhost:8000/images/cf_training_room20190503_1200w.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/cf_training_room20190503_1200w.jpg);
 }
