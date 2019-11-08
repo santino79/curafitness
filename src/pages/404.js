@@ -17,7 +17,6 @@ class NotFoundPage extends React.Component {
             <div className="u-textLeft">
 
         <h1>We Can't Find That Page</h1>
-        <img src="/mellon-collie.jpg" alt="Mellon Collie and the Infinite Sadness" />
         <p>You just hit a route that doesn&#39;t exist... the infinite sadness.</p>
 
         </div>

@@ -69,7 +69,7 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           name: `twitter:image`,
-          content: `https://alanhylands.com/share.png,`
+          content: `https://curafitness.com/share.jpg,`
         },
         {
           name: `google-site-verification`,
