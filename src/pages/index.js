@@ -48,6 +48,7 @@ class Index extends React.Component {
             Somewhere special for YOU to make the long term health and fitness changes to your lifestyle that you want to see. 
             </p>
 
+
           <div className="row">
             <div className="col-4">
               <img src="images/2628-Winner-Badge.svg" className="icon" alt="Winner Badge" />
@@ -78,64 +79,61 @@ class Index extends React.Component {
       </div>
 
       <div className="FullWidthContent">
-            <div className="row">
-              <div className="col-6 bgimgs bgimg1">
+
+
+
+          <div className="grid-wrapper">
+              <div className="box1 bgimgs bgimg1"></div>
+              <div className="box2">
+                  <h2>Unlimited Monthly Classes</h2>
+                  <p>
+                  <strong>ONE MONTHLY MEMBERSHIP.</strong>
+                  <br /><br />
+                  <strong>AS MANY CLASSES AS YOU CAN HANDLE.</strong>
+                  <br /><br />
+                  Early morning, after school run, evenings.
+                  <br /><br />
+                  RT24. Express Circuits. Core Conditioning. Boxfit. Barbell Blast. Body Blitz. Legs, Bums & Tums.
+                  <br /><br />
+                  Something to suit everyone. No excuses.
+                  <br /><br />
+                  <a href="/unlimited-classes/" className="button">Find Out More About Unlimited Membership</a>
+                  </p>              
+                
               </div>
-              <div className="col-6">
-                <h2>Unlimited Monthly Classes</h2>
-                <p>
-                <strong>ONE MONTHLY MEMBERSHIP.</strong>
-                <br /><br />
-                <strong>AS MANY CLASSES AS YOU CAN HANDLE.</strong>
-                <br /><br />
-                Early morning, after school run, evenings.
-                <br /><br />
-                RT24. Express Circuits. Core Conditioning. Boxfit. Barbell Blast. Body Blitz. Legs, Bums & Tums.
-                <br /><br />
-                Something to suit everyone. No excuses.
-                <br /><br />
-                <a href="/unlimited-classes/" className="button">Find Out More About Unlimited Membership</a>
-                </p>              
+              <div className="box3">
+                  <h2>Bootcamp</h2>
+                  <p>
+                  <strong>A little apprehensive about whether you’ll stick at your new fitness regime? Bootcamp might be your best starting point.</strong>
+                  <br /><br />
+                  Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                  <br /><br />
+                  Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
+                  <br /><br />
+                  Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more.
+                  <br /><br />
+                  <a href="/bootcamp/" className="button">Find Out More About Bootcamp At Cura Fitness</a>
+                  </p>            
+              </div>
+              <div className="box4 bgimgs bgimg2"></div>
+
+              <div className="box5 bgimgs bgimgehpt"></div>
+              <div className="box6">
+                  <h2>Personal Training</h2>
+                  <p>
+                  <strong>Feel like you've hit a wall in your journey?</strong>
+                  <br /><br />
+                  Our highly qualified personal trainer will work with you to build a personalised training plan that brings you back on track.
+                  <br /><br />
+                  Building lean muscle, reducing body fat and increasing your sense of self-worth are paramount.
+                  <br /><br />
+                  Using a range of advanced workout methods, you will see results faster, increase your commitment to meeting your personal goals and enjoy the variety of training plans we use.              
+                  <br /><br />
+                  <a href="https://elizabethhylands.com" className="button">Find Out More About Elizabeth Hylands Personal Training</a>
+                  </p>
               </div>
             </div>
 
-            <div className="row1">
-              <div className="col-6">
-                <h2>Bootcamp</h2>
-                <p>
-                <strong>A little apprehensive about whether you’ll stick at your new fitness regime? Bootcamp might be your best starting point.</strong>
-                <br /><br />
-                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
-                <br /><br />
-                Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
-                <br /><br />
-                Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more.
-                <br /><br />
-                <a href="/bootcamp/" className="button">Find Out More About Bootcamp At Cura Fitness</a>
-                </p>            
-              </div>
-              <div className="col-6 bgimgs bgimg2">
-              </div>
-            </div>
-
-            <div className="row">
-              <div className="col-6 bgimgs bgimg3">
-              </div>
-              <div className="col-6">
-                <h2>Personal Training</h2>
-                <p>
-                <strong>Feel like you've hit a wall in your journey?</strong>
-                <br /><br />
-                Our highly qualified personal trainer will work with you to build a personalised training plan that brings you back on track.
-                <br /><br />
-              Building lean muscle, reducing body fat and increasing your sense of self-worth are paramount.
-              <br /><br />
-              Using a range of advanced workout methods, you will see results faster, increase your commitment to meeting your personal goals and enjoy the variety of training plans we use.              
-              <br /><br />
-              <a href="/personal-training/" className="button">Find Out More About Personal Training</a>
-              </p>
-              </div>
-            </div>
           </div>
 
 

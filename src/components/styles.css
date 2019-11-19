@@ -199,16 +199,6 @@ h1 {
   letter-spacing: -2.3px;
 }
 
-/* h2 {
-  line-height: 1;
-  font-size: 2.5rem;
-  margin-top: 2rem;
-  margin-bottom: 3rem;
-  color: #222;
-  font-weight: 400;
-} */
-
-
 h2 {
 	font-size: 2em;
 	font-weight: 600;
@@ -266,12 +256,10 @@ h3 {
   }
   
 
-
 ol, ul, dl {
     padding-left: 1.375em;
     margin-left: 1.375em;
     }
-
 
 .Footer {
   /* max-width: 48em; */
@@ -414,50 +402,71 @@ ul {
   width: 100%;
 }
 
-@media only screen and (min-width: 768px) {
-  /* For desktop: */
-  .col-1 {width: 8.33%;}
-  .col-2 {width: 16.66%;}
-  .col-3 {width: 25%;}
-  .col-4 {width: 33.33%;}
-  .col-5 {width: 41.66%;}
-  .col-6 {width: 50%;}
-  .col-7 {width: 58.33%;}
-  .col-8 {width: 66.66%;}
-  .col-9 {width: 75%;}
-  .col-10 {width: 83.33%;}
-  .col-11 {width: 91.66%;}
-  .col-12 {width: 100%;}
 
-  .bgimgs {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 0px 0px 0px 0px;
-    min-width: 50%;
-    position: relative;
-    display: flex;
-    background-position: 50%;
-    /* background-size: 100%; */
-    /* align-content: center;
-    align-items: center; */
-    min-height: 500px;
-  }
-  
-  .bgimg1 {
-    background-image: url(/images/CuraFitnessLogo.jpg);
-  }
-  
-  .bgimg2 {
-    background-image: url(/images/women-in-a-row-plank-pose_1920.jpg);
-  }
-  
-  .bgimg3 {
-    background-image: url(/images/woman-barbell-press-1000w.jpg);
-  }
-
+.bgimgs {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px 0px 0px 0px;
+  min-width: 50%;
+  position: relative;
+  display: flex;
+  background-position: 50%;
+  /* min-height: 500px; */
 }
+
+.bgimg1 {
+  background-image: url(/images/CuraFitnessLogo.jpg);
+}
+
+.bgimg2 {
+  background-image: url(/images/women-in-a-row-plank-pose_1920.jpg);
+}
+
+.bgimg3 {
+  background-image: url(/images/woman-barbell-press-1000w.jpg);
+}
+
+.bgimgehpt {
+  background-image: url(/images/ehpt_wht_1800x1500.png);
+}
+
+
+.bgimgs {
+  min-height: 200px;
+}
+
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+
+.box1 {
+  grid-row: 1;
+}
+
+.box2 {
+  grid-row: 2;
+}
+
+.box3 {
+  grid-row: 4;
+}
+
+.box4 {
+  grid-row: 3;
+}
+
+.box5 {
+  grid-row: 5;
+}
+
+.box6 {
+  grid-row: 6;
+}
+
 
 .row::after {
   content: "";
@@ -477,6 +486,10 @@ ul {
   /* border: 1px solid red; */
 }
 
+[class*="box"] {
+  padding: 15px;
+}
+
 
 p {
 	margin-bottom: 1.5em;
@@ -491,7 +504,7 @@ p {
     background-position: center center;
     background-repeat: no-repeat;
 	background-size: cover;
-	transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+	/* transition: background .3s,border .3s,border-radius .3s,box-shadow .3s; */
     padding: 90px 0px 90px 0px;
 }
 
@@ -586,4 +599,65 @@ input {
 
 .VenueHero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/cf_training_room20190503_1200w.jpg);
+}
+
+
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+
+
+
+  .grid-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(500px, auto);
+  }
+
+   .box1 {
+    grid-row: 1;
+    grid-column: 1;
+  } 
+
+  .box2 {
+    grid-row: 1;
+    grid-column: 2;
+  }
+
+  .box3 {
+    grid-row: 2;
+    grid-column: 1;
+  }
+
+  .box4 {
+    grid-row: 2;
+    grid-column: 2;
+  }
+
+   .box5 {
+    grid-row: 3;
+    grid-column: 1;
+  }
+
+  .box6 {
+    grid-row: 3;
+    grid-column: 2;
+  } 
+
+  .bgimgs {
+    min-height: 500px;
+  }
+
 }

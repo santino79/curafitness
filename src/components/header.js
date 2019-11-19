@@ -32,7 +32,7 @@ class Header extends React.Component {
                   <ul className="dropdown-content">
                     <li><Link to="/bootcamp/">BOOTCAMP</Link></li>
                     <li><Link to="/unlimited-classes/">UNLIMITED CLASSES</Link></li>
-                    <li><Link to="/personal-training/">PERSONAL TRAINING</Link></li>
+                    <li><a href="https://elizabethhylands.com">PERSONAL TRAINING</a></li>
                     <li><Link to="/fitness-training-venue-hire/">VENUE HIRE</Link></li>
                   </ul>
                 </li>
