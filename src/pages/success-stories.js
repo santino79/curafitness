@@ -30,6 +30,19 @@ class SuccessStories extends React.Component {
             A collection of success stories from our members and clients, showing just what being a part of Cura Fitness has meant to them and their lives.
             <hr className="style1" />
 
+            <div className="u-textCenter">
+            <h2>Kirsty Wilson</h2>
+            <img src="/images/kirsty-wilson2019-11-29.jpg" alt="Kirsty Wilson" />
+            </div>
+
+            <br /><br />
+            Kirsty says:
+            <br /><br />
+            "I joined Cura in Oct 2018 wanting to make a change to my lifestyle and Cura was the perfect place. I love that the classes are a really comfortable, friendly atmosphere and the instructors are fab, always motivating and pushing me to push myself.
+            <br /><br />
+            Liz has been great helping me, even though I stress her sometimes with my weekends out (!!)) but with her support and help I’ve been able to achieve my goals and have had amazing results."
+            <br /><br />
+
 
             <div className="u-textCenter">
             <h2>Tina Gartland</h2>
