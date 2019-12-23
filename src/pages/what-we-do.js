@@ -76,9 +76,9 @@ class WWDo extends React.Component {
 
                     <div className="u-textCenter">
                         <h2>£80 / 6 weeks</h2>
-                        <strong>Interested in joining our next bootcamp?</strong>
+                        <strong>Bootcamp Applications are NOW OPEN</strong>
                         <br /><br />
-                        <a href="/contact/" className="button">Register Your Interest</a>
+                        <a href="/apply-for-bootcamp/" className="button">Apply NOW</a>
                     </div>
 
                 </div>

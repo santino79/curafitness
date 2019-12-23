@@ -38,6 +38,7 @@ class Header extends React.Component {
                 </li>
                 <li><Link to="/timetable/">TIMETABLE</Link></li>
                 <li><Link to="/contact/">CONTACT</Link></li>
+                <li><a href="https://members.curafitness.com" target="_blank">LOG IN</a></li>
             </ul>
         </nav>  
         )
