@@ -72,7 +72,7 @@ class ApplyBoot extends React.Component {
 
                 <div className="ash-form">
                 <form name="apply-bootcamp" method="POST" data-netlify="true" action="/apply-success">
-                <input type="hidden" name="form-name" value="apply-pt" />  
+                <input type="hidden" name="form-name" value="apply-bootcamp" />  
                 <p>
                   <label><strong>Name*</strong></label>
                   <br />
