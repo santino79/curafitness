@@ -30,6 +30,31 @@ class SuccessStories extends React.Component {
             A collection of success stories from our members and clients, showing just what being a part of Cura Fitness has meant to them and their lives.
             <hr className="style1" />
 
+
+            <div className="u-textCenter">
+
+            <h2>Claire Campbell - 15 Week Challenge Winner 2019</h2>
+
+            <img src="/images/clairecampbell-300x300.jpg" alt="Claire Campbell" />
+            </div>
+
+            <br /><br />
+            Better late than never (on my part)....a review by our 15 Week Challenge winner, Claire Campbell - thank you so much for this!
+            <br /><br />
+            "<strong>My 15 week challenge at Cura.</strong>
+            <br /><br />
+            I have really enjoyed taking part in this challenge. From the outset Liz provided us all with a wealth of information on eating well, providing a comprehensive booklet including tips on what we should and shouldn’t eat. She also included recommendations based on what she eats herself, which was really useful. At the start it was a bit difficult to get my head round the 40/30/30 percentage splits, but the app Liz recommended is excellent for keeping track of everything. Along with this Liz monitored my food diaries and let me know what changes to make, as a result I got the hang of it all pretty quickly with Liz’s support.
+            <br /><br />
+            Following Liz’s advice I started to see the results pretty quickly and I have to say I am eating more now than I have ever eaten before! Of course during the 15 weeks life goes on and I had family birthdays, my own birthday, wedding anniversary, nights out, overnight business trips, school mid-term, etc etc, all during this time. And I enjoyed every minute of these and didn’t deny myself anything! I just made sure that a ‘day off plan’ didn’t turn into a ‘week off plan’ (it may have turned into a couple of days here and there J) and I got straight back on the wagon knowing Liz was monitoring my food diary! I think this is why the 15 weeks has just flown in – I managed to achieve amazing results whilst still enjoying normal activities. What I’m taking from it is that it is a lifestyle change, one that I can maintain long term and not just a fad diet.
+            <br /><br />
+            During the 15 weeks I attended Liz’s boot camp classes 3 times a week and the circuits and ab blast on a Saturday morning. I really enjoy these classes as each and every one is different. Over the 15 weeks I feel my fitness has increased significantly, I am able to push myself harder and I’m lifting heavier weights. I see the benefits in my day to day life, such as my posture is improved, I’ve more energy for running after the kids and the classes are a real stress buster!
+            <br /><br />
+            So although the challenge has come to an end, this is just the start for me– Liz has given me the tools and knowledge for me to keep going.
+            <br /><br />
+            Thanks so much to Liz, Trisha and Steph – I couldn’t have achieved what I have without your support and encouragement."            <br /><br />
+            <br /><br />
+
+
             <div className="u-textCenter">
             <h2>Kirsty Wilson</h2>
             <img src="/images/kirsty-wilson2019-11-29.jpg" alt="Kirsty Wilson" />
@@ -85,21 +110,28 @@ class SuccessStories extends React.Component {
             <br /><br />
 
             <div className="u-textCenter">
-            <h2>Barbara McGaw</h2>
-            <img src="/images/barbara_mcgaw-300x268.jpg" alt="Barbara McGaw" />
+            <h2>Catherine McGrath</h2>
+            <img src="/images/catherine-mcgrath-300x300.jpg" alt="Catherine McGrath" />
             </div>
 
             <br /><br />
-            Barbara McGaw has been with us from our very first day at Banbridge Rugby Club a year ago. The difference in her has been unreal, both physically & fitness level. Proof that RT24 works when it’s principles are applied, & techniques are correct. We are SO proud of you Barbara!! Thank you for your testimonial.
+            So proud of my lovely PT Client, Catherine, who first came on with us through Boot Camp one year ago. She did brilliantly well during the 6 weeks, and lost -18 inches. After which, she joined as a Member and continued to grow in strength and fitness.
             <br /><br />
-            “I was 50 and totally unfit with mounting health problems, due to issues with my weight. I hadn’t been at a gym in over 30 years and by chance meet Liz at another fitness studio. She made me feel good about myself again, and wherever she said she was starting her own classes in Rugby club, I decided to join her and see how I got on – not really expecting to enjoy it, but thought I would support her for a while.
+            In September she came on with me as a PT Client and took part in the 15 Week Challenge. The other 2 ladies in her PT group were a brilliant support, and really rallied behind Catherine as week after week she continued to progress in every way. Catherine lost 17 inches during the Challenge and a total of 17.8lbs! This was with a few trips away and other events thrown into the mix. Around this she worked really hard to plan her meals and stay consistent in her nutrition. As a result she came 6th in the Challenge 🎉And in her One Rep Max Squat Test before Christmas she achieved a ORM of 107.5kg. Outstanding!
             <br /><br />
-            1 year later I am doing 6 classes a week, loving it and losing inches – over 26 to date. But most importantly I am starting to love myself again. My health has improved 100% and I have made soo many new friends.
+            Catherine has lost a total of -3.5 off her arms, -3 inches off her chest, -4 inches off her waist, -6.5 inches off her belly button, -3 inches off her hips and a massive 10 inches off both legs!
             <br /><br />
-            Cura Fitness is not just a gym, or an exercise class, it is a wee hub where you are made to feel like a person. It doesn’t matter what shape you are, fit or a couch potato, everyone is made to feel like they can achieve something no matter how small.
+            Catherine's Review after the 15 Week Challenge 👇
             <br /><br />
-            Cura is a way of life and each one of the trainers are there for u no matter what you need. Looking forward to 2019 and even better lifestyle with the help of Cura Fitness x”
+            "I’ve been a member at Cura almost 1 year now. My goals when joining were to lose weight, get fit and find something that I enjoy so that I can stick with! During this time I am happy to say I have achieved all 3 goals.
             <br /><br />
+            When Liz announced the 15 week challenge I was definitely keen to take part. This was the extra push and motivation that I needed after enjoying the summer 😊
+            <br /><br />
+            During these 15 weeks there were many challenges, between holidays and weekends away. Liz was always on hand offering support and guidance at any time it was needed, night or day. Whether it was suggestions on food options, and just the general encouragement that I needed. Liz also went out of her way to accommodate any weigh-ins/measurements, always at a time suitable for me even when she was not due to be working. I don’t know of anywhere else you would get this level of commitment."
+            <br /><br />
+            So proud of you and what you have achieved, Catherine, and I know will continue to achieve in 2020!            <br /><br />
+            <br /><br />
+
 
             <div className="u-textCenter">
             <h2>Sarah McCahon</h2>
