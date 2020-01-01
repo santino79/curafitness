@@ -68,11 +68,11 @@ class Bootcamp extends React.Component {
                 <h2>How do I sign up for Bootcamp?</h2>
                 We run separate early morning and evening bootcamps on rolling six week cycles.
                 <br /><br />
-                <strong>APPLICATIONS FOR JANUARY 2020 ARE NOW OPEN!</strong>
+                <strong>APPLICATIONS FOR JANUARY 2020 ARE NOW CLOSED!</strong>
                 <br /><br />
-                Bootcamp spaces fill up fast so put your name down ASAP to help secure your spot:
+                Our next bootcamp application window will open in February 2020.
                 <br /><br />
-                <a href="/apply-for-bootcamp/" className="goldbutton">Apply NOW</a>
+                <a href="/contact/" className="goldbutton">Register Your Interest NOW</a>
 
                </div>
 
