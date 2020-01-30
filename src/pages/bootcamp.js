@@ -66,14 +66,13 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class instructors will really help you push on towards your goal of being a better you after your six weeks.
 
                 <h2>How do I sign up for Bootcamp?</h2>
-                We run separate early morning and evening bootcamps on rolling six week cycles.
+                We run four separate morning and evening bootcamps on rolling six week cycles.
                 <br /><br />
-                <strong>APPLICATIONS FOR JANUARY 2020 ARE NOW CLOSED!</strong>
+                <strong>APPLICATIONS FOR FEBRUARY 2020 ARE NOW OPEN!</strong>
                 <br /><br />
-                Our next bootcamp application window will open in February 2020.
+                Bootcamp spaces fill up fast so put your name down ASAP to help secure your spot:
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Register Your Interest NOW</a>
-
+                <a href="/apply-for-bootcamp/" className="goldbutton">Apply NOW</a>
                </div>
 
             </div>

@@ -23,7 +23,7 @@ class TimeTable extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-            <h2>JANUARY 2020 CLASS TIMETABLE</h2>
+            <h2>FEBRUARY 2020 CLASS TIMETABLE</h2>
 
             <a href="https://members.curafitness.com" target="_blank" className="goldbutton">Members Log-In</a>
 
@@ -33,21 +33,20 @@ class TimeTable extends React.Component {
                 <h3>MONDAY</h3>
                 <div className="tt-cell"><strong>5.45AM - 6.15AM</strong><br />RT24 HIIT</div>
                 <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Cura HIIT</div>
-                <div className="tt-cell"><strong>5.45PM - 6.30PM</strong><br />Cura HIIT + Ab Blast</div>
+                <div className="tt-cell"><strong>6PM - 6.30PM</strong><br />Cura HIIT</div>
                 <div className="tt-cell"><strong>6.30PM - 7.15PM</strong><br />RT24 HIIT + Ab Blast</div>
                 <div className="tt-cell"><strong>7.30PM - 8PM</strong><br />Cura HIIT</div>
               </div>
               <div className="col-4">
               <h3>TUESDAY</h3>
-                <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />RT24 HIRT</div>
-                <div className="tt-cell"><strong>6.15PM - 6.45PM</strong><br />RT24 HIRT</div>
-                <div className="tt-cell"><strong>7PM - 7.45PM</strong><br />Boxfit Circuits + Ab Blast</div>
+                <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Mums Return To Fitness</div>
+                <div className="tt-cell"><strong>6.30PM - 7.15PM</strong><br />Boxfit Circuits + Ab Blast</div>
               </div>
               <div className="col-4">
               <h3>WEDNESDAY</h3>
                 <div className="tt-cell"><strong>5.45AM - 6.15AM</strong><br />Circuits</div>
                 <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Circuits</div>
-                <div className="tt-cell"><strong>5.45PM - 6.30PM</strong><br />Circuits + Core</div>
+                <div className="tt-cell"><strong>6PM - 6.30PM</strong><br />Circuits</div>
                 <div className="tt-cell"><strong>6.30PM - 7.15PM</strong><br />Circuits + Core</div>
                 <div className="tt-cell"><strong>7.30PM - 8PM</strong><br />Circuits</div>
               </div>
@@ -57,15 +56,14 @@ class TimeTable extends React.Component {
               <div className="col-4">
                 <h3>THURSDAY</h3>
                 <div className="tt-cell"><strong>6AM - 6.30AM</strong><br />Strength Circuits</div>
-                <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Strength Circuits</div>
-                <div className="tt-cell"><strong>6.15PM - 6.45PM</strong><br />Strength Circuits</div>
-                <div className="tt-cell"><strong>7PM - 7.45PM</strong><br />RT24 HIRT + Ab Blast</div>
+                <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Mums Return To Fitness</div>
+                <div className="tt-cell"><strong>6.30PM - 7PM</strong><br />Strength Circuits</div>
               </div>
               <div className="col-4">
               <h3>FRIDAY</h3>
               <div className="tt-cell"><strong>5.45AM - 6.15AM</strong><br />RT24 HIRT</div>
                 <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Body Blitz</div>
-                <div className="tt-cell"><strong>5.45PM - 6.30PM</strong><br />Body Blitz</div>
+                <div className="tt-cell"><strong>6PM - 6.30PM</strong><br />Body Blitz</div>
                 <div className="tt-cell"><strong>6.45PM - 7.15PM</strong><br />HIIT Circuits</div>
                 <div className="tt-cell"><strong>7.30PM - 8PM</strong><br />Body Blitz</div>
               </div>
