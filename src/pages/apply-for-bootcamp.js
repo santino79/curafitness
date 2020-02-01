@@ -94,10 +94,10 @@ class ApplyBoot extends React.Component {
                 <strong>Which bootcamp would you prefer to join? *</strong>
                 <br /><br />
                     <select name="choice" id="choice-select">
-                        <option value="">--Please choose a bootcamp--</option>
-                        <option value="9.30AM">School Run - 9.30 AM</option>
-                        <option value="6PM">After Work - 6 PM</option>
-                        <option value="7.30PM">Evening - 7.30 PM</option>
+                        <option value="">--Choose time--</option>
+                        <option value="9.30AM">9.30 AM</option>
+                        <option value="6PM">6 PM</option>
+                        <option value="7.30PM">7.30 PM</option>
                       </select>
 
                 <br /><br />
