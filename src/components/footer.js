@@ -5,7 +5,7 @@ export default function Footer() {
   return (
           <footer>
             <div className="footer-content">
-              <div className="copyright-bar">© 2019 Cura Fitness Ltd.</div>
+              <div className="copyright-bar">© 2020 Cura Fitness Ltd.</div>
               <div className="bottom-links-menu">
                 <ul>
                   <li><Link to="/terms-and-conditions/">Terms and Conditions</Link></li>
