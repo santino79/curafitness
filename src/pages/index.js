@@ -12,14 +12,14 @@ class Index extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Boutique Female Fitness Studio in Banbridge, County Down, Northern Ireland"
-          keywords={[`female`, `fitness`, `studio`, `gym`]}
+          keywords={[`female`, `fitness`, `studio`, `gym`, `bootcamp`, `personal training`,`women`]}
         />
 
       <div className="Hero HomeHero">
-          <h1>Bootcamp Applications Are OPEN!</h1>
-          <h2>Six weeks can really change your life for the better.</h2>
+          <h1>Hard Work + Dedication = Results</h1>
+          <h2>So many of our members have made real positive changes to their lives.</h2>
           <br />
-          <a href="/apply-for-bootcamp/" className="goldbutton">Book your space NOW</a>
+          <a href="/success-stories/" className="goldbutton">Check out their Success Stories</a>
       </div>
 
       <div className="Column">
