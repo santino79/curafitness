@@ -23,7 +23,7 @@ class TimeTable extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-            <h2>FEBRUARY 2020 CLASS TIMETABLE</h2>
+            <h2>MARCH 2020 CLASS TIMETABLE</h2>
 
             <a href="https://members.curafitness.com" target="_blank" className="goldbutton">Members Log-In</a>
 
@@ -34,7 +34,7 @@ class TimeTable extends React.Component {
                 <div className="tt-cell"><strong>5.45AM - 6.15AM</strong><br />RT24 HIIT</div>
                 <div className="tt-cell"><strong>9.30AM - 10AM</strong><br />Cura HIIT</div>
                 <div className="tt-cell"><strong>6PM - 6.30PM</strong><br />Cura HIIT</div>
-                <div className="tt-cell"><strong>6.30PM - 7.15PM</strong><br />RT24 HIIT + Ab Blast</div>
+                <div className="tt-cell"><strong>6.30PM - 7.15PM</strong><br />Core + Cardio</div>
                 <div className="tt-cell"><strong>7.30PM - 8PM</strong><br />Cura HIIT</div>
               </div>
               <div className="col-4">
