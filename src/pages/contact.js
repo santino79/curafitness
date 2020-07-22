@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-class AboutPage extends React.Component {
+class ContactPage extends React.Component {
   render() {
 
     return (
@@ -23,7 +23,7 @@ class AboutPage extends React.Component {
           <hr className="style1" />
         
         <p>
-        If you are interested in Bootcamp, Unlimited Classes, Body Transformation or Personal Training, please send us a message on the form below to book a free consultation:
+        If you are interested in Online Bootcamp, Small Group Studio Sessions or Personal Training, please send us a message on the form below to book a free consultation:
         </p>
           </div>
 
@@ -86,4 +86,4 @@ class AboutPage extends React.Component {
   }
 }
 
-export default AboutPage
+export default ContactPage

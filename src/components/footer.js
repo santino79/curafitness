@@ -9,7 +9,6 @@ export default function Footer() {
               <div className="bottom-links-menu">
                 <ul>
                   <li><Link to="/terms-and-conditions/">Terms and Conditions</Link></li>
-                  <li><Link to="/membership-terms-and-conditions/">Membership Terms and Conditions</Link></li>
                   <li><Link to="/privacy-policy/">Privacy Policy</Link></li>
                 </ul>  
               </div>

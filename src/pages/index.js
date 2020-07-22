@@ -27,7 +27,7 @@ class Index extends React.Component {
 
             <div className="u-textCenter">
 
-              <h2>Small Group Fitness Classes and Personal Training.</h2>
+              <h2>Online Fitness Classes and Studio-Based Personal Training.</h2>
               <p>
               Cura Fitness is a female only boutique fitness studio based in Banbridge, County Down, Northern Ireland.
               </p>
@@ -37,7 +37,7 @@ class Index extends React.Component {
             <h2>Forget all you think you know about gyms and fitness classes.</h2>
            <p>
 
-            We provide small group fitness classes and personal training to anyone who wants to make a real positive difference to their lives.
+            We provide studio-based small group and individual personal training to anyone who wants to make a real positive difference to their lives.
             <br /><br />
             No gym bunnies or meatheads posing in mirrors.
             <br /><br />
@@ -59,7 +59,7 @@ class Index extends React.Component {
             </div>
             <div className="col-4">
             <img src="images/6626-Downward-Facing-Dog-Pose.svg" className="icon" alt="Downward Facing Dog Pose" />
-              <h3>Flexible Membership</h3>
+              <h3>Flexible Options</h3>
               <p>
               We won’t hit you with any hidden joining fees or leaving penalties or tie you into a long contract. We make it as easy as possible to join up or leave when you want to.              </p>
             </div>
@@ -67,7 +67,7 @@ class Index extends React.Component {
             <img src="images/2638-StopWatch.svg" className="icon" alt="Stopwatch" />
               <h3>Times That Suit You</h3>
               <p>
-              Life is hectic these days so we cater to all needs with classes in early morning, after morning school run and in the evening.              </p>
+              Life is hectic these days so we cater to all needs with sessions in early morning, in the evening and any time that suits you online.              </p>
             </div>
 
           </div>
@@ -85,32 +85,33 @@ class Index extends React.Component {
           <div className="grid-wrapper">
               <div className="box1 bgimgs bgimg1"></div>
               <div className="box2">
-                  <h2>Unlimited Monthly Classes</h2>
+                  <h2>Unlimited Online LIVE Classes</h2>
                   <p>
                   <strong>ONE MONTHLY MEMBERSHIP.</strong>
                   <br /><br />
                   <strong>AS MANY CLASSES AS YOU CAN HANDLE.</strong>
                   <br /><br />
-                  Early morning, after school run, evenings.
+                  Early morning, after school run, evenings. Any time that suits you.
                   <br /><br />
-                  RT24. Express Circuits. Core Conditioning. Boxfit. Barbell Blast. Body Blitz. Legs, Bums & Tums.
+                  With three new online LIVE sessions per week with our top-class instructors and access to our catalogue of dozens of 
+                  expertly planned online video workouts.
                   <br /><br />
                   Something to suit everyone. No excuses.
                   <br /><br />
-                  <a href="/unlimited-classes/" className="button">Find Out More About Unlimited Membership</a>
+                  <a href="/what-we-do/" className="button">Find Out More About Online LIVE Membership</a>
                   </p>              
                 
               </div>
               <div className="box3">
-                  <h2>Bootcamp</h2>
+                  <h2>Online Bootcamp</h2>
                   <p>
-                  <strong>A little apprehensive about whether you’ll stick at your new fitness regime? Bootcamp might be your best starting point.</strong>
+                  <strong>A little apprehensive about whether you’ll stick at your new fitness regime? Online Bootcamp might be your best starting point.</strong>
                   <br /><br />
                   Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                   <br /><br />
                   Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                   <br /><br />
-                  Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more.
+                  Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more. All from the comfort and safety of your own home.
                   <br /><br />
                   <a href="/bootcamp/" className="button">Find Out More About Bootcamp At Cura Fitness</a>
                   </p>            
@@ -119,7 +120,7 @@ class Index extends React.Component {
 
               <div className="box5 bgimgs bgimgehpt"></div>
               <div className="box6">
-                  <h2>Personal Training</h2>
+                  <h2>Studio-Based Personal Training</h2>
                   <p>
                   <strong>Feel like you've hit a wall in your journey?</strong>
                   <br /><br />

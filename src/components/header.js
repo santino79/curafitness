@@ -26,19 +26,9 @@ class Header extends React.Component {
             <ul className={`main-nav ${menuVis}`} id="js-menu">
                 <li><Link to="/about/">ABOUT</Link></li>
                 <li><Link to="/success-stories/">SUCCESS STORIES</Link></li>
-                <li className="dropdown">
-                  <Link to="/what-we-do/" className="dropbtn">WHAT WE DO</Link>
-                  <span className="nav-sub"><FaCaretDown /></span>
-                  <ul className="dropdown-content">
-                    <li><Link to="/bootcamp/">BOOTCAMP</Link></li>
-                    <li><Link to="/unlimited-classes/">UNLIMITED CLASSES</Link></li>
-                    <li><a href="https://elizabethhylands.com">PERSONAL TRAINING</a></li>
-                    <li><Link to="/fitness-training-venue-hire/">VENUE HIRE</Link></li>
-                  </ul>
-                </li>
-                <li><Link to="/timetable/">TIMETABLE</Link></li>
+                <li><Link to="/what-we-do/">WHAT WE DO</Link></li>
                 <li><Link to="/contact/">CONTACT</Link></li>
-                <li><a href="https://members.curafitness.com" target="_blank">LOG IN</a></li>
+                
             </ul>
         </nav>  
         )

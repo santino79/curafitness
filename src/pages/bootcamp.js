@@ -15,7 +15,7 @@ class Bootcamp extends React.Component {
           keywords={[`cura fitness`, `bootcamp`]}
         />
 <div className="Hero BootcampHero">
-  <h1>Bootcamp</h1>
+  <h1>Online Bootcamp</h1>
 </div>
 
 <div className="Column">
@@ -32,6 +32,8 @@ class Bootcamp extends React.Component {
 
                 <div className="col-6">
                 <h2>What is Bootcamp?</h2>
+                <strong><em>NB: Due to Covid-19, Bootcamp is now conducted online via Zoom.</em></strong>
+                <br /><br />
                 Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
@@ -66,9 +68,9 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class instructors will really help you push on towards your goal of being a better you after your six weeks.
 
                 <h2>How do I sign up for Bootcamp?</h2>
-                We run four separate morning and evening bootcamps on rolling six week cycles.
+                Our current Bootcamp runs until mid August and we're planning the next one for after that.
                 <br /><br />
-                <strong>APPLICATIONS ARE NOW CLOSED!</strong>
+                <strong>APPLICATIONS ARE CURRENTLY CLOSED</strong>
                 <br /><br />
                 Bootcamp spaces fill up fast so put your name down ASAP to register your interest for our next intake:
                 <br /><br />
