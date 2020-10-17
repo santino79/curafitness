@@ -152,10 +152,9 @@ class WWDo extends React.Component {
                     </ul>
 
                     <div className="u-textCenter">
-                        <h2>Get in touch</h2>
-                        <strong>Make real changes to your lifestyle.</strong>
+                        <h3>UPDATE Oct 2020: Currently suspended due to Coronavirus lockdown but we'll be back in November.</h3>
                         <br /><br />
-                        <a href="/contact/" className="button">Book your FREE consultation</a>
+                        <a href="/contact/" className="button">Register your interest</a>
                     </div>
 
                 </div>
