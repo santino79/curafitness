@@ -22,7 +22,7 @@ class Bootcamp extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Ten recruits. Six weeks. Eighteen sessions. Let's get it on.</h2>
+              <h2>Six weeks. Eighteen sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -68,13 +68,23 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class instructors will really help you push on towards your goal of being a better you after your six weeks.
 
                 <h2>How do I sign up for Bootcamp?</h2>
-                Our current Bootcamp runs until mid August and we're planning the next one for after that.
+                <strong>Dates:</strong><br />
+                Our next Bootcamp runs from Monday 4th January 2021 until Friday 12th February 2021
+                <br />
+                <strong>Days:</strong><br />
+                 Monday, Wednesday and Friday.
+                <br />
+                <strong>Times:</strong><br />
+                 6.45AM or 6PM
                 <br /><br />
-                <strong>APPLICATIONS ARE CURRENTLY CLOSED</strong>
+                <strong>APPLICATIONS ARE NOW OPEN.</strong>
                 <br /><br />
-                Bootcamp spaces fill up fast so put your name down ASAP to register your interest for our next intake:
+                Book and pay before the end of December and take advantage of our <strong>EARLY BIRD OFFER</strong>.
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Keep me updated</a>
+                Usually £80, Early Birds can get the full 6 week Bootcamp for <strong>ONLY £60</strong> (that's £3.33 per session, 
+                a massive 25% SAVING.)
+                <br /><br />
+                <a href="https://forms.gle/GWfuHUoiNLvBnc5JA" className="goldbutton">Book your place NOW</a>
                </div>
 
             </div>

@@ -16,10 +16,10 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>Hard Work + Dedication = Results</h1>
-          <h2>So many of our members have made real positive changes to their lives.</h2>
+          <h1>Start The New Year Off Right</h1>
+          <h2>January 2021 Online Bootcamp Is Now Open.</h2>
           <br />
-          <a href="/success-stories/" className="goldbutton">Check out their Success Stories</a>
+          <a href="/bootcamp/" className="goldbutton">Find out more about Bootcamp</a>
       </div>
 
       <div className="Column">
@@ -93,8 +93,7 @@ class Index extends React.Component {
                   <br /><br />
                   Early morning, after school run, evenings. Any time that suits you.
                   <br /><br />
-                  With three new online LIVE sessions per week with our top-class instructors and access to our catalogue of dozens of 
-                  expertly planned online video workouts.
+                  Access our catalogue of over 100 expertly planned online video workouts from our industry leading fitness instructors.
                   <br /><br />
                   Something to suit everyone. No excuses.
                   <br /><br />

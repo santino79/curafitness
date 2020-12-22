@@ -66,9 +66,9 @@ class WWDo extends React.Component {
                     Fitter. Healthier. Stronger.
                     </strong>
                     <br /><br />
-                    Pay only £20/month and get access to three new online LIVE sessions per week from our industry leading fitness instructors.
+                    Pay only £20/month and get access to our growing online community with support and guidance from our expert personal trainer.
                     <br /><br />
-                    You also get unlimited access to our full online catalogue of expertly planned LIVE 
+                    You  get unlimited access to our full online catalogue of over 100 expertly planned LIVE 
                     sessions. Do as many as you want for the whole of that month.
                     <br /><br />
 
@@ -118,9 +118,9 @@ class WWDo extends React.Component {
 
                     <div className="u-textCenter">
                         
-                        <h3>Bootcamp Applications are currently CLOSED</h3>
+                        <h3>Jan 2021 Bootcamp Applications are OPEN</h3>
                         <br /><br />
-                        <a href="/contact/" className="button">Keep me updated</a>
+                        <a href="/contact/" className="button">Book your spot NOW</a>
                     </div>
                     
                 </div>
@@ -152,7 +152,7 @@ class WWDo extends React.Component {
                     </ul>
 
                     <div className="u-textCenter">
-                        <h3>UPDATE Oct 2020: Currently suspended due to Coronavirus lockdown but we'll be back in November.</h3>
+                        <h3>UPDATE Dec 2020: Currently suspended due to Coronavirus lockdown but we'll be back soon.</h3>
                         <br /><br />
                         <a href="/contact/" className="button">Register your interest</a>
                     </div>
