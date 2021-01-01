@@ -79,10 +79,7 @@ class Bootcamp extends React.Component {
                 <br /><br />
                 <strong>APPLICATIONS ARE NOW OPEN.</strong>
                 <br /><br />
-                Book and pay before the end of December and take advantage of our <strong>EARLY BIRD OFFER</strong>.
-                <br /><br />
-                Usually £80, Early Birds can get the full 6 week Bootcamp for <strong>ONLY £60</strong> (that's £3.33 per session, 
-                a massive 25% SAVING.)
+                Book and pay before the end of 3rd January 2021 and get the full 6 week Bootcamp for <strong>ONLY £80</strong> (that's £4.44 per session)
                 <br /><br />
                 <a href="https://forms.gle/GWfuHUoiNLvBnc5JA" className="goldbutton">Book your place NOW</a>
                </div>
