@@ -69,7 +69,7 @@ class Bootcamp extends React.Component {
 
                 <h2>How do I sign up for Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Our next Bootcamp runs from Monday 4th January 2021 until Friday 12th February 2021
+                Our current Bootcamp runs from Monday 4th January 2021 until Friday 12th February 2021
                 <br />
                 <strong>Days:</strong><br />
                  Monday, Wednesday and Friday.
@@ -77,11 +77,11 @@ class Bootcamp extends React.Component {
                 <strong>Times:</strong><br />
                  6.45AM or 6PM
                 <br /><br />
-                <strong>APPLICATIONS ARE NOW OPEN.</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
                 <br /><br />
-                Book and pay before the end of 3rd January 2021 and get the full 6 week Bootcamp for <strong>ONLY £80</strong> (that's £4.44 per session)
+                Contact us now to register your interest for the next Bootcamp intake.
                 <br /><br />
-                <a href="https://forms.gle/GWfuHUoiNLvBnc5JA" className="goldbutton">Book your place NOW</a>
+                <a href="/contact/" className="goldbutton">Register Your Interest</a>
                </div>
 
             </div>
