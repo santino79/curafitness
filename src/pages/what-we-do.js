@@ -121,6 +121,7 @@ class WWDo extends React.Component {
                         <h3>Jan 2021 Bootcamp Applications are CLOSED</h3>
                         <br /><br />
                     <strong>Interested in joining up next time?</strong>
+                      <br /><br />
                         <a href="/contact/" className="button">Register your interest</a>
                     </div>
                     
