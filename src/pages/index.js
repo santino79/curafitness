@@ -93,7 +93,7 @@ class Index extends React.Component {
                   <br /><br />
                   Early morning, after school run, evenings. Any time that suits you.
                   <br /><br />
-                  Access our catalogue of over 100 expertly planned online video workouts from our industry leading fitness instructors.
+                  Access our catalogue of dozens of expertly planned online video workouts from our industry leading fitness instructors.
                   <br /><br />
                   Something to suit everyone. No excuses.
                   <br /><br />
