@@ -68,7 +68,7 @@ class WWDo extends React.Component {
                     <br /><br />
                     Pay only £20/month and get access to our growing online community with support and guidance from our expert personal trainer.
                     <br /><br />
-                    You  get unlimited access to our full online catalogue of over 100 expertly planned LIVE 
+                    You  get unlimited access to our full online catalogue of dozens of expertly planned LIVE 
                     sessions. Do as many as you want for the whole of that month.
                     <br /><br />
 
