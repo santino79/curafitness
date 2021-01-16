@@ -62,20 +62,19 @@ class WWDo extends React.Component {
 
                     <h2 className="u-textCenter">Online LIVE Classes</h2>
                     <strong>
-                    
                     Fitter. Healthier. Stronger.
                     </strong>
                     <br /><br />
                     Pay only £20/month and get access to our growing online community with support and guidance from our expert personal trainer.
                     <br /><br />
-                    You  get unlimited access to our full online catalogue of dozens of expertly planned LIVE 
+                    You  get unlimited access to our full online catalogue of expertly planned LIVE 
                     sessions. Do as many as you want for the whole of that month.
                     <br /><br />
 
                     <strong>Choose from classes including:</strong>
                     <br /><br />
 
-                    RT24 : Circuits : Upper Body Dumbbells : Boxfit : Legs, Bums, Tums : Core Conditioning : And much more!
+                    Circuits : Upper Body Dumbbells : Boxfit : Legs, Bums, Tums : Core Conditioning : And much more!
                     <br /><br />
                     <ul>
                         <li>
@@ -118,11 +117,11 @@ class WWDo extends React.Component {
 
                     <div className="u-textCenter">
                         
-                        <h3>Jan 2021 Bootcamp Applications are CLOSED</h3>
-                        <br /><br />
-                    <strong>Interested in joining up next time?</strong>
+                        <h3>Feb 2021 Bootcamp Applications are OPEN</h3>
+                      
+                    <strong>Interested in joining up?</strong>
                       <br /><br />
-                        <a href="/contact/" className="button">Register your interest</a>
+                        <a href="/bootcamp/" className="button">Tell me more</a>
                     </div>
                     
                 </div>
@@ -154,7 +153,7 @@ class WWDo extends React.Component {
                     </ul>
 
                     <div className="u-textCenter">
-                        <h3>UPDATE Dec 2020: Currently suspended due to Coronavirus lockdown but we'll be back soon.</h3>
+                        <h3>Limited availability for online personal training.</h3>
                         <br /><br />
                         <a href="/contact/" className="button">Register your interest</a>
                     </div>

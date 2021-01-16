@@ -65,26 +65,54 @@ class Bootcamp extends React.Component {
                 <br /><br />
                 Bootcamp workouts will help build lean muscle, burn fat and calories and increase your metabolism, even after you leave the Cura studio.
                 <br /><br />
-                Working in a small group setting under the watchful eye of our top class instructors will really help you push on towards your goal of being a better you after your six weeks.
-
-                <h2>How do I sign up for Bootcamp?</h2>
+                Working in a small group setting under the watchful eye of our top class personal trainer will really help you push on towards your goal of being a better you after your six weeks.
+                <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Our current Bootcamp runs from Monday 4th January 2021 until Friday 12th February 2021
-                <br />
+                <em>Next Bootcamp:</em> Monday 22nd February 2021 to Friday 2nd April 2021
+                <br /><br />
                 <strong>Days:</strong><br />
                  Monday, Wednesday and Friday.
                 <br />
                 <strong>Times:</strong><br />
                  6.45AM or 6PM
-                <br /><br />
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
-                <br /><br />
-                Contact us now to register your interest for the next Bootcamp intake.
-                <br /><br />
-                <a href="/contact/" className="goldbutton">Register Your Interest</a>
+                
                </div>
 
             </div>
+
+
+            <div className="row">
+              <div className="col-6">
+              <h2>Some feedback from our Bootcampers.</h2>
+              "Thanks for this morning, really enjoyed it! I also find myself getting stronger. I was able to attempt the burpees, and jump my legs back rather than step for them all..."
+              <br /><br />
+              "Honestly...my heart sinks when I realise it’s boot camp day 🤣. You know how I feel about cardio!! But I’m always glad I did it. You explain everything well and it’s only half hour which is spot on - glad I signed up xx"
+              <br /><br />
+              "Ah fab really loving the bootcamp, helping my mind and keeping me accountable"
+              <br /><br />
+              "Hi Liz am loving Boot camp!! Love the variety and pace - though it’s tough and you are getting tougher!!!! Defo be joining you for the next time."
+
+
+              </div>
+              <div className="col-6">
+              <h2>How do I sign up for Bootcamp?</h2>
+                <strong>BOOTCAMP APPLICATIONS FOR FEBRUARY 2021 ARE NOW OPEN.</strong>
+                <br /><br />
+                EARLY BIRD DISCOUNT!!
+                <br /><br />
+                Book your spot and pay before the end of January 2021 and get a massive 25% discount.
+                <br /><br />
+                <strong>ONLY £60  (£3.33 per class) </strong>
+                <br /><br />
+                (25% off compared to actual full price £80)
+                <br /><br />
+                <a href="https://forms.gle/SUhiYFP7xMv9gs8J8" className="goldbutton">Sign Up Now</a>
+
+              </div>
+
+            </div>
+
+
           </div>
         </div>
 

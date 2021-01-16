@@ -16,10 +16,10 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>Your Success Is Our Goal</h1>
-          <h2>Setting your targets and working hard to reach them.</h2>
+          <h1>Sign Up For February Bootcamp</h1>
+          <h2>Grab 25% discount before end of January.</h2>
           <br />
-          <a href="/success-stories/" className="goldbutton">Read some of our Success Stories</a>
+          <a href="/bootcamp/" className="goldbutton">Get More Details</a>
       </div>
 
       <div className="Column">
@@ -93,7 +93,7 @@ class Index extends React.Component {
                   <br /><br />
                   Early morning, after school run, evenings. Any time that suits you.
                   <br /><br />
-                  Access our catalogue of dozens of expertly planned online video workouts from our industry leading fitness instructors.
+                  Access our catalogue of expertly planned online video workouts from our industry leading personal trainer.
                   <br /><br />
                   Something to suit everyone. No excuses.
                   <br /><br />
@@ -119,7 +119,7 @@ class Index extends React.Component {
 
               <div className="box5 bgimgs bgimgehpt"></div>
               <div className="box6">
-                  <h2>Studio-Based Personal Training</h2>
+                  <h2>Personal Training</h2>
                   <p>
                   <strong>Feel like you've hit a wall in your journey?</strong>
                   <br /><br />
