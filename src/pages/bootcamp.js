@@ -74,7 +74,7 @@ class Bootcamp extends React.Component {
                  Monday, Wednesday and Friday.
                 <br />
                 <strong>Times:</strong><br />
-                 6.45AM or 6PM
+                 5.45AM, 6.45AM or 6PM
                 
                </div>
 
