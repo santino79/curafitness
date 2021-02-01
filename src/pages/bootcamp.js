@@ -98,13 +98,9 @@ class Bootcamp extends React.Component {
               <h2>How do I sign up for Bootcamp?</h2>
                 <strong>BOOTCAMP APPLICATIONS FOR FEBRUARY 2021 ARE NOW OPEN.</strong>
                 <br /><br />
-                EARLY BIRD DISCOUNT!!
+                Book your spot now..
                 <br /><br />
-                Book your spot and pay before the end of January 2021 and get a massive 25% discount.
-                <br /><br />
-                <strong>ONLY £60  (£3.33 per class) </strong>
-                <br /><br />
-                (25% off compared to actual full price £80)
+                <strong>ONLY £80  (£4.44 per class) </strong>
                 <br /><br />
                 <a href="https://forms.gle/SUhiYFP7xMv9gs8J8" className="goldbutton">Sign Up Now</a>
 
