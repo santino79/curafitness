@@ -33,6 +33,71 @@ class SuccessStories extends React.Component {
 
             <div className="u-textCenter">
 
+            <h2>Bootcamp Success Stories 2021</h2>  
+
+            <img src="/images/ss-bootcamp-2021-1.jpg" alt="Bootcamp Success Story #1 2021" />
+            </div>
+
+            Another day, another fantastic set of results before our next Zoom Bootcamp kicks off on Monday 22nd February.
+
+            Below is a client of mine who struggles mentally without training, and really feels guilty when she goes one week without training. We have been working on her learning how to rest for recovery, and to appreciate how hard she does work when she trains - and how getting on top of the eating makes a massive difference. Below is her very kind review👇
+            So proud of her progress!
+            <br /><br />
+            "I've been training with Liz for just over a year both in the gym and PT sessions and I have just finished the 6 week bootcamp. I was worried that an online bootcamp wouldn't be as effective as the gym but Liz has expertly tailored every session and has adapted it to suit equipment/levels etc! each session was different and although there were quite a few times I thought I was going to be sick after the bootcamp class I really enjoyed them!I must admit my eating hasn't been 100% on point and I have still noticed a difference in my body shape! I would definitely recommend bootcamp!"
+            <br /><br />
+            She also messaged when she sent me these photos to say "I haven't put these leggings on since I started the bootcamp and it was only today that I noticed a difference! my belly definitely isn't as bloated!can't wait for the next 1!"💪
+            <br /><br />
+            <div className="u-textCenter">
+
+            <img src="/images/ss-bootcamp-2021-2.jpg" alt="Bootcamp Success Story #2 Kelly Loughran 2021" />
+            </div>
+
+            <strong><em>Kelly Loughran:</em></strong> "So what can I say about Cura Fitness and the amazing Elizabeth who is behind it with her lovely hubby. I joined a year ago now mum and baby classes which were absolutely amazing. 
+            <br /><br />
+            Getting out with a very clingy baby leaving him not too far away but enough for me to get some space knowing he was welled looked after was fantastic.
+            <br /><br />
+            I felt so welcome and at home the minute I stepped in to cura such a friendly atmosphere and great fun too everyone making me feel so welcome.
+            <br /><br />
+            Unfortunately as we know lock down happened and everyones desire to stay fit took a tumble and so did motivation. In steps Liz absolutely amazing setting up on line zoom bootcamp motivating us and despite everything this year has threw at her business wise still is.
+            <br /><br />
+            Bootcamp is a fantastic not only health life saver for me physically but mentally too. I for one would be lost without the constant support and pushing liz gives us especially when needed.
+            <br /><br />
+            Liz is not only a pt to me but an amazing friend just at the end off the phone willing to help no matter what. Excellent for nutrition advise and amazing at keeping us motivated thanks so much. #femalefitness #knowyourworth #wegotthistogether "
+            <br /><br />
+
+
+            <div className="u-textCenter">
+
+            <img src="/images/ss-bootcamp-2021-3.jpg" alt="Bootcamp Success Story #3 2021" />
+            </div>
+
+            Another set of fantastic 6 week results this morning!
+            <br /><br />
+            With -9.6 lbs off, along with just over -19 inches off all over, this client is delighted with her progress to date (as am I! Amazing!) Including -3 inches off chest, -2.5 inches off belly button and 8.5 inches off both thighs!
+            <br /><br />
+            You can really see the changes in the photos below, and i know she will continue to progress into the next 6 week Bootcamp (along with my Barbell class on Saturdays).
+            <br /><br />
+            These ladies have changed physically, in fitness, and yet grown in knowledge and strength.
+            What do they all have in common? Goals! And the accountability of 6 weeks training! They will all tell you it has been tough, and they have struggled, but they have not quit.
+            <br /><br />
+            Proud of you all! See you on the 22nd February for 6 more weeks😊
+            <br /><br />
+
+
+            <div className="u-textCenter">
+
+            <img src="/images/ss-bootcamp-2021-4.jpg" alt="Bootcamp Success Story #4 2021" />
+            </div>
+
+            Another fantastic set of results from another Zoom Bootcamp member who attended all 6 weeks, along with my Saturday Barbell class.
+            <br /><br />
+            She really knuckled down on her eating - adding more vegetables to her meals, increased protein, introduced some intermittent fasting - and the result is a phenomenal -33 inches off (almost 6 inches off her belly button alone, and 10 inches off both thighs!) along with -16.5lbs!!
+            <br /><br />
+            Super proud, as not only has she worked hard, but been a great support to Cura over the past year. If it weren't for lockdown we may never have met, so I'm grateful for the clients like her who have become friends and have trusted me with their fitness and nutrition journey. I am on my nutrition journey myself, with #MacNutritionUni as an #MNUStudent2020 and love sharing my knowledge to date with my clients and seeing the difference this makes!
+            <br /><br />
+
+
+            <div className="u-textCenter">
             <h2>Claire Campbell - 15 Week Challenge Winner 2019</h2>
 
             <img src="/images/clairecampbell-300x300.jpg" alt="Claire Campbell" />

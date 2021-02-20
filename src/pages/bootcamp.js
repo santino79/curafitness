@@ -68,7 +68,7 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class personal trainer will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                <em>Next Bootcamp:</em> Monday 22nd February 2021 to Friday 2nd April 2021
+                Monday 22nd February 2021 to Friday 2nd April 2021
                 <br /><br />
                 <strong>Days:</strong><br />
                  Monday, Wednesday and Friday.
@@ -96,13 +96,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS FOR FEBRUARY 2021 ARE NOW OPEN.</strong>
+                <strong>BOOTCAMP APPLICATIONS FOR FEBRUARY 2021 ARE NOW CLOSED.</strong>
                 <br /><br />
-                Book your spot now..
+                Interested in lerning more about our Online Bootcamp?
                 <br /><br />
-                <strong>ONLY £80  (£4.44 per class) </strong>
-                <br /><br />
-                <a href="https://forms.gle/SUhiYFP7xMv9gs8J8" className="goldbutton">Sign Up Now</a>
+                <a href="/contact/" className="goldbutton">Contact Us Now</a>
 
               </div>
 
