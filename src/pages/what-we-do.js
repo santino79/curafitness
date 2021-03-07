@@ -117,11 +117,11 @@ class WWDo extends React.Component {
 
                     <div className="u-textCenter">
                         
-                        <h3>Feb 2021 Bootcamp Applications are now closed.</h3>
+                        <h3>April 2021 Bootcamp Applications are now OPEN.</h3>
                       
-                    <strong>Interested in joining up next time?</strong>
+                    <strong>Interested in joining up?</strong>
                       <br /><br />
-                        <a href="/contact/" className="button">Get more details</a>
+                        <a href="/bootcamp/" className="button">Get more details</a>
                     </div>
                     
                 </div>
