@@ -16,7 +16,7 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>Sing Up For April Bootcamp</h1>
+          <h1>Sign Up For April Bootcamp</h1>
           <h2>Spaces are filling up fast.</h2>
           <br />
           <a href="/bootcamp/" className="goldbutton">Find Out More</a>
