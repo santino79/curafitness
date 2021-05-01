@@ -100,7 +100,7 @@ class WWDo extends React.Component {
 
                 <div className="col-4 bgsilver">
                     <h2 className="u-textCenter">Online Bootcamp</h2>
-                    <strong>Six weeks. 3 x 30 minute sessions per week.<br /><br />
+                    <strong>Seven weeks. 3 x 30 minute sessions per week.<br /><br />
                     All from the comfort of your own living room.</strong>
                     <br /><br />
                     Shredding the pounds and inches off as you go.
@@ -117,9 +117,9 @@ class WWDo extends React.Component {
 
                     <div className="u-textCenter">
                         
-                        <h3>April 2021 Bootcamp Applications are now CLOSED.</h3>
+                        <h3>May 2021 Bootcamp Applications are now OPEN.</h3>
                       
-                    <strong>Interested in joining up next time?</strong>
+                    <strong>Interested in joining up?</strong>
                       <br /><br />
                         <a href="/bootcamp/" className="button">Get more details</a>
                     </div>

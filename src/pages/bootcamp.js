@@ -22,7 +22,7 @@ class Bootcamp extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Six weeks. Eighteen sessions. Let's get it on.</h2>
+              <h2>Seven weeks. Twenty-one sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -34,7 +34,7 @@ class Bootcamp extends React.Component {
                 <h2>What is Bootcamp?</h2>
                 <strong><em>NB: Due to Covid-19, Bootcamp is now conducted online via Zoom.</em></strong>
                 <br /><br />
-                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                Seven weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                 <br /><br />
@@ -68,13 +68,13 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class personal trainer will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 12th April 2021 to Friday 21st May 2021
+                Monday 24th May 2021 to Friday 9th July 2021
                 <br /><br />
                 <strong>Days:</strong><br />
                  Monday, Wednesday and Friday.
                 <br />
                 <strong>Times:</strong><br />
-                 5.45AM, 6.45AM or 6PM
+                 5.45AM or 6PM
                 
                </div>
 
@@ -96,11 +96,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS FOR APRIL 2021 ARE NOW CLOSED.</strong>
+                <strong>BOOTCAMP APPLICATIONS FOR MAY 2021 ARE NOW OPEN!</strong>
                 <br /><br />
-                <strong>Next intake: May 2021</strong>
+                <strong>ONLY £90 (£4.29 per session - 7 week series.)</strong>
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Register your interest</a>
+                <a href="https://forms.gle/dtgs8KzLBif1V3qu8" className="goldbutton">Sign Up Now</a>
 
               </div>
 
