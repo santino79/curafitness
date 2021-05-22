@@ -96,11 +96,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS FOR MAY 2021 ARE NOW OPEN!</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
                 <br /><br />
-                <strong>ONLY £90 (£4.29 per session - 7 week series.)</strong>
+                <strong>Interested in small group PT sessions in our studio?</strong>
                 <br /><br />
-                <a href="https://forms.gle/dtgs8KzLBif1V3qu8" className="goldbutton">Sign Up Now</a>
+                <a href="/contact/" className="goldbutton">Get in touch</a>
 
               </div>
 
