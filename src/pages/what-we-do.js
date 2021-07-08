@@ -50,7 +50,7 @@ class WWDo extends React.Component {
                 <h3>Plans and Pricing.</h3>
                 We don’t have dozens of different plans to confuse people.
                 <br /><br />
-                Coronavirus has made us change the way we work but we still offer a range of plans to suit your personal goals.
+                Coronavirus has made us change the way we work but we still offer a range of options to suit your personal goals.
 
             </p>   
 
@@ -58,58 +58,17 @@ class WWDo extends React.Component {
 
             <div className="row">
 
-                <div className="col-4 bgbronze">
 
-                    <h2 className="u-textCenter">Online LIVE Classes</h2>
-                    <strong>
-                    Fitter. Healthier. Stronger.
-                    </strong>
+                <div className="col-6 bgsilver">
+                    <h2 className="u-textCenter">Small Group Studio Sessions</h2>
+                    <strong>Worried that lockdown encouraged you into some bad behaviours?</strong> You aren't alone.
                     <br /><br />
-                    Pay only £20/month and get access to our growing online community with support and guidance from our expert personal trainer.
+                    If you want to get a kickstart into getting fitter and healthier or losing a few of those extra lockdown inches 
+                    then these 30 or 45 minute sessions will be perfect for you.
                     <br /><br />
-                    You  get unlimited access to our full online catalogue of expertly planned LIVE 
-                    sessions. Do as many as you want for the whole of that month.
+                    With a range of different options from Barbell to Circuits to Small Group PT, you'll be working hard and shredding the pounds and inches off as you go.
                     <br /><br />
-
-                    <strong>Choose from classes including:</strong>
-                    <br /><br />
-
-                    Circuits : Upper Body Dumbbells : Boxfit : Legs, Bums, Tums : Core Conditioning : And much more!
-                    <br /><br />
-                    <ul>
-                        <li>
-                        No joining fee.
-                        </li>
-                        <li>
-                        No contract.
-                        </li>
-                        <li>
-                        No leaving fee.
-                        </li>
-                        
-                    </ul>
-
-                    <div className="u-textCenter">
-                        <h3>Limited spaces available.</h3>
-                        <h2>£20 / month</h2>
-                        <strong>Want to find out more?</strong>
-                        <br /><br />
-                        <a href="/contact/" className="button">Book your place now</a>
-                    </div>
-                </div>
-
-                <div className="col-4 bgsilver">
-                    <h2 className="u-textCenter">Online Bootcamp</h2>
-                    <strong>Seven weeks. 3 x 30 minute sessions per week.<br /><br />
-                    All from the comfort of your own living room.</strong>
-                    <br /><br />
-                    Shredding the pounds and inches off as you go.
-                    <br /><br />
-                    Not for the faint hearted.
-                    <br /><br />
-                    Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
-                    <br /><br />
-                    Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more.
+                    Studio Sessions are not for the faint hearted.
                     <br /><br />
                     You will work like you have never worked before but if you put the effort in, you will get your reward back out.
                     <br /><br />
@@ -117,16 +76,14 @@ class WWDo extends React.Component {
 
                     <div className="u-textCenter">
                         
-                        <h3>May 2021 Bootcamp Applications are now CLOSED.</h3>
+                        <h3>Want to find out more about small group studio sessions?</h3>
                       
-                    <strong>Interested in small group PT sessions in the studio?</strong>
-                      <br /><br />
                         <a href="/contact/" className="button">Get in touch</a>
                     </div>
                     
                 </div>
 
-                <div className="col-4 bggold">
+                <div className="col-6 bggold">
 
                 <h2 className="u-textCenter">Personal Training</h2>
                 For those who want to <strong>go the extra mile</strong> to <strong>get the results</strong> they want to see.

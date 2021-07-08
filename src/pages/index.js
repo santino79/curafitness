@@ -27,7 +27,7 @@ class Index extends React.Component {
 
             <div className="u-textCenter">
 
-              <h2>Online Fitness Classes and Studio-Based Personal Training.</h2>
+              <h2>Small Group Female Fitness Classes and Personal Training.</h2>
               <p>
               Cura Fitness is a female only boutique fitness studio based in Banbridge, County Down, Northern Ireland.
               </p>
@@ -85,40 +85,23 @@ class Index extends React.Component {
           <div className="grid-wrapper">
               <div className="box1 bgimgs bgimg1"></div>
               <div className="box2">
-                  <h2>Unlimited Online LIVE Classes</h2>
+                  <h2>Small Group Studio Sessions</h2>
                   <p>
-                  <strong>ONE MONTHLY MEMBERSHIP.</strong>
+                  <strong>Ready to put lockdown behind you and build a new you?</strong>
                   <br /><br />
-                  <strong>AS MANY CLASSES AS YOU CAN HANDLE.</strong>
+                  Our Small Group sessions are specially tailored to hit all of your muscle groups, making you fitter, healthier and stronger.
                   <br /><br />
-                  Early morning, after school run, evenings. Any time that suits you.
+                  Whether it's early morning, after school run or in the evenings, we offer times that suit you.
                   <br /><br />
-                  Access our catalogue of expertly planned online video workouts from our industry leading personal trainer.
+                  From beginners and those getting back into fitness after a time away, we've got something for everyone.
                   <br /><br />
-                  Something to suit everyone. No excuses.
-                  <br /><br />
-                  <a href="/what-we-do/" className="button">Find Out More About Online LIVE Membership</a>
+                  <a href="/what-we-do/" className="button">Find Out More About Small Group Fitness Sessions</a>
                   </p>              
                 
               </div>
-              <div className="box3">
-                  <h2>Online Bootcamp</h2>
-                  <p>
-                  <strong>A little apprehensive about whether you’ll stick at your new fitness regime? Online Bootcamp might be your best starting point.</strong>
-                  <br /><br />
-                  Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
-                  <br /><br />
-                  Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
-                  <br /><br />
-                  Expect calisthenics, push ups, lunges, squats, sprints, military-style drills and so much more. All from the comfort and safety of your own home.
-                  <br /><br />
-                  <a href="/bootcamp/" className="button">Find Out More About Bootcamp At Cura Fitness</a>
-                  </p>            
-              </div>
-              <div className="box4 bgimgs bgimg2"></div>
 
-              <div className="box5 bgimgs bgimgehpt"></div>
-              <div className="box6">
+
+              <div className="box3">
                   <h2>Personal Training</h2>
                   <p>
                   <strong>Feel like you've hit a wall in your journey?</strong>
@@ -132,6 +115,7 @@ class Index extends React.Component {
                   <a href="https://elizabethhylands.com" className="button">Find Out More About Elizabeth Hylands Personal Training</a>
                   </p>
               </div>
+              <div className="box4 bgimgs bgimgehpt"></div>
             </div>
 
           </div>

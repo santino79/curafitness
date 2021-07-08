@@ -29,7 +29,7 @@ class AboutPage extends React.Component {
               <h3>What do you do?</h3>
               Cura Fitness is a female only boutique fitness studio based in Banbridge, County Down, Northern Ireland.
               <br /><br />
-              We provide online fitness classes, bootcamps and studio-based individual and small group personal training for ladies of all ages, shapes, sizes and fitness levels.
+              We provide studio-based individual and small group personal training for ladies of all ages, shapes, sizes and fitness levels.
               </div>
               <div className="col-6">
                 <h3>What does Cura mean?</h3>
@@ -56,9 +56,7 @@ class AboutPage extends React.Component {
                 <br /><br />
                 I started teaching 8 or so classes per week in Banbridge Rugby Club, with one week of free trials to get me started, and by the end of January had 22 monthly members.
                 <br /><br />
-                Due to word of mouth, by March this doubled and by May, we had to look at securing our own premises locally, in order to hold the volume of classes we needed to – as well as employing another instructor.
-                <br /><br />
-                Trisha Camely came on board, and has been a massive asset to Cura Fitness. Having been a member herself, the girls all knew her and feedback was great from her classes.”
+                Due to word of mouth, by March this doubled and by May, we had to look at securing our own premises locally, in order to hold the volume of classes we needed to.
                 <br /><br />
                 <blockquote>There are no cliques, no posing in front of mirrors and each person that comes through the door is made to feel welcome.</blockquote>
 

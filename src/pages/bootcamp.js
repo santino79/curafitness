@@ -68,13 +68,8 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class personal trainer will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 24th May 2021 to Friday 9th July 2021
-                <br /><br />
-                <strong>Days:</strong><br />
-                 Monday, Wednesday and Friday.
-                <br />
-                <strong>Times:</strong><br />
-                 5.45AM or 6PM
+                WE HAVE NO FUTURE PLANS FOR BOOTCAMP.
+               
                 
                </div>
 

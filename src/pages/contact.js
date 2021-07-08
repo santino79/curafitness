@@ -23,7 +23,7 @@ class ContactPage extends React.Component {
           <hr className="style1" />
         
         <p>
-        If you are interested in Online Bootcamp, Small Group Studio Sessions or Personal Training, please send us a message on the form below to book a free consultation:
+        If you are interested in Small Group Studio Sessions or Personal Training, please send us a message on the form below to book a free consultation:
         </p>
           </div>
 
