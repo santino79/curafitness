@@ -16,10 +16,10 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>Christmas Isn't Far Away.</h1>
-          <h2>Are you ready to take on the 15 Week Challenge?</h2>
+          <h1>Still Getting Over Lockdown?</h1>
+          <h2>Take positive steps to get your health and fitness back on track.</h2>
           <br />
-          <a href="/15-week-challenge/" className="goldbutton">Find Out More</a>
+          <a href="/what-we-do/" className="goldbutton">Find Out More</a>
       </div>
 
       <div className="Column">

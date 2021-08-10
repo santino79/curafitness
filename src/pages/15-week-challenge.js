@@ -51,6 +51,7 @@ class Challenge extends React.Component {
                 </ul>               
 
                 But most of all it's the added self-confidence and self-esteem that you can get from making tough changes to your lifestyle and getting the results you want at the end.
+git status
 
                 </div>
             <div className="col-6">
@@ -112,7 +113,7 @@ class Challenge extends React.Component {
             <br /><br />
             Cost is £50, payable on application acceptance and is non-refundable.
             <br /><br />
-            <a href="https://forms.gle/PbN7cJntjc6id7Mh6" className="goldbutton">Sign Up Now</a>
+            <strong>APPLICATIONS FOR 15 WEEK CHALLENGE ARE NOW CLOSED.</strong>
             </div>
 
         </div>
