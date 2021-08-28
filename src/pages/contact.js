@@ -23,8 +23,10 @@ class ContactPage extends React.Component {
           <hr className="style1" />
         
         <p>
-        If you are interested in Small Group Studio Sessions or Personal Training, please send us a message on the form below to book a free consultation:
+        If you are interested in Small Group Studio Sessions or Personal Training, please send us a message on the form below and we'll get back to you as soon as possible.
         </p>
+        <h3>NOTE: WE ARE CURRENTLY FULLY BOOKED FOR ONE-TO-ONE PERSONAL TRAINING</h3>
+        <p><em>If you would like to join our waiting list, please fill out the form with your availability and we'll get back to you when spaces open up.</em></p>
           </div>
 
           <div className="u-textLeft">
@@ -68,7 +70,7 @@ class ContactPage extends React.Component {
             <p>
                 <strong>Studio address:</strong> 1st Floor, 32 Bridge Street, Banbridge, Co. Down BT32 3JS
                 <br /><br />
-                (We don’t accept walk-ins for consultations or class trials however so please do get in touch first to book your free private consultation.)
+                (We don’t accept walk-ins for consultations or classes however so please do get in touch first to arrange a consultation.)
                 <br /><br />
                 <em>Cura Fitness Ltd is a limited company registered in Northern Ireland (Company Reg No: NI653208).
                     <br />

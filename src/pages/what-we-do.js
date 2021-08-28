@@ -110,9 +110,9 @@ class WWDo extends React.Component {
                     </ul>
 
                     <div className="u-textCenter">
-                        <h3>Limited availability for online personal training.</h3>
-                        <br /><br />
-                        <a href="/contact/" className="button">Register your interest</a>
+                        <h3>WE'RE FULLY BOOKED!<br /><br />
+                        Currently no availability for personal training.</h3>
+                        <a href="/contact/" className="button">Join our waiting list</a>
                     </div>
 
                 </div>
