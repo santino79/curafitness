@@ -15,14 +15,14 @@ class Bootcamp extends React.Component {
           keywords={[`cura fitness`, `bootcamp`]}
         />
 <div className="Hero BootcampHero">
-  <h1>Online Bootcamp</h1>
+  <h1>Bootcamp</h1>
 </div>
 
 <div className="Column">
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Seven weeks. Twenty-one sessions. Let's get it on.</h2>
+              <h2>Six weeks. Eighteen sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -32,9 +32,7 @@ class Bootcamp extends React.Component {
 
                 <div className="col-6">
                 <h2>What is Bootcamp?</h2>
-                <strong><em>NB: Due to Covid-19, Bootcamp is now conducted online via Zoom.</em></strong>
-                <br /><br />
-                Seven weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                 <br /><br />
@@ -68,9 +66,11 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class personal trainer will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                WE HAVE NO FUTURE PLANS FOR BOOTCAMP.
-               
-                
+                Monday 3rd January 2022 - Friday 11th February 2022
+               <br /><br />
+               <strong>Times:</strong><br />
+                Morning: 6AM - 6.30AM<br />
+                Evening: 6PM - 6.30PM
                </div>
 
             </div>
@@ -91,11 +91,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN!</strong>
                 <br /><br />
-                <strong>Interested in small group PT sessions in our studio?</strong>
+                <strong>Get more details and fill in your application by clicking the button below.</strong>
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Get in touch</a>
+                <a href="https://forms.gle/cMixRx2KuqsNx6vFA" className="goldbutton">Apply now</a>
 
               </div>
 
