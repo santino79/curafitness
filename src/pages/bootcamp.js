@@ -69,7 +69,8 @@ class Bootcamp extends React.Component {
                 Monday 3rd January 2022 - Friday 11th February 2022
                <br /><br />
                <strong>Times:</strong><br />
-                Morning: 6AM - 6.30AM<br />
+                <strike>Morning: 6AM - 6.30AM</strike> <strong>FULLY BOOKED</strong>
+                <br />
                 Evening: 6PM - 6.30PM
                </div>
 
