@@ -37,9 +37,9 @@ class WWDo extends React.Component {
                 <br /><br />
                 Six weeks. Eighteen sessions. Starting Monday 3rd January until Friday 11th February.
                 <br /><br />
-                We have limited spaces still available in the 6PM Evening slot. (Sorry, 6AM is FULLY BOOKED.)
+                <strike>We have limited spaces still available in the 6PM Evening slot. (Sorry, 6AM is FULLY BOOKED.)</strike>
                 <br /><br />
-                <a href="/bootcamp/" className="button">Find Out More About Bootcamp</a>
+                <strong>Bootcamp applications are now CLOSED.</strong>
 
                 <h2><em>Small Group Studio Sessions</em></h2>
                 Our Small Group sessions are specially tailored to hit all of your muscle groups, making you fitter, healthier and stronger.
