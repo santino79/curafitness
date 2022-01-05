@@ -37,7 +37,7 @@ class WWDo extends React.Component {
                 <br /><br />
                 Six weeks. Eighteen sessions. Starting Monday 3rd January until Friday 11th February.
                 <br /><br />
-                <strike>We have limited spaces still available in the 6PM Evening slot. (Sorry, 6AM is FULLY BOOKED.)</strike>
+                <strike>We have limited spaces still available in the 6PM Evening slot. (Sorry, 6AM and 6PM are FULLY BOOKED.)</strike>
                 <br /><br />
                 <strong>Bootcamp applications are now CLOSED.</strong>
 
@@ -47,7 +47,7 @@ class WWDo extends React.Component {
                 Whether it's early morning or in the evenings, we offer times that suit you. 
                 With classes including Circuits, Barbell, Lights Weights and Cardio, there really is something for everyone.
                 <br /><br />
-                Our January timetable will go live at the end of December so if you would like to find out more or 
+                Our January timetable is now live so if you would like to find out more or 
                 get added to our booking system, contact us on the link below.
                 <br /><br />
                 <a href="/contact" className="button">Find Out More About Small Group Studio Sessions</a>
@@ -58,7 +58,7 @@ class WWDo extends React.Component {
                 <br /><br />
                 We've recently started to offer <strong>Pilates With Jill</strong> on Tuesday and Thursday evenings and demand has been massive.
                 <br /><br />
-                We have very limited spaces left for a four week Thursday block starting on Thursday 6th January at 7.15PM. Classes last for 45 minutes and the four week block costs £30. 
+                Classes last for 45 minutes and the four week block costs £30. January's classes are fully booked but get in touch for future releases.
                 <br /><br />
                 <a href="/contact/" className="button">Contact About Pilates Availability</a>
 

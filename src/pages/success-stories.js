@@ -269,6 +269,34 @@ class SuccessStories extends React.Component {
 
 
             <div className="u-textCenter">
+            <h2>Linda Wills - Update!</h2>
+            <img src="/images/linda-wills-400x400_050122.jpg" alt="Linda Wills - Updated pics" />
+            </div>
+
+            <br /><br />
+            Loving the progress I’m making at Cura Fitness. It is the only class that has worked for me and I’ve tried quite a few🙈 The classes are fun and quick and effective which suits me perfectly. 👌
+            <br /><br />
+            I’ve been attending the body transformation group with Liz for the last 8 weeks and this has given me the nutritional advice I needed to tweak my diet and I’ve lost 12.5lbs and 15.5 inches so far leaving my totals since joining at over 51 inches and 32lbs!!!!
+            <br /><br />
+            A big thank you to the Cura team for all their guidance and support  🙏 and for the other members for making the classes fun I could never have achieved this on my own  😊😘 
+            <br /><br />
+
+            <div className="u-textCenter">
+            <h2>Linda Wills</h2>
+            <img src="/images/linda_wills-196x300.jpg" alt="Linda Wills" />
+            </div>
+
+            <br /><br />
+            Thank you so much for these fantastic photos Linda Wills along with your brilliant testimonial below. We love having you as part of Cura. You show such strength & dedication. Your body shape has changed completely & we are all so proud of you.
+            <br /><br />
+            “I joined Cura Fitness in March 2018 after winning a Facebook competition for one months free classes. Once i started i was instantly hooked. I hadn’t exercised in some time and was fearful getting back into exercise due to underlying health conditions, however i was worrying for nothing.
+            <br /><br />
+            The small group size suited me brilliantly and i felt like no-one was judging me if i was slow or didn’t know the exercises. Liz was always on hand to adjust any i was having difficulty with and i always felt that i left the classes feeling a great sense of achievement.
+            <br /><br />
+            Ten months later i am loving exercise again! I am stronger fitter and healthier than i have been in some time having lost over 35 inches to date and have a new found love of burpees and while i still have challenges at times i’m excited to see what 2019 brings. Thank you Cura!”
+            <br /><br />
+
+            <div className="u-textCenter">
             <h2>Kirsty Wilson</h2>
             <img src="/images/kirsty-wilson2019-11-29.jpg" alt="Kirsty Wilson" />
             </div>
@@ -367,20 +395,7 @@ class SuccessStories extends React.Component {
             There is such a variety of classes to choose from each week and I would highly recommend Cura Fitness to anyone who wants and is willing to make a change in their life for the better. I could not speak highly enough of the instructors and honestly could not have got to where I am today without them.”
             <br /><br />
 
-            <div className="u-textCenter">
-            <h2>Linda Wills</h2>
-            <img src="/images/linda_wills-196x300.jpg" alt="Linda Wills" />
-            </div>
 
-            <br /><br />
-            Thank you so much for these fantastic photos Linda Wills along with your brilliant testimonial below. We love having you as part of Cura. You show such strength & dedication. Your body shape has changed completely & we are all so proud of you.
-            <br /><br />
-            “I joined Cura Fitness in March 2018 after winning a Facebook competition for one months free classes. Once i started i was instantly hooked. I hadn’t exercised in some time and was fearful getting back into exercise due to underlying health conditions, however i was worrying for nothing.
-            <br /><br />
-            The small group size suited me brilliantly and i felt like no-one was judging me if i was slow or didn’t know the exercises. Liz was always on hand to adjust any i was having difficulty with and i always felt that i left the classes feeling a great sense of achievement.
-            <br /><br />
-            Ten months later i am loving exercise again! I am stronger fitter and healthier than i have been in some time having lost over 35 inches to date and have a new found love of burpees and while i still have challenges at times i’m excited to see what 2019 brings. Thank you Cura!”
-            <br /><br />
 
             <div className="u-textCenter">
             <h2>Audrey Docherty</h2>
