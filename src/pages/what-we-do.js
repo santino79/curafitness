@@ -24,22 +24,26 @@ class WWDo extends React.Component {
           <div className="MainContent">
 
             <div className="u-textLeft">
-              <h2>What's on offer in January 2022 at Cura Fitness?</h2>
+              <h2>What's coming up in 2022 at Cura Fitness?</h2>
 
             <p>
 
                 From Bootcamp to Pilates, small group studio sessions to individual one-on-one Personal Training, we've got something for everyone.
                 <br /><br />
-                Demand has been very high already as we close out 2021 so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
+                Demand has been very high already as we started into 2022 so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
 
                 <h2><em>Bootcamp</em></h2>
-                <a href="/bootcamp/"><img src="/images/CFJan2022BootcampFlyerA4W400.png" alt="January 2022 Bootcamp" /></a>
+                <a href="/bootcamp/"><img src="/images/CFFeb2022BootcampFlyerA4v1.png" alt="Feb - April 2022 Bootcamp" /></a>
                 <br /><br />
-                Six weeks. Eighteen sessions. Starting Monday 3rd January until Friday 11th February.
+                <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                <strike>We have limited spaces still available in the 6PM Evening slot. (Sorry, 6AM and 6PM are FULLY BOOKED.)</strike>
+                Eight weeks. Twenty four sessions. Starting Monday 21st February until Friday 15th April.
                 <br /><br />
-                <strong>Bootcamp applications are now CLOSED.</strong>
+                We have spaces available in FIVE time slots: 6AM, 6.45AM, 9.30AM, 6PM and 6.45PM.
+                <br /><br />
+                <strong>Bootcamp applications are now OPEN.</strong>
+                <br /><br />
+                <a href="/bootcamp" className="button">Find Out More About Bootcamp</a>
 
                 <h2><em>Small Group Studio Sessions</em></h2>
                 Our Small Group sessions are specially tailored to hit all of your muscle groups, making you fitter, healthier and stronger.
