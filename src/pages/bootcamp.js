@@ -72,15 +72,13 @@ class Bootcamp extends React.Component {
                 Monday, Wednesday and Friday each week
                <br /><br />
                <strong>Times:</strong><br />
-                Early Morning: 6AM - 6.30AM
+               <strike>Early Morning: 6AM - 6.30AM</strike> <strong>NO SPACES REMAINING</strong>
                 <br />
                 <strike>Morning: 6.45AM - 7.15AM</strike> <strong>NO SPACES REMAINING</strong>
                 <br />
-                School Run: 9.30AM - 10AM
+                Early Evening: 6PM - 6.30PM <strong>(LAST SPACE AVAILABLE)</strong>
                 <br />
-                Early Evening: 6PM - 6.30PM
-                <br />
-                Evening: 6.45PM - 7.15PM                
+                Evening: 6.45PM - 7.15PM <strong>(LAST SPACE AVAILABLE)</strong>
                </div>
 
             </div>
