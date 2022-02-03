@@ -39,9 +39,9 @@ class WWDo extends React.Component {
                 <br /><br />
                 Eight weeks. Twenty four sessions. Starting Monday 21st February until Friday 15th April.
                 <br /><br />
-                We have spaces available in FIVE time slots: 6AM, 6.45AM, 9.30AM, 6PM and 6.45PM.
+                We have spaces available in FOUR time slots: 6AM, 6.45AM, 6PM and 6.45PM.
                 <br /><br />
-                <strong>Bootcamp applications are now OPEN.</strong>
+                <strong>Bootcamp applications are now CLOSED.</strong>
                 <br /><br />
                 <a href="/bootcamp" className="button">Find Out More About Bootcamp</a>
 
@@ -51,7 +51,7 @@ class WWDo extends React.Component {
                 Whether it's early morning or in the evenings, we offer times that suit you. 
                 With classes including Circuits, Barbell, Lights Weights and Cardio, there really is something for everyone.
                 <br /><br />
-                Our January timetable is now live so if you would like to find out more or 
+                Our February timetable is now live so if you would like to find out more or 
                 get added to our booking system, contact us on the link below.
                 <br /><br />
                 <a href="/contact" className="button">Find Out More About Small Group Studio Sessions</a>
@@ -62,7 +62,7 @@ class WWDo extends React.Component {
                 <br /><br />
                 We've recently started to offer <strong>Pilates With Jill</strong> on Tuesday and Thursday evenings and demand has been massive.
                 <br /><br />
-                Classes last for 45 minutes and the four week block costs £30. January's classes are fully booked but get in touch for future releases.
+                Classes last for 45 minutes and the four week block costs £30. February classes are fully booked but get in touch for future releases.
                 <br /><br />
                 <a href="/contact/" className="button">Contact About Pilates Availability</a>
 
