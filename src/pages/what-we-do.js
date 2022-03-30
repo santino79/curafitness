@@ -24,7 +24,7 @@ class WWDo extends React.Component {
           <div className="MainContent">
 
             <div className="u-textLeft">
-              <h2>What's coming up in 2022 at Cura Fitness?</h2>
+              <h2>What's going on at Cura Fitness?</h2>
 
             <p>
 
@@ -37,24 +37,13 @@ class WWDo extends React.Component {
                 <br /><br />
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Eight weeks. Twenty four sessions. Starting Monday 21st February until Friday 15th April.
+                Ten weeks. Thirty sessions. Starting Monday 25th April February until Friday 1st July.
                 <br /><br />
-                We have spaces available in FOUR time slots: 6AM, 6.45AM, 6PM and 6.45PM.
+                We have spaces available in <strike>FOUR</strike> TWO time slots: <strike>6AM, 6.45AM,</strike> 6PM and 6.45PM.
                 <br /><br />
-                <strong>Bootcamp applications are now CLOSED.</strong>
+                <strong>Bootcamp applications are now OPEN.</strong>
                 <br /><br />
                 <a href="/bootcamp" className="button">Find Out More About Bootcamp</a>
-
-                <h2><em>Small Group Studio Sessions</em></h2>
-                Our Small Group sessions are specially tailored to hit all of your muscle groups, making you fitter, healthier and stronger.
-                <br /><br />
-                Whether it's early morning or in the evenings, we offer times that suit you. 
-                With classes including Circuits, Barbell, Lights Weights and Cardio, there really is something for everyone.
-                <br /><br />
-                Our February timetable is now live so if you would like to find out more or 
-                get added to our booking system, contact us on the link below.
-                <br /><br />
-                <a href="/contact" className="button">Find Out More About Small Group Studio Sessions</a>
 
                 <br /><br />
                 <br /><br />

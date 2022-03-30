@@ -22,7 +22,7 @@ class Bootcamp extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Eight weeks. 24 sessions. Let's get it on.</h2>
+              <h2>Ten weeks. 30 sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -32,7 +32,7 @@ class Bootcamp extends React.Component {
 
                 <div className="col-6">
                 <h2>What is Bootcamp?</h2>
-                Eight weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                Ten weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                 <br /><br />
@@ -51,7 +51,7 @@ class Bootcamp extends React.Component {
                     Have a very strict schedule with work, family or other commitments.
                     </li>
                     <li>
-                    Want to try it out for the 8 week course before deciding on your next fitness plan.                
+                    Want to try it out for the 10 week course before deciding on your next fitness plan.                
                     </li>
 
                 </ul>
@@ -66,7 +66,9 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 21st February 2022 - Friday 15th April 2022
+                <strong>Part 1:</strong> Monday 25th April 2022 - Friday 27th May 2022
+                <br />
+                <strong>Part 2:</strong> Monday 30th May 2022 - Friday 1st July 2022
                <br /><br />
                <strong>Days:</strong><br />
                 Monday, Wednesday and Friday each week
@@ -76,9 +78,9 @@ class Bootcamp extends React.Component {
                 <br />
                 <strike>Morning: 6.45AM - 7.15AM</strike> <strong>NO SPACES REMAINING</strong>
                 <br />
-                <strike>Early Evening: 6PM - 6.30PM </strike> <strong>NO SPACES REMAINING</strong>
+                Early Evening: 6PM - 6.30PM <strong>LIMITED SPACES</strong>
                 <br />
-                <strike>Evening: 6.45PM - 7.15PM </strike><strong>NO SPACES REMAINING</strong>
+                Evening: 6.45PM - 7.15PM <strong>LIMITED SPACES</strong>
                </div>
 
             </div>
@@ -99,11 +101,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED!</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN!</strong>
                 <br /><br />
-                <strong>Want to find out when our next bootcamp intake is happening?</strong>
+                Ready to get signed up?
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Register your interest now</a>
+                <a href="https://forms.gle/zmhood5r4n6QJbk77" className="goldbutton">Apply now</a>
 
               </div>
 

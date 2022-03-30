@@ -16,10 +16,10 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>Looking forward to summer?</h1>
-          <h2>See how we can help you achieve your goals.</h2>
+          <h1>Ready for Bootcamp?</h1>
+          <h2>Supercharge your health and fitness with us.</h2>
           <br />
-          <a href="/what-we-do/" className="goldbutton">Find Out More</a>
+          <a href="/bootcamp/" className="goldbutton">Find Out More</a>
       </div>
 
       <div className="Column">
@@ -85,17 +85,17 @@ class Index extends React.Component {
           <div className="grid-wrapper">
               <div className="box1 bgimgs bgimg1"></div>
               <div className="box2">
-                  <h2>Small Group Studio Sessions</h2>
+                  <h2>Bootcamp</h2>
                   <p>
-                  <strong>Ready to put lockdown behind you and build a new you?</strong>
+                  <strong>Ready to put your past behind you and build a new you?</strong>
                   <br /><br />
-                  Our Small Group sessions are specially tailored to hit all of your muscle groups, making you fitter, healthier and stronger.
+                  Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                   <br /><br />
-                  Whether it's early morning, after school run or in the evenings, we offer times that suit you.
+                  Whether it's early mornings or in the evenings, we offer times that suit you.
                   <br /><br />
                   From beginners and those getting back into fitness after a time away, we've got something for everyone.
                   <br /><br />
-                  <a href="/what-we-do/" className="button">Find Out More About Small Group Fitness Sessions</a>
+                  <a href="/bootcamp/" className="button">Find Out More About Bootcamp</a>
                   </p>              
                 
               </div>

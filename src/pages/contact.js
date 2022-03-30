@@ -23,7 +23,7 @@ class ContactPage extends React.Component {
           <hr className="style1" />
         
         <p>
-        If you are interested in Small Group Studio Sessions, Pilates or Personal Training, please send us a message on the form below and we'll get back to you as soon as possible.
+        If you are interested in Bootcamp, Pilates or Personal Training, please send us a message on the form below and we'll get back to you as soon as possible.
         </p>
         <h3>NOTE: WE HAVE VERY LIMITED AVAILABILITY FOR ONE-TO-ONE PERSONAL TRAINING</h3>
         <p><em>If you would like to see if any slots are currently available, please fill out the form with your availability and we'll get back to you when spaces open up.</em></p>
