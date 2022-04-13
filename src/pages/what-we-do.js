@@ -33,15 +33,13 @@ class WWDo extends React.Component {
                 Demand has been very high already as we started into 2022 so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
 
                 <h2><em>Bootcamp</em></h2>
-                <a href="/bootcamp/"><img src="/images/CFFeb2022BootcampFlyerA4v1.png" alt="Feb - April 2022 Bootcamp" /></a>
-                <br /><br />
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
                 Ten weeks. Thirty sessions. Starting Monday 25th April February until Friday 1st July.
                 <br /><br />
-                We have spaces available in <strike>FOUR</strike> TWO time slots: <strike>6AM, 6.45AM,</strike> 6PM and 6.45PM.
+                <strike>We have spaces available in THREE time slots: 6AM, 6.45AM, and 6.15PM.</strike>
                 <br /><br />
-                <strong>Bootcamp applications are now OPEN.</strong>
+                <strong>Bootcamp applications are now CLOSED.</strong>
                 <br /><br />
                 <a href="/bootcamp" className="button">Find Out More About Bootcamp</a>
 
