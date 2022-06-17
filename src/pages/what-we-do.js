@@ -30,26 +30,25 @@ class WWDo extends React.Component {
 
                 From Bootcamp to Pilates, small group studio sessions to individual one-on-one Personal Training, we've got something for everyone.
                 <br /><br />
-                Demand has been very high already as we started into 2022 so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
+                Demand has been very high all through 2022 so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
 
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Ten weeks. Thirty sessions. Starting Monday 25th April February until Friday 1st July.
+                Five weeks. Fifteen sessions. Starting Monday 18th July until Friday 19th AUgust.
                 <br /><br />
-                <strike>We have spaces available in THREE time slots: 6AM, 6.45AM, and 6.15PM.</strike>
+                We offer THREE time slots: 6AM, 6.45AM, and 6.15PM.
                 <br /><br />
-                <strong>Bootcamp applications are now CLOSED.</strong>
+                <strong>Bootcamp applications are opening soon.</strong>
                 <br /><br />
                 <a href="/bootcamp" className="button">Find Out More About Bootcamp</a>
 
                 <br /><br />
                 <br /><br />
-                <img src="/images/pilates-with-jillW400.png" alt="Pilates With Jill" />
+                <h2><em>Pilates</em></h2>
+                We've recently started to offer <strong>Pilates</strong> on Tuesday evenings and demand has been massive.
                 <br /><br />
-                We've recently started to offer <strong>Pilates With Jill</strong> on Tuesday and Thursday evenings and demand has been massive.
-                <br /><br />
-                Classes last for 45 minutes and the four week block costs £30. February classes are fully booked but get in touch for future releases.
+                Classes last for 45 minutes and the four week block costs £30. June classes are fully booked but get in touch for future releases.
                 <br /><br />
                 <a href="/contact/" className="button">Contact About Pilates Availability</a>
 
@@ -68,6 +67,8 @@ class WWDo extends React.Component {
 
                 <h2><em>15 Week Challenge</em></h2>
                 Our <a href="/15-week-challenge/">15 Week Challenge</a> only runs from August to mid-December each year.
+                <br /><br />
+                <strong>We'l be releasing info on the 2022 15 Week Challenge very soon.</strong>
                 <br /><br />
                 If it's nutrition advice and diet accountability you are after then watch this space early in the New Year. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
                 will be launching a full new range of nutrition packages soon.  
