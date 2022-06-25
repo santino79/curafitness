@@ -39,7 +39,7 @@ class WWDo extends React.Component {
                 <br /><br />
                 We offer THREE time slots: 6AM, 6.45AM, and 6.15PM.
                 <br /><br />
-                <strong>Bootcamp applications are opening soon.</strong>
+                <strong>Bootcamp applications are now open.</strong>
                 <br /><br />
                 <a href="/bootcamp" className="button">Find Out More About Bootcamp</a>
 
