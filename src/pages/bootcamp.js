@@ -76,8 +76,6 @@ class Bootcamp extends React.Component {
                <strike>Early Morning: 6AM - 6.30AM</strike> <strong>SOLD OUT</strong>
                 <br />
                 Morning: 6.45AM - 7.15AM
-                <br />
-                Evening: 6.15PM - 6.45PM
                </div>
 
             </div>

@@ -37,7 +37,7 @@ class WWDo extends React.Component {
                 <br /><br />
                 Five weeks. Fifteen sessions. Starting Monday 18th July until Friday 19th AUgust.
                 <br /><br />
-                We offer THREE time slots: 6AM, 6.45AM, and 6.15PM.
+                We offer TWO time slots: 6AM and 6.45AM.
                 <br /><br />
                 <strong>Bootcamp applications are now open.</strong>
                 <br /><br />
@@ -48,7 +48,7 @@ class WWDo extends React.Component {
                 <h2><em>Pilates</em></h2>
                 We've recently started to offer <strong>Pilates</strong> on Tuesday evenings and demand has been massive.
                 <br /><br />
-                Classes last for 45 minutes and the four week block costs £30. June classes are fully booked but get in touch for future releases.
+                Classes last for 45 minutes and the six week block costs £48. July classes are fully booked but get in touch for future releases.
                 <br /><br />
                 <a href="/contact/" className="button">Contact About Pilates Availability</a>
 
