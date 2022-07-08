@@ -73,7 +73,7 @@ class Bootcamp extends React.Component {
                 Monday, Wednesday and Friday each week
                <br /><br />
                <strong>Times:</strong><br />
-               <strike>Early Morning: 6AM - 6.30AM</strike> <strong>SOLD OUT</strong>
+               Early Morning: 6AM - 6.30AM
                 <br />
                 Morning: 6.45AM - 7.15AM
                </div>
@@ -96,11 +96,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED</strong>
                 <br /><br />
-                We only have a few places left so get in quick to secure your spot.
+                If you're interested in getting more info on our next boot camp, get in touch..
                 <br /><br />
-                <a href="https://forms.gle/qQVoh7wVqbGd5Yw9A" className="goldbutton">Apply now</a>
+                <a href="/contact/" className="goldbutton">Contact us now</a>
 
               </div>
 
