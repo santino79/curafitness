@@ -35,13 +35,13 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Five weeks. Fifteen sessions. Starting Monday 18th July until Friday 19th AUgust.
+                Eight weeks. Twenty four sessions. Starting Monday 5th September until Friday 28th October 2022.
                 <br /><br />
-                We offer TWO time slots: 6AM and 6.45AM.
+                We offer THREE time slots: 6AM, 6.45AM and 6.15PM.
                 <br /><br />
-                <strong>Bootcamp applications are now closed.</strong>
+                <strong>Bootcamp applications are now open.</strong>
                 <br /><br />
-                <a href="/contact/" className="button">Get in touch if you're interested in the next camp.</a>
+                <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
 
                 <br /><br />
                 <br /><br />
