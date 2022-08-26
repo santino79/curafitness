@@ -39,16 +39,16 @@ class WWDo extends React.Component {
                 <br /><br />
                 We offer THREE time slots: 6AM, 6.45AM and 6.15PM.
                 <br /><br />
-                <strong>Bootcamp applications are now open.</strong>
+                <strong>Bootcamp applications are now closed.</strong>
                 <br /><br />
                 <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
 
                 <br /><br />
                 <br /><br />
                 <h2><em>Pilates</em></h2>
-                We've recently started to offer <strong>Pilates</strong> on Tuesday evenings and demand has been massive.
+                We've recently started to offer <strong>Pilates</strong> on Tuesday and Thursday evenings and demand has been massive.
                 <br /><br />
-                Classes last for 45 minutes and the six week block costs £48. July classes are fully booked but get in touch for future releases.
+                Classes last for 45 minutes and are block booked for the month. Classes do book up quickly in advance but do get in touch for information on future releases.
                 <br /><br />
                 <a href="/contact/" className="button">Contact About Pilates Availability</a>
 
@@ -68,7 +68,7 @@ class WWDo extends React.Component {
                 <h2><em>15 Week Challenge</em></h2>
                 Our <a href="/15-week-challenge/">15 Week Challenge</a> only runs from August to mid-December each year.
                 <br /><br />
-                <strong>We'l be releasing info on the 2022 15 Week Challenge very soon.</strong>
+                <strong>Our 2022 15 Week Challenge starts soon.</strong>
                 <br /><br />
                 If it's nutrition advice and diet accountability you are after then watch this space early in the New Year. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
                 will be launching a full new range of nutrition packages soon.  
