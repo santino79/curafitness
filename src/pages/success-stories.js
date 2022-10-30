@@ -30,6 +30,123 @@ class SuccessStories extends React.Component {
             A collection of success stories from our members and clients, showing just what being a part of Cura Fitness has meant to them and their lives.
             <hr className="style1" />
 
+
+            <div className="u-textCenter">
+
+            <h2>2022 Bootcamp Success Stories</h2>  
+
+            <h3>Charlene</h3>  
+            <img src="/images/charlene-ogle-20221030.jpg" alt="Charlene" />
+            </div>
+            <br /><br />
+
+            8 Weeks of taking part in The 15 Week Challenge, Bootcamp along with 4 weeks of (one session per week of) small group personal training 
+            and this is Charlene now, with over 14 inches off to date and 8lbs!!
+            <br /><br />
+            Charlene was recently diagnosed with under-active Thyroid and thankfully with the correct medication and consistent training/nutrition 
+            she is seeing incredible changes after a long run there of feeling frustrated at training hard and seeing no progress. 
+            <br /><br />
+            This is why I'm grateful that through my Mac Nutrition qualification 
+            i'm able to get alongside my clients with underlying health issues, and support them as much as possible. 
+            <br /><br />
+            So proud of you Charlene. Thank you for not giving up, and also for trusting me. Keep the fantastic work👏      
+            <br /><br />
+
+
+            <div className="u-textCenter">
+
+            <h3>Lynn</h3>  
+            <img src="/images/lynn-moorhead-20221030.jpg" alt="Lynn" />
+            </div>
+            <br /><br />
+
+            Right! This is my last post today (but I literally could post all weekend with the fantastic results we are seeing recently)🥰
+            <br /><br />
+            I wanted to share Lynn's progress over the past 8 months of Bootcamp and Pilates. 
+            Despite shoulder injury sometimes limiting movement (and needing to adapt) she has lost over 20 inches and over 6lbs!!👏
+            (Including -2.5 inches off waist, -3 off belly button, -3.2 off chest, -2 off hips)
+            <br /><br />
+            Lynn gives her all in every session, and I can see such a change in her shape, especially her waist and back really toning in. She has definitely grown in strength and confidence to try the exercises and if we need to change something we do. Proof that consistency is key!
+            <br />
+            Very proud of you Lynn, keep it up, and thank you for supporting us 😀             
+          <br /><br />
+
+          <div className="u-textCenter">
+
+          <h3>Fiona</h3>  
+          <img src="/images/fiona-mcardle-20221030.jpg" alt="Fiona" />
+          </div>
+          <br /><br />
+
+          Incredible 8 months results for Fiona (who attends our Bootcamp), as she has lost almost 24 inches and over 18 lbs!!👏
+          This includes almost -5 inches off her belly button, -4.5 inches off her waist, -3.5 inches off her chest and -3 inches off her hips. 
+          (In this 8 Week Bootcamp alone she lost almost 14 of those inches and just over 4lbs)
+          <br /><br />
+          If Lockdown hadn't happened, and Cura moving to Zoom Bootcamp, I never would have met Fiona so I always say one of the positives for me 
+          of that time was meeting her and her best friend Clare (who I shared progress photo off a few days ago). 
+          I'm very grateful for both their friendship.
+          <br /><br />
+          Fiona sent me a message when I asked if I could share her progress: 
+          <br />
+          "im delighted with my progress in general. Feel healthier and much stronger. Exercise is great for the head too. Lovely bunch of girls too. Thanks to you for putting such good thought into the classes, all different and working every muscle group, love it! ❤ " 
+          Thanks so much for this, and for all your encouragement. Very proud of you! Keep up the great work!! You're proof again that consistency is key🙂         
+          <br /><br />
+
+          <div className="u-textCenter">
+
+          <h3>Danielle</h3>  
+          <img src="/images/danielle-graham-20221030.jpg" alt="Danielle" />
+          </div>
+          <br /><br />
+
+          When you measure - then measure again to be 100% sure the numbers are correct - as Danielle had just under -10 inches off her belly button 
+          alone tonight, after 8 weeks of Bootcamp🙌
+          <br /><br />
+          In total she has almost 20 inches off all over, along with -9lbs off. Incredible progress!🥳
+          <br />
+          The photos say everything, as check out how much leaner and stronger she looks!!💪
+          <br /><br />
+          Danielle has also brought in her food diaries for me to review in recent weeks, 
+          and she is following my nutritional guidance to achieve even better results for herself. Her positive mindset, 
+          full attendance during the 8 week Bootcamp, and willingness to take on feedback have all proved to work for her and I'm so very proud.
+          <br /><br />
+          Keep it up, Danielle! You are doing brilliant 👏           
+          <br /><br />
+
+
+          <div className="u-textCenter">
+
+          <h3>Clare</h3>  
+          <img src="/images/clare-farrell-20221030.jpg" alt="Clare" />
+          </div>
+          <br /><br />
+
+          ⭐️This is what consistency looks like⭐️
+          <br /><br />
+          8 Weeks of Bootcamp, along with weekly food diaries being brought in, and literally simple, achievable changes in nutrition taken on board. 
+          Clare enjoyed a long weekend away during this Camp - proving you can still enjoy life with NO food shame, AND still achieve incredible results. 
+          <br /><br />
+          So proud of you Clare, and thank you for letting me share your progress to date. Bring on the next 6 Week Bootcamp and the rest of the Challenge🙌      
+          <br /><br />
+
+
+          <div className="u-textCenter">
+
+          <h3>Melissa</h3>  
+          <img src="/images/melissa-mccullough-20221030.jpg" alt="Melissa" />
+          </div>
+          <br /><br />
+
+            Hugely proud of the lovely Melissa McCullough, who has lost over 15 inches and almost half a stone from January by taking part in our Bootcamps. 
+            With -3 inches off her arms, -3 inches off her chest/back, -2 off her waist, -2 off her hips, and legs have -4.5 inches off thighs and calves.
+            <br /><br />
+            Melissa has stuck with me from summer 2018, through lockdowns and changes along the way; 
+            always providing encouragement and kind words to all of us in every class.
+            <br /><br />
+            Thank you so much for your friendship and loyalty, Melissa. So proud of you!! 
+            You are looking fantastic! So glad intermittent fasting is helping you too x          
+            <br /><br />
+
             <div className="u-textCenter">
 
             <h2>15 Week Challenge Success Stories 2021</h2>  

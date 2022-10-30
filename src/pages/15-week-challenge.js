@@ -78,9 +78,7 @@ git status
             
                 <h2>When does the next Challenge begin?</h2>
 
-                <strong>Begins:</strong> Monday 30th August 2021
-                <br />
-                <strong>Ends:</strong> Friday 10th December 2021
+                <strong>Begins:</strong> Check back in Spring 2023 for more news.
                 <br /><br />
                 We will hold a Group meeting before the Challenge begins to complete initial weigh-in and measurements on <strong>Wednesday 25th August at 7pm.</strong>
                 

@@ -35,9 +35,7 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Eight weeks. Twenty four sessions. Starting Monday 5th September until Friday 28th October 2022.
-                <br /><br />
-                We offer THREE time slots: 6AM, 6.45AM and 6.15PM.
+                Bootcamps for the rest of 2022 are fully subscribed. We'll be releasing more details for January 2023's schedule before the end of the year.
                 <br /><br />
                 <strong>Bootcamp applications are now closed.</strong>
                 <br /><br />
@@ -68,7 +66,7 @@ class WWDo extends React.Component {
                 <h2><em>15 Week Challenge</em></h2>
                 Our <a href="/15-week-challenge/">15 Week Challenge</a> only runs from August to mid-December each year.
                 <br /><br />
-                <strong>Our 2022 15 Week Challenge starts soon.</strong>
+                <strong>Our 2022 15 Week Challenge ia currently in full swing.</strong>
                 <br /><br />
                 If it's nutrition advice and diet accountability you are after then watch this space early in the New Year. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
                 will be launching a full new range of nutrition packages soon.  
