@@ -51,7 +51,7 @@ class Bootcamp extends React.Component {
                     Have a very strict schedule with work, family or other commitments.
                     </li>
                     <li>
-                    Want to try it out for the 5 week course before deciding on your next fitness plan.                
+                    Want to try it out for the 6 week course before deciding on your next fitness plan.                
                     </li>
 
                 </ul>
