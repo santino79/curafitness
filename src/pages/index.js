@@ -16,7 +16,7 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>We all start somewhere.</h1>
+          <h1>Ready for a new challenge?</h1>
           <h2>See what we offer to help you get started on your journey.</h2>
           <br />
           <a href="/what-we-do/" className="goldbutton">Find out more</a>

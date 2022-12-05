@@ -30,14 +30,14 @@ class WWDo extends React.Component {
 
                 From Bootcamp to Pilates, small group studio sessions to individual one-on-one Personal Training, we've got something for everyone.
                 <br /><br />
-                Demand has been very high all through 2022 so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
+                Demand has been very high all through the year so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
 
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Bootcamps for the rest of 2022 are fully subscribed. We'll be releasing more details for January 2023's schedule before the end of the year.
+                We'll be releasing more details for January 2023's schedule VERY SOON.
                 <br /><br />
-                <strong>Bootcamp applications are now closed.</strong>
+                <strong>Bootcamp applications are not yet open to the public.</strong>
                 <br /><br />
                 <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
 

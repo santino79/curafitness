@@ -22,7 +22,7 @@ class Bootcamp extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Eight weeks. 24 sessions. Let's get it on.</h2>
+              <h2>Six weeks. 18 sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -32,7 +32,7 @@ class Bootcamp extends React.Component {
 
                 <div className="col-6">
                 <h2>What is Bootcamp?</h2>
-                Eight weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                 <br /><br />
@@ -66,18 +66,18 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 5th September 2022 - Friday 28th October 2022
+                Monday 2nd January 2023 - Friday 10th February 2023
 
                <br /><br />
                <strong>Days:</strong><br />
                 Monday, Wednesday and Friday each week
                <br /><br />
                <strong>Times:</strong><br />
-               <strike>Early Morning: 6AM - 6.30AM</strike> !!! SOLD OUT !!!
+               Early Morning: 6AM - 6.30AM
                 <br />
                 Morning: 6.45AM - 7.15AM
                 <br />
-                <strike>Evening: 6.15PM - 6.45PM</strike> !!! SOLD OUT !!!
+                Evening: 6.15PM - 6.45PM
                </div>
 
             </div>
@@ -98,9 +98,9 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOT YET OPEN TO THE PUBLIC</strong>
                 <br /><br />
-                For more details on our next Bootcamp, please click the button below and send us a message.
+                For more details on this next Bootcamp, please click the button below and send us a message.
                 <br /><br />
                 <a href="/contact/" className="goldbutton">Get more details</a>
 
