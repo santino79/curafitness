@@ -35,16 +35,16 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                We'll be releasing more details for January 2023's schedule VERY SOON.
+                Spring 2023 Bootcamp has now started and will run until Friday 9th April. Details of the following Bootcamp will be released later in March. 
                 <br /><br />
-                <strong>Bootcamp applications are not yet open to the public.</strong>
+                <strong>Bootcamp applications are not currently open to the public.</strong>
                 <br /><br />
                 <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
 
                 <br /><br />
                 <br /><br />
                 <h2><em>Pilates</em></h2>
-                We've recently started to offer <strong>Pilates</strong> on Tuesday and Thursday evenings and demand has been massive.
+                We offer <strong>Pilates</strong> on Tuesday evenings.
                 <br /><br />
                 Classes last for 45 minutes and are block booked for the month. Classes do book up quickly in advance but do get in touch for information on future releases.
                 <br /><br />
@@ -64,12 +64,12 @@ class WWDo extends React.Component {
 
 
                 <h2><em>15 Week Challenge</em></h2>
-                Our <a href="/15-week-challenge/">15 Week Challenge</a> only runs from August to mid-December each year.
+                Our <a href="/15-week-challenge/">15 Week Challenge</a> runs from August to mid-December each year.
                 <br /><br />
-                <strong>Our 2022 15 Week Challenge ia currently in full swing.</strong>
+                <strong>Our 2022 15 Week Challenge was a resounding success. Details of our winners and their success coming soon.</strong>
                 <br /><br />
-                If it's nutrition advice and diet accountability you are after then watch this space early in the New Year. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
-                will be launching a full new range of nutrition packages soon.  
+                If it's nutrition advice and diet accountability you are after then please <a href="/contact/">contact us</a>. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
+                will be launching a full range of nutrition packages soon.  
 
 
             </p>   

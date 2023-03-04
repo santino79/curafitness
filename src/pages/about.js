@@ -48,9 +48,9 @@ class AboutPage extends React.Component {
 
               <hr className="style1" />
 
-              The Cura Fitness journey began in November 2017 when Liz Hylands decided to set up her own business, having completed her training and worked at another fitness studio.
+              The Cura Fitness journey began in November 2017 when Elizabeth Hylands decided to set up her own business, having completed her training and worked at another fitness studio.
               <br /><br />
-              <strong>Liz takes up the story:</strong>
+              <strong>Elizabeth takes up the story:</strong>
               <br /><br />
                 “I wanted to integrate the “know your worth” idea that I personally was worth more; that my clients were worth more – and together, self-care was at the heart of it all.
                 <br /><br />
@@ -60,7 +60,7 @@ class AboutPage extends React.Component {
                 <br /><br />
                 <blockquote>There are no cliques, no posing in front of mirrors and each person that comes through the door is made to feel welcome.</blockquote>
 
-                Liz believes there are several reasons why Cura Fitness has been such a success story:
+                Elizabeth believes there are several reasons why Cura Fitness has been such a success story:
                 <br /><br />
                 “It is because the results have been brilliant and speak for themselves. There are no cliques, no posing in front of mirrors and each person that comes through the door is made to feel welcome. Also, during each class, the girls are monitored and instructed on technique.
                 <br /><br />

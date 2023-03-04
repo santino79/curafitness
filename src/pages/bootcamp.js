@@ -66,7 +66,7 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 2nd January 2023 - Friday 10th February 2023
+                Mid-April 2023 (more details released later in March.)
 
                <br /><br />
                <strong>Days:</strong><br />
@@ -98,7 +98,7 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOT YET OPEN TO THE PUBLIC</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOT CURRENTLY OPEN TO THE PUBLIC</strong>
                 <br /><br />
                 For more details on this next Bootcamp, please click the button below and send us a message.
                 <br /><br />
