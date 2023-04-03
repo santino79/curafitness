@@ -35,9 +35,9 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Spring 2023 Bootcamp has now started and will run until Friday 9th April. Details of the following Bootcamp will be released later in March. 
+                Our April / May 2023 5 Week Bootcamp begins on Monday 17th April 2023. 
                 <br /><br />
-                <strong>Bootcamp applications are not currently open to the public.</strong>
+                <strong>Bootcamp applications are currently open to the public but spaces are very limited.</strong>
                 <br /><br />
                 <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
 
