@@ -72,7 +72,7 @@ class Bootcamp extends React.Component {
                 Monday, Wednesday and Friday each week
                <br /><br />
                <strong>Times:</strong><br />
-               !!! SOLD Out !!! Early Morning: 6AM - 6.30AM
+               Early Morning: 6AM - 6.30AM
                 <br />
                 Morning: 6.45AM - 7.15AM
                 <br />
