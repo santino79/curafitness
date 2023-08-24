@@ -60,27 +60,12 @@ git status
 
                 Prizes will be judged based on most inches off, second criteria is weight loss.
                 <br /><br />
-                The top three winners will get:
-                <ol>
-                    <li>
-                    £100 Cura Credit 
-                    </li>
-                    <li>
-                    £50 Cura Credit
-                    </li>
-                    <li>
-                    £25 Cura Credit                
-                    </li>
-                </ol>
-
-                Plus a Cura goody bag. Credit can be used for anything at Cura Fitness, from Group PT to one-on-one Personal Training sessions.
+                Prizes for 2023 to be announced.
             
             
                 <h2>When does the next Challenge begin?</h2>
 
-                <strong>Begins:</strong> Check back in Spring 2023 for more news.
-                <br /><br />
-                We will hold a Group meeting before the Challenge begins to complete initial weigh-in and measurements on <strong>Wednesday 25th August at 7pm.</strong>
+                <strong>Begins:</strong> August 2023.
                 
                 <h3>This point is very important.</h3>
                 <strong>Food diaries are non negotiable.</strong> You will be given a book and this MUST be filled in weekly, then brought in every Monday for Liz to review. 
@@ -109,7 +94,7 @@ git status
             <br /><br />
             The 15 Week Challenge is not for the faint hearted. It's a major commitment in terms of time, dedication and willpower so be realistic with yourself before committing to it.
             <br /><br />
-            Cost is £50, payable on application acceptance and is non-refundable.
+            Cost is £60, payable on application acceptance and is non-refundable.
             <br /><br />
             <strong>APPLICATIONS FOR 15 WEEK CHALLENGE ARE NOW CLOSED.</strong>
             </div>
