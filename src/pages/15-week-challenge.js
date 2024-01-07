@@ -44,7 +44,7 @@ class Challenge extends React.Component {
                 <h2>What do you get?</h2>
                 <ul>
                     <li>Measured + weighed on a set date every 2 weeks.</li>
-                    <li>Nutritional guidance from up to date evidence based Nutritionist (pending Nov 21)</li>
+                    <li>Nutritional guidance from up to date evidence based Nutritionist</li>
                     <li>Added WhatsApp group support with recipes + guidance. </li>
                     <li>Free access to our workout group for additional workouts (worth hundreds £s).</li>
                     <li>Weekly food diary review. </li>
@@ -65,7 +65,7 @@ git status
             
                 <h2>When does the next Challenge begin?</h2>
 
-                <strong>Begins:</strong> August 2023.
+                <strong>Begins:</strong> August 2024.
                 
                 <h3>This point is very important.</h3>
                 <strong>Food diaries are non negotiable.</strong> You will be given a book and this MUST be filled in weekly, then brought in every Monday for Liz to review. 
