@@ -66,15 +66,16 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 1st January 2024 until Friday 9th February 2024.
+                Monday 12th February 2024 until Friday 29th March 2024.
+                <br />(PLEASE NOTE: this Bootcamp will have a one week break mid-way so NO studio Bootcamp classes 4th, 6th, or 8th March. Back to normal from Mon 11th March 2024.)
                <br /><br />
                <strong>Days:</strong><br />
                 Monday, Wednesday and Friday each week
                <br /><br />
                <strong>Times:</strong><br />
-               <strike>Early Morning: 6AM - 6.30AM</strike> !!! SOLD OUT !!!
+               Early Morning: 5.45AM - 6.15AM
                 <br />
-                <strike>Morning: 6.45AM - 7.15AM</strike> !!! SOLD OUT !!!
+               Morning: 6.45AM - 7.15AM
 
                </div>
 
@@ -96,11 +97,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN.</strong>
                 <br /><br />
-                To get more details about the next Bootcamp, please click the button below and fill in the form.
+                To get more details and apply for a space in the next Bootcamp, please click the button below and fill in the form.
                 <br /><br />
-                <a href="/contact" className="goldbutton">Register your interest</a>
+                <a href="https://forms.gle/y9k4XRTekPom6QCAA" className="goldbutton">Apply Now</a>
 
               </div>
 
