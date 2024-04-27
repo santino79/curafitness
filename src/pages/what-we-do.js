@@ -35,7 +35,7 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Our February / March 2024 6 Week Bootcamp application window has now closed. 
+                Our April/May 2024 Bootcamp application window has now closed. 
                 <br /><br />
                 <strong>Bootcamp applications are closed for this intake.</strong>
                 <br /><br />
@@ -44,11 +44,12 @@ class WWDo extends React.Component {
                 <br /><br />
                 <br /><br />
                 <h2><em>Pilates</em></h2>
-                We offer <strong>Pilates</strong> on Tuesday evenings.
+                We offer <strong>Pilates</strong> on Tuesday evenings, Thursday mornings and Thursday evenings.
                 <br /><br />
-                Classes last for 45 minutes and are block booked for the month. Classes do book up quickly in advance but do get in touch for information on future releases.
+                Classes last for 45 minutes and are block booked for the month. 
+                Classes do book up quickly in advance but do get in touch for information on future releases.
                 <br /><br />
-                <a href="/contact/" className="button">Contact About Pilates Availability</a>
+                <a href="/pilates/" className="button">Find out more about Pilates.</a>
 
 
                 <br /><br />

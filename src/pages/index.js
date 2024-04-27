@@ -16,10 +16,10 @@ class Index extends React.Component {
         />
 
       <div className="Hero HomeHero">
-          <h1>Personal Training Space Available!</h1>
-          <h2>Permanent Monday 10.30AM slot each week.</h2>
+          <h1>Ready to build the new you?</h1>
+          <h2>We offer Bootcamp, Pilates, and Personal Training.</h2>
           <br />
-          <a href="/contact/" className="goldbutton">Get in touch now</a>
+          <a href="/what-we-do/" className="goldbutton">See what suits you</a>
       </div>
 
       <div className="Column">
@@ -67,7 +67,8 @@ class Index extends React.Component {
             <img src="images/2638-StopWatch.svg" className="icon" alt="Stopwatch" />
               <h3>Times That Suit You</h3>
               <p>
-              Life is hectic these days so we cater to all needs with sessions in early morning, in the evening and any time that suits you online.              </p>
+              Life is hectic these days so we cater to all needs with sessions from early morning to evenings.             
+              </p>
             </div>
 
           </div>
