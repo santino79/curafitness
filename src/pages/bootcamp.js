@@ -66,8 +66,7 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a better you after your six weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 12th February 2024 until Friday 29th March 2024.
-                <br />(PLEASE NOTE: this Bootcamp will have a one week break mid-way so NO studio Bootcamp classes 4th, 6th, or 8th March. Back to normal from Mon 11th March 2024.)
+                Monday 8th April 2024 until Friday 17th May 2024.
                <br /><br />
                <strong>Days:</strong><br />
                 Monday, Wednesday and Friday each week
