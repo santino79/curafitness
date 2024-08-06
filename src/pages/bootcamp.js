@@ -22,7 +22,7 @@ class Bootcamp extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Six weeks. 18 sessions. Let's get it on.</h2>
+              <h2>Eight weeks. 24 sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -32,7 +32,7 @@ class Bootcamp extends React.Component {
 
                 <div className="col-6">
                 <h2>What is Bootcamp?</h2>
-                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                Eight weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                 <br /><br />
@@ -51,7 +51,7 @@ class Bootcamp extends React.Component {
                     Have a very strict schedule with work, family or other commitments.
                     </li>
                     <li>
-                    Want to try it out for the 6 week course before deciding on your next fitness plan.                
+                    Want to try it out for the 8 week course before deciding on your next fitness plan.                
                     </li>
 
                 </ul>
@@ -63,18 +63,20 @@ class Bootcamp extends React.Component {
                 <br /><br />
                 Bootcamp workouts will help build lean muscle, burn fat and calories and increase your metabolism, even after you leave the Cura studio.
                 <br /><br />
-                Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a better you after your six weeks.
+                Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a <i>better you</i> after your eight weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 8th April 2024 until Friday 17th May 2024.
+                Monday 2nd September 2024 until Friday 25th October 2024.
                <br /><br />
                <strong>Days:</strong><br />
                 Monday, Wednesday and Friday each week
                <br /><br />
                <strong>Times:</strong><br />
-               Early Morning: 5.45AM - 6.15AM
+               Early Morning: 6AM - 6.30AM
                 <br />
                Morning: 6.45AM - 7.15AM
+               <br />
+               Evening: 6.15PM - 6.45PM (Subject to demand)
 
                </div>
 
@@ -96,11 +98,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN.</strong>
                 <br /><br />
-                To get more details about our next Bootcamp, please click the button below and fill in the form.
+                To get more details and apply for our next Bootcamp, please click the button below and fill in the form.
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Register Your Interest</a>
+                <a href="https://forms.gle/vwxFqZbx1xLFrRNAA" className="goldbutton">Apply Now</a>
 
               </div>
 

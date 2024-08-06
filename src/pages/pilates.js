@@ -101,7 +101,7 @@ class Pilates extends React.Component {
                 We run Pilates classes on:
                 <br /><br />
                 Tuesday evening at 6:45pm - 7.30pm<br />
-                Thursday morning at 5.45am - 6.30am<br />
+                
                 Thursday evening at 6.45pm - 7.30pm
 
 
