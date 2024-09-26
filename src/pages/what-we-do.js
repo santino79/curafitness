@@ -35,7 +35,7 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Our September/October 2024 Bootcamp application window is now open. 
+                Our September/October 2024 Bootcamp application window is now closed. Applications for November/December bootcamp will open later in October. 
 
                 <br /><br />
                 <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
