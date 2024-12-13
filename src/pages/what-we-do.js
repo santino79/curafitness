@@ -35,7 +35,7 @@ class WWDo extends React.Component {
                 <h2><em>Bootcamp</em></h2>
                 <strong>Next Bootcamp Intake.</strong>
                 <br /><br />
-                Our September/October 2024 Bootcamp application window is now closed. Applications for November/December bootcamp will open later in October. 
+                Our January / February 2025 Bootcamp application window is now open. Click the link below for further details.
 
                 <br /><br />
                 <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
@@ -66,7 +66,7 @@ class WWDo extends React.Component {
                 <h2><em>15 Week Challenge</em></h2>
                 Our <a href="/15-week-challenge/">15 Week Challenge</a> runs from August to mid-December each year.
                 <br /><br />
-                <strong>Our 2023 15 Week Challenge has now ended. Details of our winners and their success will be shared soon.</strong>
+                <strong>Our 2024 15 Week Challenge has now ended. Details of our winners and their success will be shared soon.</strong>
                 <br /><br />
                 If it's nutrition advice and diet accountability you are after then please <a href="/contact/">contact us</a>. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
                 will be launching a full range of nutrition packages soon.  

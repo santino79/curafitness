@@ -22,7 +22,7 @@ class Bootcamp extends React.Component {
           <div className="MainContent">
             <div className="u-textCenter">
 
-              <h2>Eight weeks. 24 sessions. Let's get it on.</h2>
+              <h2>Six weeks. 18 sessions. Let's get it on.</h2>
 
               <hr className="style1" />
 
@@ -32,7 +32,7 @@ class Bootcamp extends React.Component {
 
                 <div className="col-6">
                 <h2>What is Bootcamp?</h2>
-                Eight weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
+                Six weeks, 3 x 30 minute sessions per week, shredding the pounds and inches off as you go.
                 <br /><br />
                 Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
                 <br /><br />
@@ -66,7 +66,7 @@ class Bootcamp extends React.Component {
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a <i>better you</i> after your eight weeks.
                 <h2>When is the next Bootcamp?</h2>
                 <strong>Dates:</strong><br />
-                Monday 2nd September 2024 until Friday 25th October 2024.
+                Monday 6th January 2025 until Friday 14th February 2025.
                <br /><br />
                <strong>Days:</strong><br />
                 Monday, Wednesday and Friday each week
@@ -76,7 +76,7 @@ class Bootcamp extends React.Component {
                 <br />
                Morning: 6.45AM - 7.15AM
                <br />
-               Evening: 6.15PM - 6.45PM (Subject to demand)
+               Evening: 6.15PM - 6.45PM
 
                </div>
 
@@ -98,11 +98,11 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN.</strong>
                 <br /><br />
                 To get more details and register interest for our next Bootcamp, please click the button below and fill in the form.
                 <br /><br />
-                <a href="/contact/" className="goldbutton">Register Interest</a>
+                <a href="https://forms.gle/B8MPnHRTbCXMtp9C6" className="goldbutton">Apply Now</a>
 
               </div>
 
