@@ -25,54 +25,12 @@ class WWDo extends React.Component {
 
             <div className="u-textLeft">
               <h2>What's going on at Cura Fitness?</h2>
+              <p>
+                We're preparing for our next chapter at Cura Fitness.
+                <br /><br />
+                Check back over the summer for more information on what's in store for Autumn / Winter 2025.
+              </p>
 
-            <p>
-
-                From Bootcamp to Pilates, small group studio sessions to individual one-on-one Personal Training, we've got something for everyone.
-                <br /><br />
-                Demand has been very high all through the year so spaces are limited. Check out the links below, see what catches your eye and apply ASAP to secure your spot.
-
-                <h2><em>Bootcamp</em></h2>
-                <strong>Next Bootcamp Intake.</strong>
-                <br /><br />
-                Our January / February 2025 Bootcamp application window is now open. Click the link below for further details.
-
-                <br /><br />
-                <a href="/bootcamp/" className="button">Find out more about Bootcamp.</a>
-
-                <br /><br />
-                <br /><br />
-                <h2><em>Pilates</em></h2>
-                We offer <strong>Pilates</strong> on Tuesday evenings and Thursday evenings.
-                <br /><br />
-                Classes last for 45 minutes and are block booked for the month. 
-                Classes do book up quickly in advance but do get in touch for information on future releases.
-                <br /><br />
-                <a href="/pilates/" className="button">Find out more about Pilates.</a>
-
-
-                <br /><br />
-                <br /><br />
-                <a href="https://elizabethhylands.com/"><img src="/images/EHPT400WLogov00.05.png" alt="Elizabeth Hylands Personal Training" /></a>
-                <br /><br />
-
-                Elizabeth Hylands is a certified Personal Trainer who provides personal training to women who want to make a real positive difference to their lives.
-                <br /><br />
-                Her availability is incredibly limited at the moment but check out the link below to find out more and enquire about available time slots. 
-                <br /><br />
-                <a href="https://elizabethhylands.com/" className="button">Find Out More About Elizabeth Hylands Personal Training</a>
-
-
-                <h2><em>15 Week Challenge</em></h2>
-                Our <a href="/15-week-challenge/">15 Week Challenge</a> runs from August to mid-December each year.
-                <br /><br />
-                <strong>Our 2024 15 Week Challenge has now ended. Details of our winners and their success will be shared soon.</strong>
-                <br /><br />
-                If it's nutrition advice and diet accountability you are after then please <a href="/contact/">contact us</a>. Elizabeth is a fully certified <a href="https://www.mac-nutritionuni.com/">MacNutritionist</a> and 
-                will be launching a full range of nutrition packages soon.  
-
-
-            </p>   
 
             </div>
 
