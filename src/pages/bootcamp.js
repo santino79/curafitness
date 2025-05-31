@@ -65,18 +65,7 @@ class Bootcamp extends React.Component {
                 <br /><br />
                 Working in a small group setting under the watchful eye of our top class trainers will really help you push on towards your goal of being a <i>better you</i> after your eight weeks.
                 <h2>When is the next Bootcamp?</h2>
-                <strong>Dates:</strong><br />
-                Monday 6th January 2025 until Friday 14th February 2025.
-               <br /><br />
-               <strong>Days:</strong><br />
-                Monday, Wednesday and Friday each week
-               <br /><br />
-               <strong>Times:</strong><br />
-               Early Morning: 6AM - 6.30AM
-                <br />
-               Morning: 6.45AM - 7.15AM
-               <br />
-               Evening: 6.15PM - 6.45PM
+                We do not have any future Bootcamp plans.
 
                </div>
 
@@ -98,11 +87,7 @@ class Bootcamp extends React.Component {
               </div>
               <div className="col-6">
               <h2>How do I sign up for Bootcamp?</h2>
-                <strong>BOOTCAMP APPLICATIONS ARE NOW OPEN.</strong>
-                <br /><br />
-                To get more details and register interest for our next Bootcamp, please click the button below and fill in the form.
-                <br /><br />
-                <a href="https://forms.gle/B8MPnHRTbCXMtp9C6" className="goldbutton">Apply Now</a>
+                <strong>BOOTCAMP APPLICATIONS ARE NOW CLOSED.</strong>
 
               </div>
 
