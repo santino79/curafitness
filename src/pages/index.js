@@ -27,7 +27,7 @@ class Index extends React.Component {
 
             <div className="u-textCenter">
 
-              <h2>Small Group Female Fitness Classes and Personal Training.</h2>
+              <h2>Small Group Female Fitness Classes, Pilates, and Personal Training.</h2>
               <p>
               Cura Fitness is a female only boutique fitness studio based in Banbridge, County Down, Northern Ireland.
               </p>
@@ -86,17 +86,17 @@ class Index extends React.Component {
           <div className="grid-wrapper">
               <div className="box1 bgimgs bgimg1"></div>
               <div className="box2">
-                  <h2>Bootcamp</h2>
+                  <h2>Small Group Fitness Classes</h2>
                   <p>
-                  <strong>Ready to put your past behind you and build a new you?</strong>
+                  <strong>Ready to build a new you?</strong>
                   <br /><br />
-                  Not for the faint hearted, Bootcamp means interval training – bursts of intense activity alternated with intervals of lighter activity.
+                  Not for the faint hearted, our small group classes mean interval training – bursts of intense activity alternated with intervals of lighter activity.
                   <br /><br />
-                  Whether it's early mornings or in the evenings, we offer times that suit you.
+                  Whether it's mornings or evenings, we offer times that suit you.
                   <br /><br />
                   From beginners and those getting back into fitness after a time away, we've got something for everyone.
                   <br /><br />
-                  <a href="/bootcamp/" className="button">Find Out More About Bootcamp</a>
+                  <a href="/contact/" className="button">Find Out More About Class Availability</a>
                   </p>              
                 
               </div>
@@ -124,13 +124,15 @@ class Index extends React.Component {
 
           <div className="TestOverlay">
             <div className="MainContent u-textCenter whiteWords">
-            <h2 className="whiteWords">Listen to some feedback from our members</h2>
+            <h2 className="whiteWords">Listen to some feedback from our customers</h2>
             <p>
-            “I couldn’t recommend Cura Fitness enough. I found it hard to get back to fitness after having a child due to time constraints so the early risers suits me perfectly. No mummy guilt for missing play time as she is snoozing!” – Audrey
+            “I would highly recommend Liz without hesitation to anyone who is considering availing of her services” – Karen
             <br /><br />
-            “love love love Cura Fitness and the classes here! Liz is amazing and knows exactly what she’s talking about, so encouraging and motivating too. Ive seen some great results and changes after just 6 weeks of boot camp and will definitely be booking back in! Honestly cannot recommend enough!” – Amy
+            “I am delighted with my results at Cura. Liz has supported me every step of the way” – Marion
             <br /><br />
-            “I have to say that I am loving my new exercise regime with Liz at Cura fitness…the class times offered allow me to slot workouts in around my busy family and work life. Plus the workouts are only 30mins, are fun and extremely effective. These classes are ideal for anyone with a busy lifestyle but who recognises the importance of health and fitness.” – Stephanie
+            “Liz has supported me every step of the way especially during this challenge. Liz is very passionate and provides support to all her clients.” – Denise
+            <br /><br />
+            "I will be forever grateful to Liz for what she has done for me and I can’t wait to continue training with her." - Sarah
             </p>
             </div>
           </div>

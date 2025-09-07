@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 class WWDo extends React.Component {
   render() {
@@ -10,7 +10,7 @@ class WWDo extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
+        <Seo
           title="What We Do"
           keywords={[`cura fitness`, `what we do`]}
         />
@@ -26,9 +26,17 @@ class WWDo extends React.Component {
             <div className="u-textLeft">
               <h2>What's going on at Cura Fitness?</h2>
               <p>
-                We're preparing for our next chapter at Cura Fitness.
+                We've moved into our new home at 69 Bridge Street, Banbridge and are ready for a whole new chapter at Cura Fitness.
                 <br /><br />
-                Check back over the summer for more information on what's in store for Autumn / Winter 2025.
+                We currently offer:
+                <br /><br />
+                <ul>
+                  <li>Small group studio fitness classes</li>
+                  <li>Pilates</li>
+                  <li>Individual one-on-one Personal Training</li>
+                </ul>
+                
+                More more details on times and availability, please <a href="/contact/">get in touch</a>.
               </p>
 
 

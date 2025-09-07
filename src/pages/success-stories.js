@@ -27,528 +27,198 @@ class SuccessStories extends React.Component {
             <h2 className="u-textCenter">In their own words.</h2>
             <hr className="style1" />
 
-            A collection of success stories from our members and clients, showing just what being a part of Cura Fitness has meant to them and their lives.
+            A collection of recent success stories from our clients, showing just what being a part of Cura Fitness has meant to them and their lives.
             <hr className="style1" />
 
 
             <div className="u-textCenter">
 
-            <h2>2022 Bootcamp Success Stories</h2>  
-
-            <h3>Charlene</h3>  
-            <img src="/images/charlene-ogle-20221030.jpg" alt="Charlene" />
+            <img src="/images/success-story-1-2025.jpg" alt="Success Story 1 2025" />
             </div>
             <br /><br />
 
-            8 Weeks of taking part in The 15 Week Challenge, Bootcamp along with 4 weeks of (one session per week of) small group personal training 
-            and this is Charlene now, with over 14 inches off to date and 8lbs!!
+            2.5 stone off to date for this fantastic Bootcamp member, who started training with me last September.  
             <br /><br />
-            Charlene was recently diagnosed with under-active Thyroid and thankfully with the correct medication and consistent training/nutrition 
-            she is seeing incredible changes after a long run there of feeling frustrated at training hard and seeing no progress. 
+            Her consistency, and hard work (opting for the heavier over light weights) have payed off - adding in some additional strength work in Group Personal Training since the new year. 
+            I have seen her body shape change so much in the past 8 months, and as she's mentioned to me before, she struggled to stick at training elsewhere - not really noticing any change in shape until she started Bootcamp. 
+            As the classes are designed for females, by a female (me!)...I definitely know why she has seen such incredible results😊
             <br /><br />
-            This is why I'm grateful that through my Mac Nutrition qualification 
-            i'm able to get alongside my clients with underlying health issues, and support them as much as possible. 
+            Super proud of you!
             <br /><br />
-            So proud of you Charlene. Thank you for not giving up, and also for trusting me. Keep the fantastic work👏      
+            In her own words:
+            <br /><br />
+            "I ate my feelings but having class to go to 3 times a week I was able to focus on those instead. I struggled with lack of any fitness when I started class but with consistently showing up I can do things now I never dreamed I would be able to. 
+            How every day tasks are easier with having lost the weight and with being stronger. I have really enjoyed being able to go at my own pace but always being pushed by you to try and improve. Best kind of training 🥰"
+            <br /><br />
+            Keep up the brilliant work💪I've really enjoyed getting to know you, and thank you for letting me share your progress photos from last summer to today😊    
             <br /><br />
 
 
             <div className="u-textCenter">
 
-            <h3>Lynn</h3>  
-            <img src="/images/lynn-moorhead-20221030.jpg" alt="Lynn" />
+            <img src="/images/success-story-2-2025.jpg" alt="Success Story 2 2025" />
             </div>
             <br /><br />
 
-            Right! This is my last post today (but I literally could post all weekend with the fantastic results we are seeing recently)🥰
+            Where do I start....
+            This incredible woman pictured below started training with us way back in 2020 - literally pre-lockdown, when we ran the "Mum's Return To Fitness" classes. 
+            Obviously circumstances changed as we moved online, but we stayed in touch and she returned to studio classes as soon as we re-opened. 
             <br /><br />
-            I wanted to share Lynn's progress over the past 8 months of Bootcamp and Pilates. 
-            Despite shoulder injury sometimes limiting movement (and needing to adapt) she has lost over 20 inches and over 6lbs!!👏
-            (Including -2.5 inches off waist, -3 off belly button, -3.2 off chest, -2 off hips)
+            The first photo here is from last summer, as due to some personal circumstances she wasn't able to attend all 3 Bootcamp classes each week, and she knew herself her nutrition wasn't where it should be. 
+            Over the past 6 months, she has shown incredible determination - cutting back on processed foods/mindless snacking, is in a very active job that requires some physical strength, so she has really focused on attending the classes each week and fuelling better around her busy schedule. 
+            She is not obsessed with the scales or "quick fixes", instead she wants to feel healthier and I have seen her body shape change so much since the new year. 
             <br /><br />
-            Lynn gives her all in every session, and I can see such a change in her shape, especially her waist and back really toning in. She has definitely grown in strength and confidence to try the exercises and if we need to change something we do. Proof that consistency is key!
-            <br />
-            Very proud of you Lynn, keep it up, and thank you for supporting us 😀             
+            I also want to comment on how amazing a person she is. She is honest, loyal, kind and has stuck by me through thick and thin. I'm very grateful to be surrounded by ladies like her. An inspiration ❤️          
           <br /><br />
 
           <div className="u-textCenter">
 
-          <h3>Fiona</h3>  
-          <img src="/images/fiona-mcardle-20221030.jpg" alt="Fiona" />
+          <img src="/images/success-story-3-2025.jpg" alt="Karen 2025" />
           </div>
           <br /><br />
 
-          Incredible 8 months results for Fiona (who attends our Bootcamp), as she has lost almost 24 inches and over 18 lbs!!👏
-          This includes almost -5 inches off her belly button, -4.5 inches off her waist, -3.5 inches off her chest and -3 inches off her hips. 
-          (In this 8 Week Bootcamp alone she lost almost 14 of those inches and just over 4lbs)
+          Back in September 2022, Karen contacted me regarding starting one-to-one personal training with me once a week. 
+          Having both Fibromyalgia, Underactive Thyroid and having gone through early menopause in her late 20's; Karen was quite anxious about getting started, and in her words from her review a few years ago: "hadn’t exercised for years was very overweight and was starting to find my mobility was getting more and more limited. That coupled with extreme fatigue and a terrible sleep pattern due to pain (sometimes only managing 2hrs of sleep a night and sometimes none at all) I was anxious about starting to exercise". 
           <br /><br />
-          If Lockdown hadn't happened, and Cura moving to Zoom Bootcamp, I never would have met Fiona so I always say one of the positives for me 
-          of that time was meeting her and her best friend Clare (who I shared progress photo off a few days ago). 
-          I'm very grateful for both their friendship.
+          In the time she has trained with me, Karen has had great progressive weeks, and not so great weeks with her health, so we take full advantage of the good, and work with her mobility the best we can. She tells me all the time how as her PT I know exactly what she is capable of, and the mix of moderate strength work coupled with Pilates helps with her aches and pains. 
+          To date Karen has lost almost 2 stone in weight, along with 30 inches. Her biggest losses being -6 inches off her belly button, -3 inches off her chest, -4 inches off her hips, -3.5 inches off her waist, -8 inches off both arms, -6 inches off her legs. 
+          I have noticed her shape change and she looks so much healthier and happier in herself. She is now down 2 dress sizes from starting her journey😊
           <br /><br />
-          Fiona sent me a message when I asked if I could share her progress: 
-          <br />
-          "im delighted with my progress in general. Feel healthier and much stronger. Exercise is great for the head too. Lovely bunch of girls too. Thanks to you for putting such good thought into the classes, all different and working every muscle group, love it! ❤ " 
-          Thanks so much for this, and for all your encouragement. Very proud of you! Keep up the great work!! You're proof again that consistency is key🙂         
+          "Liz was recommended to me and I decided to take the plunge and started with Liz once a week with a one to one lesson. Liz was so welcoming and assuring and put me at ease right away. 
+          After discussing my health details and any concerns I had she chatted about what I wanted to achieve during our classes. 
           <br /><br />
-
-          <div className="u-textCenter">
-
-          <h3>Danielle</h3>  
-          <img src="/images/danielle-graham-20221030.jpg" alt="Danielle" />
-          </div>
+          She has helped my mobility tenfold - from being unable to get out of a chair unaided I can now do this for myself. I was unable to pick things up if I dropped them and certainly was unable to get up off the floor if I ever managed to get down in the first place.
+          She has helped and encouraged me at my pace and has always been professional and knowledgeable regarding my issues.
           <br /><br />
-
-          When you measure - then measure again to be 100% sure the numbers are correct - as Danielle had just under -10 inches off her belly button 
-          alone tonight, after 8 weeks of Bootcamp🙌
+          I would highly recommend Liz without hesitation to anyone who is considering availing of her services."
           <br /><br />
-          In total she has almost 20 inches off all over, along with -9lbs off. Incredible progress!🥳
-          <br />
-          The photos say everything, as check out how much leaner and stronger she looks!!💪
-          <br /><br />
-          Danielle has also brought in her food diaries for me to review in recent weeks, 
-          and she is following my nutritional guidance to achieve even better results for herself. Her positive mindset, 
-          full attendance during the 8 week Bootcamp, and willingness to take on feedback have all proved to work for her and I'm so very proud.
-          <br /><br />
-          Keep it up, Danielle! You are doing brilliant 👏           
+          On a personal note, I have loved every moment of getting to know Karen. She is one of the most loyal, kindest ladies I know. We have had many a laugh, and maybe the odd emotional moment too (mostly me haha), and I'm incredibly grateful to her for putting her trust in me for the past few years. I love that you have worked healthily towards your goal for turning 60, Karen. To see you improve in confidence and energy has been a joy to see❤️     
           <br /><br />
 
 
           <div className="u-textCenter">
 
-          <h3>Clare</h3>  
-          <img src="/images/clare-farrell-20221030.jpg" alt="Clare" />
+            <img src="/images/marion-15wkchallenge-2024.jpg" alt="Marion 15 Week Challenge 2024" />
           </div>
-          <br /><br />
+            <br /><br />
 
-          ⭐️This is what consistency looks like⭐️
-          <br /><br />
-          8 Weeks of Bootcamp, along with weekly food diaries being brought in, and literally simple, achievable changes in nutrition taken on board. 
-          Clare enjoyed a long weekend away during this Camp - proving you can still enjoy life with NO food shame, AND still achieve incredible results. 
-          <br /><br />
-          So proud of you Clare, and thank you for letting me share your progress to date. Bring on the next 6 Week Bootcamp and the rest of the Challenge🙌      
-          <br /><br />
-
+            Massive congratulations to the Winner of The 15 Week Challenge, Marion Fleming 👏
+            <br /><br />
+            Marion attended my Bootcamp 3 mornings per week, and also sent her food diary to me every Monday - taking on feedback for better nutrition, and her incredible results are very obvious in the photo below - including -5.3 inches off her arms (flexed & unflexed), -3.8 inches off her chest, -4.8 inches off her waist, -7.4 inches off her belly button, -3.8 inches off her hips, -5.4 inches off both legs (thighs & calves). Total of -30.8 inches!! Unreal. 
+            All this and a big 60th birthday last month too!!🥳We didn't focus on the scales - only taking baseline weight, midpoint and final weight - however Marion lost -9.3kg (over 20lbs) over the 15 Weeks. Her shape has completely changed, and she is healthier and happier in herself. 
+            <br /><br />
+            Marion sent me a very kind review below:
+            <br /><br />
+            “I am delighted with my results at Cura. Liz has supported me every step of the way, as she does with all her clients. In addition to her training knowledge she is fully qualified in nutrition and Pilates. When I hit a plateau she knew exactly what to recommend to get me back on track. And when I lacked motivation she was there to spur me on and encourage me. In Cura there is such a non judgmental, supportive community of women who all look out for each other - it truly is a unique gym experience. Thank you to everyone’s support”      
+            <br /><br />
 
           <div className="u-textCenter">
 
-          <h3>Melissa</h3>  
-          <img src="/images/melissa-mccullough-20221030.jpg" alt="Melissa" />
+          <img src="/images/denise-15wkchallenge-2024.jpg" alt="Denise 15 Week Challenge 2024" />
           </div>
           <br /><br />
 
-            Hugely proud of the lovely Melissa McCullough, who has lost over 15 inches and almost half a stone from January by taking part in our Bootcamps. 
-            With -3 inches off her arms, -3 inches off her chest/back, -2 off her waist, -2 off her hips, and legs have -4.5 inches off thighs and calves.
-            <br /><br />
-            Melissa has stuck with me from summer 2018, through lockdowns and changes along the way; 
-            always providing encouragement and kind words to all of us in every class.
-            <br /><br />
-            Thank you so much for your friendship and loyalty, Melissa. So proud of you!! 
-            You are looking fantastic! So glad intermittent fasting is helping you too x          
-            <br /><br />
-
-            <div className="u-textCenter">
-
-            <h2>15 Week Challenge Success Stories 2021</h2>  
-
-            <h3>Marion Fleming - 2021 Challenge Winner!</h3>  
-            <img src="/images/marion-fleming-20211218.png" alt="Marion Fleming" />
-            </div>
-            <br /><br />
-
-          Congratulations to the amazing Marion Fleming who came 1st and won the 15 Week Challenge!!👑
+          Congratulations to the runner up of The 15 Week Challenge Denise Medea 👏
           <br /><br />
-          The 1st photo was in August (right before the Challenge started), and the 2nd was taken 17th December. 
+          Denise showed 100% dedication throughout with taking on feedback (including green veg ha!), and like Marion, attended Bootcamp 3 mornings per week; and despite her health not being 100% more recently, has lost -28.5 inches along with -16.7lbs!
+          Inch losses were -5.3 inches off her arms, -3.8 inches off her chest, -4.8 inches off her waist, -7.4 inches off her belly button, -3.8 inches off her hips, -5.4 inches off both legs. 
           <br /><br />
-          Marion lost -30.8 inches along with -24.4lbs!! 
+          Brilliant work Denise👏
           <br /><br />
-          She lost -4 inches off her arms, just over -8 inches off her chest + waist, -6.5 inches off her belly button, -5 inches off her hips, -6.5 inches off her thighs + calves. 
+          Denise very kindly wrote the following review:
           <br /><br />
-          She looks like a different person, and so toned! And Marion brought her food diary in every week for review, and ate such a varied diet - but fish + salad was definitely her go-to, along with nuts, seeds and also the intermittent fasting worked exceptionally well for both Marion, and her partner Denise (who came 2nd🥳!).
+          "i am extremely happy with my results. Liz has supported me every step of the way especially during this challenge. Liz is very passionate and provides support to all her clients. In addition to her training knowledge she is fully qualified in nutrition which has been extremely beneficial when struggling to find foods that work for weight loss and building strength . When times were tough and I lacked motivation she was always there to encourage me. In Cura there is a very supportive group of women who all look out for each other and have some fun along the way. Everyone gets along and it is a very welcoming place."
           <br /><br />
-          Marion initially came to me during lockdown to start building her core, due to bulging discs in her back. She also has struggled with a few other injuries along the way but we always adapted and she has gone from strength to strength 💪 I am so proud of you, Marion, and couldn't ask for a better friend/s in my life (including Denise of course) as you 2 always encourage, support and look after me, so thank you❤
+          Super proud of you D! Well done!!
           <br /><br />
-          Delighted for you!!            
-            <br /><br />
 
+          <div className="u-textCenter">
 
-            <div className="u-textCenter">
-
-            <h3>Claire Campbell</h3>  
-            <img src="/images/claire-campbell-20211218-1.png" alt="Claire Campbell" />
-            <br />
-            <img src="/images/claire-campbell-20211218-2.png" alt="Claire Campbell" />
-            </div>
-            <br /><br />
-            A massive congratulations to Claire Campbell, who came 3rd in the 15 Week Challenge and lost -24.9 inches, along with -13.2lbs!🥳
-            <br /><br />
-            Claire lost a massive -8 inches from her belly button alone! Along with -4 off her arms, -4.5 off waist + chest, -8.5 off hips + legs!!
-            <br /><br />
-            As everyone knows, this is not Claire's first rodeo when it comes to Challenges! This is her second time now achieving great success, as in the 2019 Challenge she came 1st and lost -22 inches along with just over 1 stone. So she actually lost most inches this year than ever. 
-            <br /><br />
-            The difference this year too, is that Claire regularly attends x2 Group Personal Training sessions per week, Circuits twice per week, and has been doing Pilates once a week for the past month to improve flexibility. She brought her food diary in every week for review and took on all of my feedback. She enjoyed birthdays, anniversary etc and certainly did not deprive herself. We were working on variety, food to fuel training and help to benefit health. I even got her taking fish oils🙌
-            <br /><br />
-            I have no words for how proud I am of Claire. She has been my go-to over the past 3 years, especially during lockdowns and Challenges. She has become a great friend outside of work, and I think she is one of the best ladies I know when it comes to integrity and loyalty. 
-            <br /><br />
-            Outstanding work, Claire!👏             
-            
-            <br /><br />
-
-            <div className="u-textCenter">
-
-            <h3>Clare Farrell</h3>  
-            <img src="/images/clare-farrell-20211218.png" alt="Clare Farrell" />
-            </div>
-            <br /><br />
-            One of the highlights of 2021 was meeting this outstanding lady, Clare Farrell. We never would have met if it weren't for Zoom, and she has done incredibly well - as you can see the top photos were January 2021, and the bottom were taken today! Wow!! Same top - and it's literally becoming a dress! And check out the tone!!😮
-            <br /><br />
-            Clare came 8th in the 15 Week Challenge with -15.7 inches off, along with just under half a stone in weight🥳she joined as she "needed more Liz time in her life"(her words😂) so fair play haha!
-            <br /><br />
-            However bigger picture! Since January she has lost 30 inches and her shape has completely changed. 
-            <br /><br />
-            Clare attends a Group Personal Training session, along with a 1:1 Personal Training session a week with myself. Once a week she also tries to complete one of my HITT sessions from our Facebook group (free to current clients) as we have found the combination works really well for her. 
-            <br /><br />
-            I am so proud of you, Clare. Not only fantastic results, but you're a fantastic person who puts 100% into everything. To see you grow in confidence this past few months makes me so happy, and you have been such a great support to me too, so thank you xx            
-            <br /><br />
-            
-
-
-
-            <div className="u-textCenter">
-
-            <h3>Sandra Groves</h3>  
-
-            </div>
-
-            Congratulations to Sandra Groves who came 5th, and who who lost -19 inches during the Challenge along with just over -15lbs!🎉
-            <br /><br />
-          Sandra lost -6.5 inches off her arms, -4 inches off her chest + waist, -4.5 inches off her hips, -4.5 off her legs. 
+          <img src="/images/sarah-15wkchallenge-2024.jpg" alt="Sarah 15 Week Challenge 2024" />
+          </div>
           <br /><br />
-          Around half way through Sandra did begin to struggle, but the fact she came in and did what she could - as longterm she wants to be healthier, both physically and mentally in herself, which is amazing. So proud of you Sandra. You have worked hard, so i hope you're proud of how far you've come since the end of August👏keep going and we'll support you every step of the way x            
-            
-            <br /><br />
 
+          Congratulations to Sarah Devlin who came 3rd in The 15 Week Challenge 👏
+          <br /><br />
+          Sarah lost a total of 22.6 inches! Including -4.5 inches off both arms, -2.4 inches off her waist, -7.5 inches off her belly button, -3.5 inches off her hips, and -4.2 inches off both legs. 
+          Scales were not the focus of the Challenge however Sarah lost -1.9kg, showing that body shape can change significantly regardless of the reading of the scales. I know that Sarah feels so much better in herself now, which is most important. 
+          <br /><br />
+          Sarah very kindly wrote me the review below:
+          <br /><br />
+          "In May 2024 I decided to join my first bootcamp at Cura Fitness and this gym has changed my life! Liz is the most knowledgeable, patient and caring coach I could have wished for. She has taught me so much about fuelling my body properly and has brought back my love for exercise. I will be forever grateful to Liz for what she has done for me and I can’t wait to continue training with her."
+          <br /><br />
+          Well done, Sarah! Very proud of you😊oh and I should also add, between May and the Challenge starting, Sarah's shape had already significantly changed as she attended classes over the summer, and we chatted about nutrition quite a bit. So her results in 7 months have been brilliant 👏 
+          <br /><br />
 
-            <div className="u-textCenter">
+          <div className="u-textCenter">
 
-            <h3>Nicola O'Neill</h3>  
+          <img src="/images/audrey-15wkchallenge-2024.jpg" alt="Audrey 15 Week Challenge 2024" />
+          </div>
+          <br /><br />
 
-            <img src="/images/nicola-oneill-20211218-1.png" alt="Nicola O'Neill" />
-            <br />
-            <img src="/images/nicola-oneill-20211218-2.png" alt="Nicola O'Neill" />
-            </div>
-            <br /><br />
-            Congratulations to Nicola O'Neill who came 4th in the 15 Week Challenge, and lost -24 inches along with just over 15lbs! 
-            <br /><br />
-            Nicola's journey goes back to our Rugby Club days, however when I was doing my Personal Training qualification back in 2018, Nicola was my "fat loss" client, and trained 3 nights per week with me for 6 weeks. She did fantastic back then, but now with the added bonus of evidence based nutritional guidance (thanks to my Mac Nutrition studies) Nicola has made some changes to her diet, and no longer suffers with daily stomach pain caused by IBS. 
-            <br /><br />
-            Before, she did not know what a Low FODMAP diet was, yet now she is a help to others through her own experience and the bloating has reduced so much that she has a flat tummy (every time I measured I could see it getting flatter).
-            <br /><br />
-            From August '18 (first photo) to date Nicola has lost -37.5 inches and yet there is 1kg weight difference in these 2 photos. Just shows what knowledge of Nutrition and combined training can do! She has lost (to name a few) -5.5 inches off her belly button, -7 off chest + waist, -3 off hips, -11.5 inches off both thighs, -7.5 both arms. 
-            <br /><br />
-            Absolutely outstanding Nicola. So so proud of you. And thank you for sticking with me for the past 4 years❤            
-            
-            <br /><br />
-
-
-            <div className="u-textCenter">
-
-            <h3>Kelly Loughran</h3>  
-
-            <img src="/images/kelly-loughran-20211218.png" alt="Kelly Loughran" />
-            </div>
-            <br /><br />
-            Congratulations to Kelly Loughran who came 7th in the 15 Week Challenge with  -15.7 inches, along with -9lbs off! Fantastic!
-            <br /><br />
-            Kelly did not have an easy time of it the past few weeks, so I was so proud she got back to us when she could and as a result, has just over-3 inches off her arms, -2 inches off her waist, -3 inches off her belly button, -3 inches off her hips, and -3.5 inches off her legs.  
-            <br /><br />
-            Along with encouraging everyone in the 6:45am Group, and dancing her way through most of the class🤣or asking "how many reps?", she always keeps the group entertained - for sure! And it sure wasn't as bubbly without her there for nearly 2 weeks😜 so thank you Kelly. Super proud of you, and grateful for your support this past (almost)2 years xx            
-            <br /><br />
+          Congratulations to Audrey who came 4th in The 15 Week Challenge👏
+          <br /><br />
+          Audrey consistently lost inches, with each 3-weekly measurement and we really drilled down into ensuring she got enough protein and essential fats and carbohydrates to fuel her pescatarian diet. We faced some challenges - literally - but all feedback was taken on as diaries were sent consistently each week. 
+          <br /><br />
+          As a result Audrey lost -21.9 inches along with 4kg (8.8lbs)👏
+          <br /><br />
+          A few losses included -4.1 inches off her arms, -1.5 inches off her chest, -2.8 inches off her waist, -5.4 inches off her belly button, -2.5 inches off her hips and -5.6 inches off both legs. Fantastic work🥳
+          <br /><br />
+          Audrey very kindly wrote the review below:
+          <br /><br />
+          "I started the 15 week challenge with Liz to push myself for greater accountability, knowing that food I was eating was even more important that the exercise. Liz made me realise very quickly that I needed to increase my protein intake, and whilst this wasn't always easy, I definitely feel the benefits and realise that with good nutrition I feel more satisfied and don't snack as much.  Liz encouraged and motivated me every step of the way and even told me off, if she needed to! Liz and all the team in Cura are so supportive and encouraging. I really enjoy the bootcamp and Pilates classes and definitely feel the benefit!  Roll on the next bootcamp classes in the new year!  Thanks a million Liz. You are Fab!"
+          <br /><br />
+          Thanks so much for this, and for your support from February this year. I'm very proud of you, and so glad you've felt the benefits 😍
+          <br /><br />
 
             <div className="u-textCenter">
 
-            <h3>Sharon McCullough</h3>  
-
-            <img src="/images/sharon-mccullough-20211218.png" alt="Sharon McCullough" />
+            <img src="/images/geraldine-15wkchallenge-2024.jpg" alt="Geraldine 15 Week Challenge 2024" />
             </div>
             <br /><br />
-            Congratulations to Sharon McCullough who came 6th in the 15 Week Challenge with over -16 inches off and -12.9 lbs🎉
+
+            Congratulations to Geraldine who came 5th in The 15 Week Challenge👏
             <br /><br />
-            Sharon has been with me now for almost 3 years, and this is the 2nd Challenge she has taken part in and done brilliant with her results. She has still enjoyed nights out, etc but has been consistent with her training and we definitely know accountability works best for Sharon.
+            Geraldine lost -20.3 inches during the Challenge, along with 7.2lbs!! Which alone is fantastic, however these photos below are her long-term progress photos dating back from 2018 to now. 
             <br /><br />
-            In her journey as a whole with Cura she has lost -24 inches! With -4.5 inches off her arms, -3 inches off her chest, -3 inches off her waist, -6 inches off her belly button, -3 inches off her hips, -4.5 off her legs.
+            Since starting Cura Fitness back in June 2018, Geraldine has lost -74.9 inches and -28.6lbs in total to date. 
             <br /><br />
-            I'm so so proud of you, Sharon, and thank you for sticking by me these 3 years. You are such a great support to me, and look forward to continuing in January with Bootcamp            <br /><br />
+            Her losses in 6+ years include -7.2 inches off her chest, -8.5 inches off her waist, -11.2 inches off her belly button, -23.4 inches off both arms flexed + unflexed combined, -20.6 inches off both legs (thighs and calves). 
+            Absolutely incredible. I'm so very proud of you Geraldine. You have had your ups and downs over the years, but the change in your shape is so noticeable, and you've worked hard this past year to improve your nutrition. 
             <br /><br />
+            Geraldine very kindly wrote me the following review (apart from the spurs & music bit🤪you can thank spotify smart shuffle i told her😂): 
+            <br /><br />
+            "I joined Cura Fitness in (what year lol) and have never regretted it, although sometimes when that 5.20 alarm goes off I do lol
+            During this time I have lost weight, put on weight, lost it again etc.. but never have I been scolded or judged, I have been accepted, encouraged and pushed. The classes have helped me with my stress levels, sleep, eating habits and strength. Our 6 am class has a great bunch of girls who are encouraging and up for a laugh at that time of the morning. Liz has been super throughout these years, working with me to adapt exercises, encouraging me to push myself, and her on-going training and learning has benefitted me greatly. She is so committed to helping and encouraging women to becoming the best versions of themselves! The only negatives are she is a spurs fan and sometimes her taste in music 🎶  Thanks Liz for all you do, I for one truly appreciate it ❤️"
+            <br /><br />
+            Geraldine proves consistency is key, and to keep showing up and working on your goals longterm. Super proud! Well done!
+            <br /><br />
+
+<div className="u-textCenter">
+
+<img src="/images/alison-15wkchallenge-2024.jpg" alt="Alison 15 Week Challenge 2024" />
+</div>
+<br /><br />
+
+Congratulations to Alison who came 6th in The 15 Week Challenge 👏
+<br /><br />
+During the Challenge, Alison lost -19.8 inches, along with -4.7kg (-10.3lbs), with a few of her inch losses being -4.2 inches off her waist, -2.1 inches off her belly button and -2.6 inches off her chest. 
+<br /><br />
+Alison started Bootcamp in January and has achieved fantastic results year to date, with -25.7 inches now off , along with -10.2kg (-22.4lbs) off year to date - with -5.2 off her waist, -4.5 inches off her belly button, -4 inches off her chest, -3.1 inches off her hips. 
+Alison enjoys her walks, and also has consistently attended Bootcamp all year. I helped her with her nutrition, and as a coeliac this proves she can have a healthier more varied lifestyle whilst still losing inches and growing stronger. 
+<br /><br />
+Well done Alison. Very proud of you 🥳
+<br /><br />
+Alison's very kind review is below: 
+<br /><br />
+"I've been doing Bootcamps at Cura from January this year, and Liz has been nothing but supportive from my first day.  The whole group of ladies are great fun, which definitely helps with the early morning starts. From I started, I have slowly lost some weight and introduced healthier eating habits, but I have got much stronger.  
+After the summer, I decided to join the Cura 15-week Challenge to give myself the push to end the year well.  It wasn't always easy, Liz encouraged us all from week one, giving great nutritional  advice, highlighting the importance of protein,  the impact of stress, and  poor sleep.  She provided sound advice every week when reviewing my food diary.  My sleep has been a problem for some time, but I can definitely say that completing this challenge has helped improve my sleep habits.  Overall, I am very pleased with my results and am looking forward to the next boot camp in the New Year.  Thank you, Liz."
+<br /><br />
 
 
 
 
-            <div className="u-textCenter">
 
-            <h2>Bootcamp Success Stories 2021</h2>  
-
-            <img src="/images/ss-bootcamp-2021-1.jpg" alt="Bootcamp Success Story #1 2021" />
-            </div>
-
-            Another day, another fantastic set of results before our next Zoom Bootcamp kicks off on Monday 22nd February.
-
-            Below is a client of mine who struggles mentally without training, and really feels guilty when she goes one week without training. We have been working on her learning how to rest for recovery, and to appreciate how hard she does work when she trains - and how getting on top of the eating makes a massive difference. Below is her very kind review👇
-            So proud of her progress!
-            <br /><br />
-            "I've been training with Liz for just over a year both in the gym and PT sessions and I have just finished the 6 week bootcamp. I was worried that an online bootcamp wouldn't be as effective as the gym but Liz has expertly tailored every session and has adapted it to suit equipment/levels etc! each session was different and although there were quite a few times I thought I was going to be sick after the bootcamp class I really enjoyed them!I must admit my eating hasn't been 100% on point and I have still noticed a difference in my body shape! I would definitely recommend bootcamp!"
-            <br /><br />
-            She also messaged when she sent me these photos to say "I haven't put these leggings on since I started the bootcamp and it was only today that I noticed a difference! my belly definitely isn't as bloated!can't wait for the next 1!"💪
-            <br /><br />
-
-
-            <div className="u-textCenter">
-
-            <img src="/images/ss-bootcamp-2021-2.jpg" alt="Bootcamp Success Story #2 Kelly Loughran 2021" />
-            </div>
-
-            <strong><em>Kelly Loughran:</em></strong> "So what can I say about Cura Fitness and the amazing Elizabeth who is behind it with her lovely hubby. I joined a year ago now mum and baby classes which were absolutely amazing. 
-            <br /><br />
-            Getting out with a very clingy baby leaving him not too far away but enough for me to get some space knowing he was welled looked after was fantastic.
-            <br /><br />
-            I felt so welcome and at home the minute I stepped in to cura such a friendly atmosphere and great fun too everyone making me feel so welcome.
-            <br /><br />
-            Unfortunately as we know lock down happened and everyones desire to stay fit took a tumble and so did motivation. In steps Liz absolutely amazing setting up on line zoom bootcamp motivating us and despite everything this year has threw at her business wise still is.
-            <br /><br />
-            Bootcamp is a fantastic not only health life saver for me physically but mentally too. I for one would be lost without the constant support and pushing liz gives us especially when needed.
-            <br /><br />
-            Liz is not only a pt to me but an amazing friend just at the end off the phone willing to help no matter what. Excellent for nutrition advise and amazing at keeping us motivated thanks so much. #femalefitness #knowyourworth #wegotthistogether "
-            <br /><br />
-
-
-            <div className="u-textCenter">
-
-            <img src="/images/ss-bootcamp-2021-3.jpg" alt="Bootcamp Success Story #3 2021" />
-            </div>
-
-            Another set of fantastic 6 week results this morning!
-            <br /><br />
-            With -9.6 lbs off, along with just over -19 inches off all over, this client is delighted with her progress to date (as am I! Amazing!) Including -3 inches off chest, -2.5 inches off belly button and 8.5 inches off both thighs!
-            <br /><br />
-            You can really see the changes in the photos below, and i know she will continue to progress into the next 6 week Bootcamp (along with my Barbell class on Saturdays).
-            <br /><br />
-            These ladies have changed physically, in fitness, and yet grown in knowledge and strength.
-            What do they all have in common? Goals! And the accountability of 6 weeks training! They will all tell you it has been tough, and they have struggled, but they have not quit.
-            <br /><br />
-            Proud of you all! See you on the 22nd February for 6 more weeks😊
-            <br /><br />
-
-
-            <div className="u-textCenter">
-
-            <img src="/images/ss-bootcamp-2021-4.jpg" alt="Bootcamp Success Story #4 2021" />
-            </div>
-
-            Another fantastic set of results from another Zoom Bootcamp member who attended all 6 weeks, along with my Saturday Barbell class.
-            <br /><br />
-            She really knuckled down on her eating - adding more vegetables to her meals, increased protein, introduced some intermittent fasting - and the result is a phenomenal -33 inches off (almost 6 inches off her belly button alone, and 10 inches off both thighs!) along with -16.5lbs!!
-            <br /><br />
-            Super proud, as not only has she worked hard, but been a great support to Cura over the past year. If it weren't for lockdown we may never have met, so I'm grateful for the clients like her who have become friends and have trusted me with their fitness and nutrition journey. I am on my nutrition journey myself, with #MacNutritionUni as an #MNUStudent2020 and love sharing my knowledge to date with my clients and seeing the difference this makes!
-            <br /><br />
-
-
-            <div className="u-textCenter">
-            <h2>Claire Campbell - 15 Week Challenge Winner 2019</h2>
-
-            <img src="/images/clairecampbell-300x300.jpg" alt="Claire Campbell" />
-            </div>
-
-            <br /><br />
-            Better late than never (on my part)....a review by our 15 Week Challenge winner, Claire Campbell - thank you so much for this!
-            <br /><br />
-            "<strong>My 15 week challenge at Cura.</strong>
-            <br /><br />
-            I have really enjoyed taking part in this challenge. From the outset Liz provided us all with a wealth of information on eating well, providing a comprehensive booklet including tips on what we should and shouldn’t eat.
-            <br /><br />
-            She also included recommendations based on what she eats herself, which was really useful. At the start it was a bit difficult to get my head round the 40/30/30 percentage splits, but the app Liz recommended is excellent for keeping track of everything.
-            <br /><br />
-            Along with this Liz monitored my food diaries and let me know what changes to make, as a result I got the hang of it all pretty quickly with Liz’s support.
-            <br /><br />
-            Following Liz’s advice I started to see the results pretty quickly and I have to say I am eating more now than I have ever eaten before! Of course during the 15 weeks life goes on and I had family birthdays, my own birthday, wedding anniversary, nights out, overnight business trips, school mid-term, etc etc, all during this time. And I enjoyed every minute of these and didn’t deny myself anything!
-            <br /><br />
-            I just made sure that a ‘day off plan’ didn’t turn into a ‘week off plan’ (it may have turned into a couple of days here and there J) and I got straight back on the wagon knowing Liz was monitoring my food diary!
-            <br /><br />
-            I think this is why the 15 weeks has just flown in – I managed to achieve amazing results whilst still enjoying normal activities. What I’m taking from it is that it is a lifestyle change, one that I can maintain long term and not just a fad diet.
-            <br /><br />
-            During the 15 weeks I attended Liz’s boot camp classes 3 times a week and the circuits and ab blast on a Saturday morning. I really enjoy these classes as each and every one is different.
-            <br /><br />
-            Over the 15 weeks I feel my fitness has increased significantly, I am able to push myself harder and I’m lifting heavier weights. I see the benefits in my day to day life, such as my posture is improved, I’ve more energy for running after the kids and the classes are a real stress buster!
-            <br /><br />
-            So although the challenge has come to an end, this is just the start for me– Liz has given me the tools and knowledge for me to keep going.
-            <br /><br />
-            Thanks so much to Liz, Trisha and Steph – I couldn’t have achieved what I have without your support and encouragement."            <br /><br />
-            <br /><br />
-
-
-            <div className="u-textCenter">
-            <h2>Linda Wills - Update!</h2>
-            <img src="/images/linda-wills-400x400_050122.jpg" alt="Linda Wills - Updated pics" />
-            </div>
-
-            <br /><br />
-            Loving the progress I’m making at Cura Fitness. It is the only class that has worked for me and I’ve tried quite a few🙈 The classes are fun and quick and effective which suits me perfectly. 👌
-            <br /><br />
-            I’ve been attending the body transformation group with Liz for the last 8 weeks and this has given me the nutritional advice I needed to tweak my diet and I’ve lost 12.5lbs and 15.5 inches so far leaving my totals since joining at over 51 inches and 32lbs!!!!
-            <br /><br />
-            A big thank you to the Cura team for all their guidance and support  🙏 and for the other members for making the classes fun I could never have achieved this on my own  😊😘 
-            <br /><br />
-
-            <div className="u-textCenter">
-            <h2>Linda Wills</h2>
-            <img src="/images/linda_wills-196x300.jpg" alt="Linda Wills" />
-            </div>
-
-            <br /><br />
-            Thank you so much for these fantastic photos Linda Wills along with your brilliant testimonial below. We love having you as part of Cura. You show such strength & dedication. Your body shape has changed completely & we are all so proud of you.
-            <br /><br />
-            “I joined Cura Fitness in March 2018 after winning a Facebook competition for one months free classes. Once i started i was instantly hooked. I hadn’t exercised in some time and was fearful getting back into exercise due to underlying health conditions, however i was worrying for nothing.
-            <br /><br />
-            The small group size suited me brilliantly and i felt like no-one was judging me if i was slow or didn’t know the exercises. Liz was always on hand to adjust any i was having difficulty with and i always felt that i left the classes feeling a great sense of achievement.
-            <br /><br />
-            Ten months later i am loving exercise again! I am stronger fitter and healthier than i have been in some time having lost over 35 inches to date and have a new found love of burpees and while i still have challenges at times i’m excited to see what 2019 brings. Thank you Cura!”
-            <br /><br />
-
-            <div className="u-textCenter">
-            <h2>Kirsty Wilson</h2>
-            <img src="/images/kirsty-wilson2019-11-29.jpg" alt="Kirsty Wilson" />
-            </div>
-
-            <br /><br />
-            Kirsty says:
-            <br /><br />
-            "I joined Cura in Oct 2018 wanting to make a change to my lifestyle and Cura was the perfect place. I love that the classes are a really comfortable, friendly atmosphere and the instructors are fab, always motivating and pushing me to push myself.
-            <br /><br />
-            Liz has been great helping me, even though I stress her sometimes with my weekends out (!!)) but with her support and help I’ve been able to achieve my goals and have had amazing results."
-            <br /><br />
-
-
-            <div className="u-textCenter">
-            <h2>Tina Gartland</h2>
-            <img src="/images/tinagartland2-300x300.jpg" alt="Tina Gartland" />
-            </div>
-
-            <br /><br />
-            The fabulous Tina Gartland is a different woman & has been with us since her trial week a year ago. She is part of the furniture, only missing classes to go on holiday, but ALWAYS working her training around her work schedule. She inspires others with her dedication. We are so proud of you Tina, & know Eva is too.
-            <br /><br />
-            Here is Tina’s testimonial as featured in Banbridge Chronicle:
-            <br /><br />
-            “I joined Cura Fitness in January 2018. At that time, due to bad health, I had gained a bit of weight which was getting me down!
-            <br /><br />
-            I had tried lots of different gyms, but hadn’t lost anything and was starting to loss hope! At Cura Fitness, I was made very welcome and at ease, as Liz was aware of my health conditions and told me to just go at my own pace and how to adapt the exercises that I wasn’t able to do!
-            <br /><br />
-            After a short space of time I could see my body shape changing, which encouraged me to keep at it! From I joined cura I have not only lost weight but my health both physically and mentally has improved. I also don’t feel like I am being judged for the things I can’t do as there are a lot of people who have health conditions which restricts what they can do, so everyone is so supportive!
-            <br /><br />
-            Through Cura I have made some lovely friends! My life has changed for the better which is all down to Cura Fitness and all their guidance and support”.
-            <br /><br />
-
-            <div className="u-textCenter">
-
-            <h2>Charlene Ogle</h2>
-
-            <img src="/images/charleneogle-300x300.jpg" alt="Charlene Ogle" />
-            </div>
-
-            <br /><br />
-            Thank you to Charlene Ogle for her brilliant review below. We continue to be so very proud to have you as a member at Cura Fitness. You are driven, motivated & committed which is why you deserve these brilliant results.
-            <br /><br />
-            “I joined Cura Fitness almost one year ago and and am loving it and the results.
-            I have tried many different gyms and exercise classes but never stuck them out, Cura Fitness changed all that. From the first time i entered Cura Fitness i was made to feel very welcome by both the Cura team and the other members and for once i didnt feel out of place in a gym setting.
-            <br /><br />
-            I attend Cura 3 times a week and do a variety of classes including circuits, core and RT24. There really is something to suit everyone.
-            My body shape has really improved, im much more toned, so much fitter and above all so much happier in myself.
-            <br /><br />
-            I can’t recommend Cura Fitness highly enough, it is really great fun, good laugh and it works. The atmosphere is non judgemental and all the girls encourage each other.
-            <br /><br />
-            Thank you everyone at Cura Fitness for helping me achieve my goals”
-            <br /><br />
-
-            <div className="u-textCenter">
-            <h2>Catherine McGrath</h2>
-            <img src="/images/catherine-mcgrath-300x300.jpg" alt="Catherine McGrath" />
-            </div>
-
-            <br /><br />
-            So proud of my lovely PT Client, Catherine, who first came on with us through Boot Camp one year ago. She did brilliantly well during the 6 weeks, and lost -18 inches. After which, she joined as a Member and continued to grow in strength and fitness.
-            <br /><br />
-            In September she came on with me as a PT Client and took part in the 15 Week Challenge. The other 2 ladies in her PT group were a brilliant support, and really rallied behind Catherine as week after week she continued to progress in every way. Catherine lost 17 inches during the Challenge and a total of 17.8lbs! This was with a few trips away and other events thrown into the mix.
-            <br /><br />
-            Around this she worked really hard to plan her meals and stay consistent in her nutrition. As a result she came 6th in the Challenge 🎉And in her One Rep Max Squat Test before Christmas she achieved a ORM of 107.5kg. Outstanding!
-            <br /><br />
-            Catherine has lost a total of -3.5 off her arms, -3 inches off her chest, -4 inches off her waist, -6.5 inches off her belly button, -3 inches off her hips and a massive 10 inches off both legs!
-            <br /><br />
-            Catherine's Review after the 15 Week Challenge 👇
-            <br /><br />
-            "I’ve been a member at Cura almost 1 year now. My goals when joining were to lose weight, get fit and find something that I enjoy so that I can stick with! During this time I am happy to say I have achieved all 3 goals.
-            <br /><br />
-            When Liz announced the 15 week challenge I was definitely keen to take part. This was the extra push and motivation that I needed after enjoying the summer 😊
-            <br /><br />
-            During these 15 weeks there were many challenges, between holidays and weekends away. Liz was always on hand offering support and guidance at any time it was needed, night or day. Whether it was suggestions on food options, and just the general encouragement that I needed.
-            <br /><br />
-            Liz also went out of her way to accommodate any weigh-ins/measurements, always at a time suitable for me even when she was not due to be working. I don’t know of anywhere else you would get this level of commitment."
-            <br /><br />
-            So proud of you and what you have achieved, Catherine, and I know will continue to achieve in 2020!            <br /><br />
-            <br /><br />
-
-
-            <div className="u-textCenter">
-            <h2>Sarah McCahon</h2>
-            <img src="/images/sarahmccahon2-300x300.jpg" alt="Sarah McCahon" />
-            </div>
-
-            <br /><br />
-            Sarah McCahon, we are all SO proud of your progress in (almost) the last year. Sarah is so dedicated, that she was back in training on the 27th December as soon as we re-opened after the Christmas break. You deserve these fab results, Sarah, & you’re looking amazing!!
-            <br /><br />
-            Read Sarah’s testimonial below:
-            <br /><br />
-            “After feeling I needed to do something to lose weight, a friend recommended Cura to me and it honestly was the best decision I could have made to join in April 18. I have met some amazing people and made some life friends through the classes and instructors.
-            <br /><br />
-            They are always there to help motivate and give advice and are always there to help me along the way. Since joining, I have lost a total of 21.5 inches, have gained more confidence in myself and it has helped dramatically with my anxiety and overthinking.
-            <br /><br />
-            There is such a variety of classes to choose from each week and I would highly recommend Cura Fitness to anyone who wants and is willing to make a change in their life for the better. I could not speak highly enough of the instructors and honestly could not have got to where I am today without them.”
-            <br /><br />
-
-
-
-            <div className="u-textCenter">
-            <h2>Audrey Docherty</h2>
-            <img src="/images/audreydocherty-300x273.jpg" alt="Audrey Docherty" />
-            </div>
-
-            <br /><br />
-            I am SO proud of this amazing lady, who I am privileged to call my friend, & one of the most kindest, loyal people I know – Audrey Docherty.
-            <br /><br />
-            She has been by my side from that first trial week in Jan ’18 at the Rugby Club & still attends her 3 morning classes every week, no matter the weather.
-            <br /><br />
-            35 Inches off to date!! 
-            <br /><br />
-            Some of Audrey’s biggest losses have been 7 Inches around her waist; 7 Inches off her lower abs; 7 Inches off her mid thigh. And still going strong. Below is her testimonial:
-            <br /><br />
-            “I have been attending Cura Fitness for a year now and I have to admit that I love it! I never thought I would be deliberately (without the help of my child!) waking up at 5am to go and do gym work. I had put on a lot of weight after having my child, my fitness levels were atrocious and I struggled to walk the dog without being out of puff.
-            <br /><br />
-            I have tightness in my joints which can make any jumping and some kinds of lifting very hard. I have left many gyms and classes previously due to being unsupervised and lifting badly or using equipment wrong, resulting in hurting my back or hip and then being too sore to return.
-            <br /><br />
-            Liz took all of this onboard and has helped me to adapt exercises to suit my body and ability, while still ensuring I get a serious full workout. The workouts are only half an hour and this means I am not missing out on precious time with my child yet still staying healthy.
-            <br /><br />
-            Liz ensures there are workouts at times of the day to suit working days and mums, and also to suit people who have school age children or tight schedules. Liz, Trisha and the team at Cura Fitness have become friends to me and I feel like I can talk to them about any issues or queries I may have, regarding my health, my fitness or ability to attend, or just to have a giggle with!
-            <br /><br />
-            I now have a set of ‘guns’ to be proud of and want my goal this year to work on my ‘mummy core’. Thank you to everyone at Cura Fitness for helping me to become a better me……and a huge thank you from my dog who loves being brought on a walk now as he gets a good hour at a fast trot!”
-            <br /><br />
-
-            <div className="u-textCenter">
-            <h2>Nicola O'Neill</h2>
-            <img src="/images/nicolaoneill-212x300.jpg" alt="Nicola O'Neill" />
-            </div>
-
-            <br /><br />
-            “I could not recommend Cura Fitness enough. No matter what fitness level you are. The classes are a perfect size and Liz and the team are always there on hand if you ever have a problem or need that extra push.
-            <br /><br />
-            I am looking forward to what 2019 has in store for my fitness journey with Cura Fitness.“
-            <br /><br />
 
           </div>
         </div>

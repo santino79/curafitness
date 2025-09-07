@@ -22,13 +22,6 @@ class ContactIndex extends React.Component {
 
               <h2>Thanks! We'll get back to you soon.</h2>
 
-              <h3>Company Information</h3>
-                <em>
-                Cura Fitness Ltd is a limited company registered in Northern Ireland (Company Reg No: NI653208).
-                <br />
-                Our registered office is 20 Upper Water St, Newry BT34 1DJ
-                </em>
-
             </div>
           </div>
         </div>
