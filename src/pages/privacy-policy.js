@@ -20,7 +20,7 @@ class PrivPol extends React.Component {
             <div className="u-textLeft">
             <h1>Privacy Policy</h1>
 
-            Cura Fitness Ltd (“us”, “we”, or “our”) operates https://curafitness.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+            Cura Fitness (“us”, “we”, or “our”) operates https://curafitness.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 <br /><br />
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
@@ -56,7 +56,7 @@ The security of your Personal Information is important to us, but remember that 
 
 <h3>Changes To This Privacy Policy</h3>
 
-This Privacy Policy is effective as of 25/06/2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 01/09/2025 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 <br /><br />
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 <br /><br />

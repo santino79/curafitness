@@ -21,9 +21,9 @@ class TermsCon extends React.Component {
             <h1>Terms and Conditions</h1>
 
               <p>
-              Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Cura Fitness Ltd’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
+              Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Cura Fitness’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
 <br /><br />
-The term ‘Cura Fitness’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is 20 Upper Water St, Newry BT34 1DJ. Our company registration number is NI653208 (registered as a company in Northern Ireland). The term ‘you’ refers to the user or viewer of our website.
+The term ‘Cura Fitness’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is 20 Upper Water St, Newry BT34 1DJ. The term ‘you’ refers to the user or viewer of our website.
 <br /><br />
 The use of this website is subject to the following terms of use:
 
